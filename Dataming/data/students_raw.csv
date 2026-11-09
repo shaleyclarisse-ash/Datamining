@@ -1,0 +1,23 @@
+student_id,full_name,age,course,city,attendance_pct,exam_score,study_hours,enrollment_date,email
+S001, Ana Cruz ,19, bsit , digos ,95,88,8,2026-08-01,ana@example.com
+S002,Ben Santos,20,BSCS,Davao,90,85,7,2026-08-02,ben@example.com
+S003,Carla Reyes,,B.S.I.T.,DIGOS,88,79,6,03-08-2026,carla@example.com
+S004,Dan Lim,twenty,BSIS,Tagum,85,75,5,2026-08-04,danexample.com
+S005,Ella Tan,21,bsba,Digos,92,91,9,2026-08-05,ella@example.com
+S006,Fred Uy,250,BSIT,Davao,140,105,8,2026-08-06,fred@example.com
+S007,Gina Lee,19,BSCS, Davao ,80,70,4,2026-08-07,gina@example.com
+S008,Hugo Ramos,22,BSIS,Tagum,75,-5,3,2026-08-08,hugo@example.com
+S009,Ian Torres,20,Information Technology,Digos,NaN,82,6,09-08-2026,ian@example.com
+S010,Jane Flores,18,BSBA,Davao,98,95,10,2026-08-10,jane@example.com
+S011,Kai Garcia,19,BSIT,Digos,87,N/A,5,2026-08-11,kai@example.com
+S012,Lia Mendoza,21,BSCS,Davao,90,86,60,2026-08-12,lia@example.com
+S013,Mark Aquino,20,BSIS,Tagum,82,78,4,2026-02-30,mark@example.com
+S014,Nina Diaz,19,?,Digos,94,89,8,2026-08-14,nina@example.com
+S015,Omar Sy,22,BSBA,Davao,89,84,7,15-08-2026,omar@example.com
+S016,Pia Chua,18,BSIT,Digos,96,93,9,2026-08-16,pia@example.com
+S017,Quin Perez,20,BSCS,Davao,84,80,6,2026-08-17,quin@example.com
+S018,Rina Go,21,BSIS,Tagum,91,87,8,2026-08-18,rina@example.com
+S019,Sam Ong,19,BSBA,Digos,86,83,5,2026-08-19,sam@example.com
+, Tina Lopez ,20,BSIT,Digos,93,90,7,2026-08-20,tina@example.com
+S002,Ben Santos,20,BSCS,Davao,90,85,7,2026-08-02,ben@example.com
+ s001 ,ana cruz,19,BSIT,Digos,95,88,8,01-08-2026, ANA@EXAMPLE.COM

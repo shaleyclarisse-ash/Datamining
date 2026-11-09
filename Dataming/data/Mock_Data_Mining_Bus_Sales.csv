@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Region,Sales_Channel,Customer_Type,Product_Category,Product_Name,Quantity,Unit_Price_PHP,Discount_Rate,Revenue_PHP,Cost_PHP,Profit_PHP,Payment_Method,Sales_Representative,Promotion_Applied
+ORD-50001,2025-04-19,Northern Mindanao,In-store,Small Business,Electronics,USB Hub,1.0,669.37,0.0,669.37,240.97,428.4,Bank Transfer,Gio,No
+ORD-50002,2025-04-30,Region VII,Online,Individual,Fashion,Wallet,3.0,560.63,0.0,1681.89,605.48,1076.41,Credit Card,Eli,No
+ORD-50003,2025-11-13,NCR,In-store,Individual,Home & Living,Desk Lamp,1.0,965.94,0.0,965.94,328.42,637.52,E-wallet,Hana,No
+ORD-50004,2025-01-30,Bicol Region,Marketplace,Individual,Electronics,Wireless Mouse,5.0,459.22,0.03,2227.22,872.52,1354.7,Bank Transfer,Carlo,No
+ORD-50005,2025-10-26,Northern Mindanao,Online,Individual,Home & Living,Storage Box,2.0,300.03,0.0,600.06,252.03,348.03,Debit Card,Dana,No
+ORD-50006,2025-07-31,Region VII,Marketplace,Individual,Office Supplies,Stapler,2.0,166.87,0.0,333.74,123.48,210.26,E-wallet,Hana,Yes
+ORD-50007,2025-09-18,NCR,Corporate Sales,Small Business,Fashion,Cap,5.0,255.91,0.15,1087.62,550.21,537.41,E-wallet,Bea,Yes
+ORD-50008,2025-07-22,NCR,Marketplace,Individual,Fashion,Backpack,6.0,1172.86,0.0,7037.16,2322.26,4714.9,Cash,Alex,Yes
+ORD-50009,2025-04-04,Region III,Corporate Sales,Individual,Office Supplies,Ballpen Set,2.0,113.6,0.0,227.2,109.06,118.14,Debit Card,Eli,No
+ORD-50010,2025-07-21,Davao Region,,Corporate,Office Supplies,Bond Paper Ream,3.0,250.61,0.0,751.83,187.96,563.87,Debit Card,Eli,No
+ORD-50011,2025-05-07,NCR,Corporate Sales,Individual,Fashion,Backpack,1.0,1022.64,0.03,991.96,337.47,654.49,Bank Transfer,Gio,No
+ORD-50012,2025-12-28,Northern Mindanao,In-store,Individual,Home & Living,Desk Lamp,1.0,936.68,0.03,908.58,318.47,590.11,E-wallet,Faith,No
+ORD-50013,2025-03-03,Northern Mindanao,In-store,Individual,Electronics,Webcam,1.0,1739.2,0.0,1739.2,521.76,1217.44,Cash,Alex,Yes
+ORD-50014,2025-02-02,Region VII,Online,Individual,Sports & Outdoors,Resistance Band,2.0,312.31,0.1,562.16,281.08,281.08,Cash,Carlo,Yes
+ORD-50015,2025-10-02,Bicol Region,Online,Individual,Office Supplies,Ballpen Set,1.0,110.61,0.0,110.61,53.09,57.52,Cash,Gio,No
+ORD-50016,2025-01-18,Region VI,Marketplace,Individual,Fashion,Cap,5.0,241.68,0.0,1208.4,519.61,688.79,E-wallet,Hana,No
+ORD-50017,2025-07-11,Davao Region,In-store,Small Business,Electronics,Webcam,1.0,1749.15,0.0,1749.15,524.75,1224.4,Bank Transfer,Carlo,No
+ORD-50018,2025-06-27,Davao,In-store,Individual,Office Supplies,Ballpen Set,2.0,115.34,0.0,230.68,110.73,119.95,Credit Card,Hana,No
+ORD-50019,2025-04-03,Region III,In-store,Individual,Home & Living,Water Bottle,2.0,259.85,0.0,519.7,233.87,285.83,Debit Card,Gio,No
+ORD-50020,2025-07-20,Region VI,In-store,Individual,Sports & Outdoors,Tumbler,1.0,455.43,0.03,441.77,182.17,259.6,Bank Transfer,Dana,No
+ORD-50021,2025-06-04,Northern Mindanao,In-store,Individual,Electronics,Headset,,1325.75,0.0,3977.25,1272.72,2704.53,E-wallet,Dana,No
+ORD-50022,2025-09-21,CALABARZON,Marketplace,Individual,Office Supplies,Notebook,5.0,93.35,0.15,396.74,233.38,163.36,Cash,Alex,Yes
+ORD-50023,2025-10-30,Region VI,Marketplace,Individual,Sports & Outdoors,Resistance Band,1.0,322.88,0.05,306.74,145.3,161.44,Credit Card,Faith,No
+ORD-50024,2025-03-21,Northern Mindanao,In-store,Small Business,Office Supplies,Bond Paper Ream,4.0,256.22,0.0,1024.88,256.22,768.66,Bank Transfer,Alex,No
+ORD-50025,2025-06-01,NCR,In-store,Individual,Fashion,T-Shirt,3.0,349.17,0.05,995.13,419.0,576.13,Bank Transfer,Faith,No
+ORD-50026,2025-11-02,Region VII,In-store,Individual,Electronics,USB Hub,1.0,675.21,0.15,573.93,243.08,330.85,Cash,Bea,Yes
+ORD-50027,2025-07-17,Northern Mindanao,In-store,Individual,Fashion,Backpack,1.0,1084.54,0.0,1084.54,357.9,726.64,Bank Transfer,Alex,No
+ORD-50028,2025-03-28,Region VII,Online,Individual,Home & Living,Organizer,1.0,468.49,0.03,454.44,187.4,267.04,Cash,Dana,No
+ORD-50029,2025-02-13,Region VI,In-store,Individual,Office Supplies,Ballpen Set,4.0,113.83,0.0,455.32,218.55,236.77,Cash,Hana,No
+ORD-50030,2025-07-06,CALABARZON,Online,Individual,Office Supplies,Bond Paper Ream,1.0,274.32,0.0,274.32,68.58,205.74,Cash,Dana,No
+ORD-50031,2025-10-24,CALABARZON,Online,Small Business,Sports & Outdoors,Tumbler,4.0,393.19,0.0,1572.76,629.1,943.66,Bank Transfer,Eli,Yes
+ORD-50032,2025-12-10,Northern Mindanao,Online,Individual,Electronics,Webcam,5.0,1919.78,0.0,9598.9,2879.67,6719.23,Debit Card,Alex,Yes
+ORD-50033,2025-09-27,Northern Mindanao,In-store,Individual,Home & Living,Organizer,2.0,508.28,0.0,1016.56,406.62,609.94,Debit Card,Carlo,No
+ORD-50034,2025-01-30,Region VI,Marketplace,Corporate,Fashion,Wallet,5.0,535.6,0.15,2276.3,964.08,1312.22,Bank Transfer,Carlo,Yes
+ORD-50035,2025-10-23,NCR,Marketplace,Small Business,Home & Living,Desk Lamp,2.0,995.51,0.05,1891.47,676.95,1214.52,E-wallet,Eli,No
+ORD-50036,2025-09-26,Northern Mindanao,Corporate Sales,Individual,Office Supplies,Notebook,1.0,87.1,0.0,87.1,43.55,43.55,Bank Transfer,Eli,No
+ORD-50037,2025-10-25,Region III,Online,Individual,Electronics,Headset,8.0,1226.83,0.0,9814.64,3140.68,6673.96,Bank Transfer,Bea,No
+ORD-50038,2025-01-27,CALABARZON,Online,Small Business,Electronics,USB Hub,3.0,671.24,0.05,1913.03,724.94,1188.09,Credit Card,Hana,No
+ORD-50039,2025-09-17,Bicol Region,Marketplace,Corporate,Home & Living,Organizer,3.0,489.04,0.0,1467.12,586.85,880.27,Credit Card,Faith,Yes
+ORD-50040,2025-02-12,Region VII,In-store,Individual,Fashion,Cap,3.0,236.38,0.0,709.14,304.93,404.21,Bank Transfer,Gio,No
+ORD-50041,2025-09-07,Region VII,In-store,Small Business,Office Supplies,Notebook,1.0,79.13,0.0,79.13,39.56,39.57,Credit Card,Carlo,No
+ORD-50042,2025-01-14,Bicol Region,Marketplace,Individual,Home & Living,Desk Lamp,,915.92,0.0,3663.68,1245.65,2418.03,Bank Transfer,Faith,No
+ORD-50043,2025-04-10,Davao Region,Online,Individual,Home & Living,Water Bottle,2.0,277.31,0.0,554.62,249.58,305.04,Bank Transfer,Eli,No
+ORD-50044,2025-08-06,Region VII,Marketplace,Small Business,Office Supplies,Stapler,6.0,180.78,0.05,1030.45,401.33,629.12,Bank Transfer,Faith,Yes
+ORD-50045,2025-08-14,,In-store,Individual,Office Supplies,Bond Paper Ream,4.0,278.24,0.0,1112.96,278.24,834.72,Debit Card,Dana,No
+ORD-50046,2025-03-12,Bicol Region,Marketplace,Small Business,electronics,Headset,1.0,1186.8,0.0,1186.8,379.78,807.02,E-wallet,Faith,No
+ORD-50047,2025-07-04,Davao Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,3.0,851.43,0.0,2554.29,894.0,1660.29,Debit Card,Carlo,No
+ORD-50048,2025-07-02,Northern Mindanao,Online,Corporate,Office Supplies,Notebook,4.0,88.19,0.0,352.76,176.38,176.38,Bank Transfer,Bea,No
+ORD-50049,2025-03-29,Davao Region,Corporate Sales,Individual,Electronics,Keyboard,5.0,821.66,0.05,3902.88,1437.9,2464.98,Credit Card,Eli,Yes
+ORD-50050,2025-10-15,Davao Region,Corporate Sales,Individual,Office Supplies,Stapler,1.0,171.93,0.0,171.93,63.61,108.32,Cash,Faith,No
+ORD-50051,2025-10-06,Davao Region,In-store,Individual,Office Supplies,Stapler,3.0,175.68,0.05,500.69,195.0,305.69,Bank Transfer,Alex,Yes
+ORD-50052,2025-05-23,Region III,Marketplace,Corporate,Office Supplies,Bond Paper Ream,1.0,242.63,0.0,242.63,60.66,181.97,Cash,Bea,No
+ORD-50053,2025-10-07,Region VII,In-store,Individual,Electronics,Wireless Mouse,1.0,492.95,0.0,492.95,187.32,305.63,Bank Transfer,Faith,No
+ORD-50054,2025-06-30,Northern Mindanao,Online,Individual,Electronics,Keyboard,5.0,810.99,0.03,3933.3,1419.23,2514.07,Debit Card,Carlo,No
+ORD-50055,2025-09-15,Bicol Region,In-store,Individual,Office Supplies,Notebook,4.0,89.26,0.0,357.04,178.52,178.52,Bank Transfer,Carlo,No
+ORD-50056,2025-04-30,Davao Region,Corporate Sales,Individual,Home & Living,Water Bottle,1.0,265.2,0.0,265.2,119.34,145.86,Bank Transfer,Dana,No
+ORD-50057,2025-12-29,Region VII,Online,Individual,Sports & Outdoors,Yoga Mat,5.0,814.96,0.1,3667.32,1426.18,2241.14,E-wallet,Carlo,Yes
+ORD-50058,2025-06-30,Region III,Online,Small business,Office Supplies,Ballpen Set,4.0,126.44,0.0,505.76,242.76,263.0,E-wallet,Eli,Yes
+ORD-50059,2025-05-22,NCR,Corporate Sales,Individual,Home & Living,Organizer,8.0,501.53,0.0,4012.24,1604.9,2407.34,Credit Card,Hana,Yes
+ORD-50060,2025-03-18,Northern Mindanao,In-store,Small Business,Office Supplies,Ballpen Set,10.0,121.42,0.03,1177.77,582.82,594.95,Credit Card,Faith,No
+ORD-50061,2025-09-28,Region III,Marketplace,CORPORATE,Office Supplies,Notebook,1.0,90.74,0.0,90.74,45.37,45.37,Bank Transfer,Alex,No
+ORD-50062,2025-01-15,CALABARZON,In-store,Individual,Home & Living,Organizer,8.0,514.3,0.0,4114.4,1645.76,2468.64,Debit Card,Dana,Yes
+ORD-50063,2025-10-24,Bicol Region,Marketplace,Individual,Electronics,USB Hub,3.0,645.39,0.1,1742.55,697.02,1045.53,Debit Card,Hana,Yes
+ORD-50064,2025-01-10,NCR,In-store,Corporate,Electronics,Webcam,5.0,1698.56,0.0,8492.8,2547.84,5944.96,Cash,Faith,No
+ORD-50065,2025-02-07,Region VII,Online,Small Business,Office Supplies,Ballpen Set,5.0,131.27,0.15,557.9,315.05,242.85,Cash,Carlo,Yes
+ORD-50066,2025-12-04,Northern Mindanao,Corporate Sales,Small Business,Electronics,Wireless Mouse,2.0,484.13,0.15,823.02,367.94,455.08,Bank Transfer,Gio,Yes
+ORD-50067,2025-04-12,Davao Region,Marketplace,Individual,Office Supplies,Ballpen Set,5.0,115.67,0.0,578.35,277.61,300.74,Cash,Dana,No
+ORD-50068,2025-03-01,Northern Mindanao,Marketplace,Small Business,Electronics,USB Hub,4.0,676.38,0.0,2705.52,973.99,1731.53,Credit Card,Eli,No
+ORD-50069,2025-07-07,Region III,In-store,Individual,Sports & Outdoors,Yoga Mat,6.0,758.32,0.03,4413.42,1592.47,2820.95,Debit Card,Faith,No
+ORD-50070,2025-09-22,Region III,Marketplace,Corporate,Electronics,Webcam,6.0,1750.43,0.03,10187.5,3150.77,7036.73,Debit Card,Hana,No
+ORD-50071,2025-09-19,Northern Mindanao,Corporate Sales,Corporate,Office Supplies,Bond Paper Ream,3.0,265.75,0.03,773.33,199.31,574.02,Bank Transfer,Alex,No
+ORD-50072,2025-06-06,NCR,Marketplace,Small Business,Home & Living,Storage Box,2.0,322.78,0.03,626.19,271.14,355.05,Bank Transfer,Hana,No
+ORD-50073,2025-03-02,Davao Region,Marketplace,Small Business,Electronics,Keyboard,4.0,832.97,0.0,3331.88,1166.16,2165.72,Bank Transfer,Gio,Yes
+ORD-50074,2025-07-02,Northern Mindanao,Marketplace,Individual,Electronics,Webcam,3.0,1937.01,0.0,5811.03,1743.31,4067.72,Credit Card,Faith,No
+ORD-50075,2025-09-04,Bicol Region,Corporate Sales,Individual,Home & Living,Storage Box,3.0,295.36,0.15,753.17,372.15,381.02,Cash,Alex,Yes
+ORD-50076,2025-07-10,Region III,Online,Corporate,Office Supplies,Bond Paper Ream,3.0,249.82,0.0,749.46,187.37,562.09,Debit Card,Bea,No
+ORD-50077,2025-03-18,Region VII,In-store,Individual,Fashion,Cap,2.0,247.54,0.0,495.08,212.88,282.2,Debit Card,Gio,No
+ORD-50078,2025-06-08,Region VI,Online,Individual,Electronics,USB Hub,3.0,614.21,0.03,1787.35,663.35,1124.0,Debit Card,Hana,No
+ORD-50079,2025-10-08,Bicol Region,Corporate Sales,Individual,Fashion,T-Shirt,3.0,324.21,0.05,924.0,389.05,534.95,E-wallet,Carlo,No
+ORD-50080,2025-02-12,,In-store,Individual,Electronics,Keyboard,1.0,852.69,0.0,852.69,298.44,554.25,Debit Card,Carlo,No
+ORD-50081,2025-06-03,NCR,Marketplace,Individual,Fashion,Wallet,2.0,545.89,0.05,1037.19,393.04,644.15,Bank Transfer,Faith,Yes
+ORD-50082,2025-10-01,Bicol Region,Online,Individual,Fashion,T-Shirt,5.0,379.25,0.1,1706.62,758.5,948.12,E-wallet,Faith,Yes
+ORD-50083,2025-05-06,Region VII,In-store,Small Business,Electronics,USB Hub,3.0,682.86,0.03,1987.12,737.49,1249.63,E-wallet,Faith,No
+ORD-50084,2025-05-03,Region VI,Online,Individual,Office Supplies,Ballpen Set,1.0,125.02,0.0,125.02,60.01,65.01,Cash,,Yes
+ORD-50085,2025-11-26,Region VI,In-store,Individual,Fashion,Cap,1.0,265.11,0.05,251.85,114.0,137.85,E-wallet,Faith,No
+ORD-50086,2025-11-03,Region VI,Online,Corporate,Sports & Outdoors,Resistance Band,1.0,280.03,0.0,280.03,126.01,154.02,Debit Card,Eli,Yes
+ORD-50087,2025-10-27,Region VI,Marketplace,Individual,Fashion,Wallet,4.0,559.24,0.0,2236.96,805.31,1431.65,Debit Card,Carlo,No
+ORD-50088,2025-06-27,Region VI,Online,Individual,Office Supplies,Stapler,1.0,172.72,0.0,172.72,63.91,108.81,E-wallet,Alex,No
+ORD-50089,2025-08-28,NCR,Marketplace,Individual,Office Supplies,Ballpen Set,1.0,127.89,0.0,127.89,61.39,66.5,Debit Card,Alex,No
+ORD-50090,2025-01-18,Northern Mindanao,Online,Individual,Fashion,Backpack,2.0,1105.76,0.0,2211.52,729.8,1481.72,Credit Card,Gio,No
+ORD-50091,2025-02-16,Northern Mindanao,In-store,Individual,Home & Living,Desk Lamp,2.0,1043.31,0.03,2024.02,709.45,1314.57,Debit Card,Faith,No
+ORD-50092,2025-02-25,NCR,In-store,Individual,Sports & Outdoors,Resistance Band,1.0,290.07,0.0,290.07,130.53,159.54,Credit Card,Carlo,No
+ORD-50093,2025-11-06,Region VI,Marketplace,Small Business,Sports & Outdoors,Resistance Band,2.0,289.01,0.05,549.12,260.11,289.01,Bank Transfer,Faith,Yes
+ORD-50094,2025-12-31,CALABARZON,Marketplace,Small Business,Office Supplies,Bond Paper Ream,1.0,254.7,0.0,254.7,63.67,191.03,Cash,Dana,No
+ORD-50095,2025-01-28,Region VI,Online,Corporate,Sports & Outdoors,Tumbler,,408.86,0.0,1635.44,654.18,981.26,Credit Card,Hana,No
+ORD-50096,2025-01-20,Region III,Marketplace,Corporate,Electronics,Headset,8.0,1331.72,0.0,10653.76,3409.2,7244.56,Cash,Alex,Yes
+ORD-50097,2025-11-09,Region III,Online,Small Business,Electronics,Keyboard,3.0,907.12,0.0,2721.36,952.48,1768.88,Cash,Hana,No
+ORD-50098,2025-08-12,Davao Region,Online,Small business,Office Supplies,Ballpen Set,5.0,123.28,0.0,616.4,295.87,320.53,Bank Transfer,Carlo,No
+ORD-50099,2025-10-31,CALABARZON,In-store,Individual,Home & Living,Storage Box,3.0,305.54,0.03,889.12,384.98,504.14,Bank Transfer,Faith,No
+ORD-50100,2025-04-16,CALABARZON,In-store,Individual,Home & Living,Organizer,4.0,525.63,0.0,2102.52,841.01,1261.51,Credit Card,Bea,No
+ORD-50101,2025-06-09,Region III,Corporate Sales,Small Business,Electronics,USB Hub,3.0,679.58,0.05,1936.8,733.95,1202.85,E-wallet,Bea,Yes
+ORD-50102,2025-03-26,Region VI,Marketplace,Small Business,Electronics,Headset,1.0,1272.48,0.0,1272.48,407.19,865.29,Credit Card,Gio,No
+ORD-50103,2025-09-04,NCR,Online,Individual,Fashion,T-Shirt,5.0,345.7,0.03,1676.64,691.4,985.24,Debit Card,Dana,No
+ORD-50104,2025-08-05,NCR,Marketplace,Small Business,Sports & Outdoors,Tumbler,1.0,390.54,0.03,378.82,156.22,222.6,Bank Transfer,Faith,No
+ORD-50105,2025-09-21,Bicol Region,Online,Small Business,Sports & Outdoors,Yoga Mat,6.0,800.84,0.0,4805.04,1681.76,3123.28,Debit Card,Gio,No
+ORD-50106,2025-06-27,Davao Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,248.5,0.03,241.04,62.12,178.92,Debit Card,Eli,No
+ORD-50107,2025-11-23,Northern Mindanao,Marketplace,Individual,Electronics,USB Hub,1.0,626.71,0.0,626.71,225.62,401.09,Debit Card,Carlo,No
+ORD-50108,2025-05-09,Region III,Marketplace,Individual,Electronics,Webcam,5.0,1769.15,0.0,8845.75,2653.72,6192.03,Credit Card,Bea,No
+ORD-50109,2025-03-02,Bicol Region,In-store,Individual,Electronics,Headset,1.0,1153.17,0.0,1153.17,369.01,784.16,Cash,Alex,No
+ORD-50110,2025-01-18,Davao Region,In-store,Individual,Office Supplies,Ballpen Set,8.0,123.96,0.0,991.68,476.01,515.67,Credit Card,Carlo,No
+ORD-50111,2025-09-15,Region VI,In-store,Individual,Electronics,Keyboard,1.0,808.98,0.0,808.98,283.14,525.84,Bank Transfer,Carlo,Yes
+ORD-50112,2025-08-24,Region VI,In-store,Individual,Electronics,Webcam,1.0,1727.09,0.0,1727.09,518.13,1208.96,Bank Transfer,Gio,No
+ORD-50113,2025-04-15,NCR,Online,Individual,Fashion,T-Shirt,4.0,358.72,0.05,1363.14,573.95,789.19,Credit Card,Faith,Yes
+ORD-50114,2025-04-01,Bicol Region,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,8.0,798.32,0.03,6194.96,2235.3,3959.66,Credit Card,Gio,No
+ORD-50115,2025-05-08,CALABARZON,Marketplace,Small Business,Sports & Outdoors,Yoga Mat,2.0,764.54,0.0,1529.08,535.18,993.9,Cash,Gio,No
+ORD-50116,2025-05-23,NCR,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,8.0,721.26,0.03,5596.98,2019.53,3577.45,Cash,Eli,No
+ORD-50117,2025-11-12,Region VI,Corporate Sales,Individual,Office Supplies,Bond Paper Ream,4.0,271.11,0.0,1084.44,271.11,813.33,Cash,Carlo,Yes
+ORD-50118,2025-11-06,CALABARZON,Marketplace,Individual,Home & Living,Organizer,4.0,488.85,0.0,1955.4,782.16,1173.24,Cash,Carlo,No
+ORD-50119,2025-05-07,Region VI,Online,Corporate,Electronics,Headset,1.0,1249.72,0.0,1249.72,399.91,849.81,Bank Transfer,Dana,No
+ORD-50120,2025-02-07,Bicol Region,In-store,Individual,Sports & Outdoors,Tumbler,1.0,460.37,0.15,391.31,184.15,207.16,Cash,Hana,Yes
+ORD-50121,2025-01-18,Region VI,In-store,Individual,Office Supplies,Ballpen Set,1.0,122.78,0.03,119.1,58.93,60.17,Cash,Faith,No
+ORD-50122,2025-08-30,NCR,Marketplace,Individual,Fashion,Wallet,2.0,563.39,0.0,1126.78,405.64,721.14,Cash,Faith,No
+ORD-50123,2025-05-10,NCR,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,266.93,0.15,226.89,66.73,160.16,,Bea,Yes
+ORD-50124,2025-10-28,CALABARZON,Marketplace,Individual,Office Supplies,Stapler,10.0,174.29,0.0,1742.9,644.87,1098.03,Cash,Eli,No
+ORD-50125,2025-12-16,Region III,Corporate Sales,Individual,Electronics,Wireless Mouse,3.0,434.41,0.15,1107.75,495.23,612.52,Cash,Eli,Yes
+ORD-50126,2025-08-04,Bicol Region,Corporate Sales,Individual,Sports & Outdoors,Tumbler,2.0,425.88,0.0,851.76,340.7,511.06,Bank Transfer,Hana,No
+ORD-50127,2025-10-30,NCR,In-store,Individual,Electronics,Webcam,3.0,1887.47,0.0,5662.41,1698.72,3963.69,Debit Card,Carlo,No
+ORD-50128,2025-03-04,Region III,Online,Individual,Fashion,Wallet,10.0,547.65,0.1,4928.85,1971.54,2957.31,Debit Card,Bea,Yes
+ORD-50129,2025-05-24,Northern Mindanao,Marketplace,Individual,Electronics,USB Hub,5.0,686.02,0.0,3430.1,1234.84,2195.26,Cash,Bea,No
+ORD-50130,2025-11-15,Davao,Online,Individual,Electronics,Headset,2.0,1267.63,0.15,2154.97,811.28,1343.69,Bank Transfer,Bea,Yes
+ORD-50131,2025-09-11,Region III,Online,Individual,Office Supplies,Stapler,5.0,182.7,0.0,913.5,338.0,575.5,Credit Card,Hana,Yes
+ORD-50132,2025-06-19,Region III,Corporate Sales,Individual,Electronics,USB Hub,1.0,709.26,0.1,638.33,255.33,383.0,Debit Card,Faith,Yes
+ORD-50133,2025-04-04,CALABARZON,In-store,Individual,Home & Living,Desk Lamp,8.0,952.15,0.05,7236.34,2589.85,4646.49,Credit Card,Alex,No
+ORD-50134,2025-09-26,Region VII,Online,Corporate,Fashion,Cap,3.0,240.39,0.15,612.99,310.1,302.89,Cash,Dana,Yes
+ORD-50135,2025-09-17,Region VII,Online,Individual,Office supplies,Notebook,1.0,81.9,0.0,81.9,40.95,40.95,Debit Card,Eli,No
+ORD-50136,2025-07-14,Northern Mindanao,In-store,Individual,Electronics,USB Hub,8.0,640.14,0.0,5121.12,1843.6,3277.52,Cash,Faith,No
+ORD-50137,2025-10-24,Region VI,Online,Individual,Office Supplies,Ballpen Set,2.0,110.9,0.03,215.15,106.46,108.69,Bank Transfer,Hana,No
+ORD-50138,2025-10-30,CALABARZON,Corporate Sales,Individual,Office Supplies,Ballpen Set,2.0,126.02,0.0,252.04,120.98,131.06,Cash,Faith,No
+ORD-50139,2025-06-24,Region III,In-store,Individual,Home & Living,Organizer,4.0,519.54,0.0,2078.16,831.26,1246.9,Cash,Carlo,No
+ORD-50140,2025-04-27,CALABARZON,Marketplace,Corporate,Home & Living,Desk Lamp,4.0,933.39,0.0,3733.56,1269.41,2464.15,Credit Card,Bea,No
+ORD-50141,2025-05-07,Region VII,Corporate Sales,Small Business,Electronics,Headset,1.0,1177.62,0.0,1177.62,376.84,800.78,E-wallet,Carlo,No
+ORD-50142,2025-05-14,Region III,Marketplace,Individual,Office Supplies,Ballpen Set,10.0,115.0,0.05,1092.5,552.0,540.5,Debit Card,Faith,No
+ORD-50143,2025-08-17,Davao Region,Online,Individual,Office Supplies,Bond Paper Ream,3.0,242.43,0.05,690.93,181.82,509.11,Debit Card,Dana,No
+ORD-50144,2025-12-15,CALABARZON,Marketplace,Small Business,Electronics,Keyboard,3.0,866.2,0.15,2208.81,909.51,1299.3,Debit Card,Faith,Yes
+ORD-50145,2025-01-22,NCR,Marketplace,Individual,electronics,Wireless Mouse,5.0,458.86,0.05,2179.59,871.83,1307.76,Bank Transfer,Carlo,No
+ORD-50146,2025-11-12,NCR,Corporate Sales,Individual,Office Supplies,Bond Paper Ream,4.0,275.18,0.0,1100.72,275.18,825.54,Credit Card,Hana,No
+ORD-50147,2025-04-17,CALABARZON,Marketplace,Individual,Office Supplies,Ballpen Set,1.0,128.33,0.0,128.33,61.6,66.73,Credit Card,Hana,No
+ORD-50148,2025-07-14,NCR,Online,Corporate,Home & Living,Storage Box,3.0,347.3,0.05,989.81,437.6,552.21,Cash,Bea,No
+ORD-50149,2025-03-14,CALABARZON,In-store,Individual,Fashion,Cap,2.0,274.75,0.0,549.5,236.28,313.22,Credit Card,,No
+ORD-50150,2025-10-13,Davao Region,Online,Corporate,Electronics,USB Hub,1.0,663.09,0.05,629.94,238.71,391.23,Cash,Carlo,No
+ORD-50151,2025-09-08,Bicol Region,In-store,Corporate,Fashion,T-Shirt,3.0,381.31,0.05,1086.73,457.57,629.16,E-wallet,Faith,No
+ORD-50152,2025-01-28,CALABARZON,In-store,Small Business,Fashion,Cap,2.0,233.27,0.05,443.21,200.61,242.6,E-wallet,Bea,Yes
+ORD-50153,2025-03-15,Bicol Region,In Store,Small Business,Sports & Outdoors,Tumbler,2.0,433.29,0.03,840.58,346.63,493.95,E-wallet,Hana,No
+ORD-50154,2025-06-25,CALABARZON,In-store,Corporate,Home & Living,Storage Box,1.0,327.44,0.05,311.07,137.52,173.55,Credit Card,Eli,No
+ORD-50155,2025-08-31,Region VI,Online,Individual,Electronics,Webcam,4.0,1697.18,0.05,6449.28,2036.62,4412.66,Debit Card,Hana,No
+ORD-50156,2025-11-11,Bicol Region,In-store,Small Business,Electronics,Keyboard,1.0,788.4,0.0,788.4,275.94,512.46,Cash,Carlo,Yes
+ORD-50157,2025-09-10,Region III,Corporate Sales,Individual,Electronics,Headset,1.0,1225.95,0.05,1164.65,392.3,772.35,E-wallet,Bea,No
+ORD-50158,2025-09-17,Region VI,Online,Small Business,Electronics,Keyboard,4.0,892.4,0.03,3462.51,1249.36,2213.15,Credit Card,Hana,No
+ORD-50159,2025-06-13,Region VII,In-store,Individual,Sports & Outdoors,Tumbler,2.0,450.91,0.0,901.82,360.73,541.09,Debit Card,Bea,No
+ORD-50160,2025-07-18,ncr,In-store,Small Business,Fashion,T-Shirt,3.0,323.38,0.0,970.14,388.06,582.08,Cash,Hana,No
+ORD-50161,2025-07-25,Region III,Online,Individual,Fashion,Backpack,1.0,1068.89,0.05,1015.45,352.73,662.72,Bank Transfer,Hana,No
+ORD-50162,2025-01-08,Davao Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,4.0,284.93,0.0,1139.72,284.93,854.79,Cash,Gio,No
+ORD-50163,2025-11-13,Region VII,Marketplace,Individual,Office Supplies,Stapler,1.0,170.59,0.0,170.59,63.12,107.47,Cash,Hana,No
+ORD-50164,2025-10-17,CALABARZON,Online,Small Business,Home & Living,Storage Box,2.0,323.69,0.05,615.01,271.9,343.11,E-wallet,Eli,No
+ORD-50165,2025-06-15,CALABARZON,Marketplace,Individual,Fashion,T-Shirt,-1.0,348.98,0.05,331.53,139.59,191.94,Debit Card,Dana,Yes
+ORD-50166,2025-05-13,Northern Mindanao,Online,Small Business,Fashion,T-Shirt,6.0,378.94,0.0,2273.64,909.46,1364.18,Credit Card,Faith,No
+ORD-50167,2025-11-02,CALABARZON,In-store,Individual,Electronics,Webcam,4.0,1813.36,0.0,7253.44,2176.03,5077.41,Cash,Bea,No
+ORD-50168,2025-03-17,Region VII,Online,Individual,Home & Living,Organizer,10.0,516.32,0.0,5163.2,2065.28,3097.92,Cash,Dana,Yes
+ORD-50169,2025-02-21,Region VI,Online,Corporate,Electronics,USB Hub,2.0,629.7,0.0,1259.4,453.38,806.02,Debit Card,Gio,No
+ORD-50170,2025-07-31,Region VII,In-store,Individual,Electronics,Keyboard,4.0,912.58,0.0,3650.32,1277.61,2372.71,Bank Transfer,Hana,No
+ORD-50171,2025-07-19,NCR,Marketplace,Individual,Electronics,Webcam,4.0,1946.55,0.0,7786.2,2335.86,5450.34,Bank Transfer,Bea,No
+ORD-50172,2025-03-22,Davao Region,Corporate Sales,Individual,Fashion,Backpack,4.0,1066.27,0.0,4265.08,1407.48,2857.6,Debit Card,Hana,No
+ORD-50173,2025-06-13,Region VI,Online,Small Business,Electronics,Webcam,1.0,1688.0,0.05,1603.6,506.4,1097.2,Credit Card,Hana,Yes
+ORD-50174,2025-02-25,Region VII,Marketplace,Individual,Fashion,Cap,5.0,236.29,0.03,1146.01,508.02,637.99,Credit Card,Alex,No
+ORD-50175,2025-08-09,NCR,Online,Small Business,Sports & Outdoors,Resistance Band,5.0,308.86,0.0,1544.3,694.94,1116.83,Cash,Alex,No
+ORD-50176,2025-12-08,Region VI,Marketplace,Individual,Electronics,Keyboard,5.0,861.33,0.05,4091.32,1507.33,2583.99,Bank Transfer,Carlo,No
+ORD-50177,2025-01-12,Region VI,Online,Individual,Fashion,Cap,2.0,244.92,0.0,489.84,210.63,279.21,Debit Card,Carlo,No
+ORD-50178,2025-06-27,Region III,Online,Individual,Home & Living,Water Bottle,6.0,277.43,0.0,1664.58,749.06,915.52,Cash,Bea,No
+ORD-50179,2025-01-27,Bicol Region,Corporate Sales,Individual,Electronics,Keyboard,4.0,782.47,0.05,2973.39,1095.46,1877.93,Debit Card,Alex,No
+ORD-50180,2025-12-17,Davao Region,Online,Individual,Home & Living,Desk Lamp,3.0,1035.86,0.03,3014.35,1056.58,1957.77,Credit Card,Dana,No
+ORD-50181,2025-06-18,Davao Region,Marketplace,Small Business,Electronics,Wireless Mouse,3.0,465.9,0.03,1355.77,531.13,824.64,,Hana,No
+ORD-50182,2025-04-04,NCR,Marketplace,Individual,Electronics,Wireless Mouse,4.0,453.4,0.0,1813.6,689.17,1124.43,E-wallet,Alex,Yes
+ORD-50183,2025-09-08,Region VI,Online,Individual,Office Supplies,Notebook,,81.95,0.0,81.95,40.98,40.97,Debit Card,Bea,No
+ORD-50184,2025-11-28,CALABARZON,Online,Individual,Office Supplies,Notebook,4.0,81.28,0.03,315.37,162.56,152.81,Cash,Carlo,No
+ORD-50185,2025-10-02,NCR,In-store,Small Business,Home & Living,Storage Box,5.0,340.03,0.0,1700.15,714.06,986.09,Bank Transfer,Bea,No
+ORD-50186,2025-01-17,Davao Region,Marketplace,Corporate,Electronics,Headset,2.0,1272.49,1.25,2417.73,814.39,1603.34,E-wallet,Gio,No
+ORD-50187,2025-09-30,Northern Mindanao,In-store,Individual,Electronics,Keyboard,1.0,816.07,0.0,816.07,285.62,530.45,Credit Card,,No
+ORD-50188,2025-08-18,Region III,In-store,Small Business,Sports & Outdoors,Tumbler,1.0,410.22,1.25,410.22,164.09,246.13,Bank Transfer,Faith,No
+ORD-50189,2025-04-19,Region VI,Online,Individual,Fashion,T-Shirt,4.0,336.36,0.03,1305.08,538.18,766.9,Cash,Hana,No
+ORD-50190,2025-10-13,Northern Mindanao,Marketplace,Individual,Home & Living,Desk Lamp,2.0,903.3,0.0,1806.6,614.24,1192.36,Credit Card,Hana,No
+ORD-50191,2025-03-23,NCR,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,4.0,720.41,0.0,2881.64,1008.57,1873.07,Credit Card,Hana,No
+ORD-50192,2025-05-09,Region VII,Online,Corporate,Fashion,Backpack,4.0,1061.73,0.0,4246.92,1401.48,2845.44,E-wallet,Carlo,No
+ORD-50193,2025-12-11,CALABARZON,In-store,Individual,Home & Living,Organizer,4.0,524.19,0.03,2033.86,838.7,1195.16,Bank Transfer,Eli,No
+ORD-50194,2025-10-06,CALABARZON,Corporate Sales,Individual,Electronics,Keyboard,5.0,912.77,0.03,4426.93,1597.35,2829.58,Debit Card,Dana,No
+ORD-50195,2025-05-16,Bicol Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,10.0,833.08,0.03,8080.88,2915.78,5165.1,Bank Transfer,Alex,No
+ORD-50196,2025-10-10,Bicol Region,Marketplace,Small Business,Home & Living,Storage Box,4.0,329.72,0.05,1252.94,553.93,699.01,Debit Card,Dana,Yes
+ORD-50197,2025-01-11,Bicol Region,Marketplace,Small Business,Sports & Outdoors,Resistance Band,2.0,289.87,0.0,579.74,260.88,318.86,Debit Card,Alex,No
+ORD-50198,2025-08-25,Davao Region,Online,Individual,Home & Living,Organizer,1.0,538.38,0.0,538.38,215.35,323.03,Bank Transfer,Alex,No
+ORD-50199,2025-04-15,Region VI,online,Individual,Electronics,Wireless Mouse,4.0,475.38,0.05,1806.44,722.58,1083.86,E-wallet,Dana,No
+ORD-50200,2025-10-17,Region VII,Marketplace,Small Business,Sports & Outdoors,Resistance Band,3.0,316.22,0.05,901.23,426.9,474.33,Debit Card,Alex,No
+ORD-50201,2025-07-19,Region III,Corporate Sales,Individual,Office Supplies,Ballpen Set,3.0,131.0,0.0,393.0,188.64,204.36,Credit Card,Dana,No
+ORD-50202,2025-01-10,Davao Region,In-store,Small Business,Electronics,Wireless Mouse,2.0,448.78,0.0,897.56,341.07,556.49,E-wallet,Bea,No
+ORD-50203,2025-05-18,Region VII,Online,Corporate,Office Supplies,Ballpen Set,5.0,128.7,0.0,643.5,308.88,334.62,Credit Card,Eli,No
+ORD-50204,2025-06-07,NCR,Online,Corporate,Home & Living,Organizer,5.0,525.29,0.0,2626.45,1050.58,1575.87,Cash,Alex,No
+ORD-50205,2025-10-26,Region VII,In-store,Corporate,Electronics,Webcam,1.0,1930.88,0.0,1930.88,579.26,1351.62,Credit Card,Gio,No
+ORD-50206,2025-04-06,Region VII,Marketplace,Individual,Office Supplies,Notebook,1.0,79.46,0.0,79.46,39.73,39.73,Credit Card,Eli,No
+ORD-50207,2025-12-23,CALABARZON,Online,Individual,Office Supplies,Ballpen Set,4.0,112.53,0.05,427.61,216.06,211.55,E-wallet,Hana,No
+ORD-50208,2025-12-09,Region VI,Online,Small Business,Sports & Outdoors,Yoga Mat,4.0,774.81,0.15,2634.35,1084.73,1549.62,Cash,Hana,Yes
+ORD-50209,2025-09-18,Northern Mindanao,Marketplace,Small Business,Office Supplies,Ballpen Set,5.0,129.61,0.05,615.65,311.06,304.59,E-wallet,Bea,No
+ORD-50210,2025-09-20,Northern Mindanao,Marketplace,Individual,Sports & Outdoors,Resistance Band,8.0,279.56,0.1,2012.83,1006.42,1006.41,Debit Card,Carlo,Yes
+ORD-50211,2025-02-22,Region VI,Marketplace,Individual,Home & Living,Water Bottle,2.0,296.32,0.0,592.64,266.69,325.95,Credit Card,Dana,No
+ORD-50212,2025-10-18,NCR,Marketplace,Individual,Electronics,USB Hub,1.0,618.89,0.05,587.95,222.8,365.15,Debit Card,Bea,No
+ORD-50213,2025-05-03,CALABARZON,Online,Individual,Fashion,Cap,1.0,237.43,0.0,237.43,102.09,135.34,Debit Card,Alex,No
+ORD-50214,2025-01-30,Region III,Corporate Sales,Individual,Sports & Outdoors,Resistance Band,1.0,327.96,0.0,327.96,147.58,180.38,Credit Card,Carlo,No
+ORD-50215,2025-10-13,Bicol Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,5.0,736.96,0.05,3500.56,1289.68,2210.88,E-wallet,Alex,No
+ORD-50216,2025-07-29,Region VII,Marketplace,Individual,Office Supplies,Stapler,4.0,193.68,0.0,774.72,286.65,488.07,Cash,Dana,Yes
+ORD-50217,2025-01-29,Region VII,Online,Individual,Electronics,Wireless Mouse,5.0,493.15,0.0,2465.75,936.99,1528.76,E-wallet,Carlo,No
+ORD-50218,2025-12-06,Region VI,Corporate Sales,Individual,Office Supplies,Bond Paper Ream,8.0,240.91,0.0,1927.28,481.82,1445.46,Bank Transfer,Carlo,No
+ORD-50219,2025-08-03,Davao Region,Marketplace,Individual,Home & Living,Water Bottle,2.0,282.68,0.03,548.4,254.41,293.99,Debit Card,Gio,No
+ORD-50220,2025-08-24,Region VII,Online,Small Business,Home & Living,Desk Lamp,2.0,914.82,0.0,1829.64,622.08,1207.56,Cash,Carlo,No
+ORD-50221,2025-01-30,Bicol Region,Online,Individual,Fashion,Cap,1.0,254.08,0.05,241.38,109.25,132.13,Bank Transfer,Carlo,No
+ORD-50222,2025-12-30,NCR,Marketplace,Small Business,Office Supplies,Stapler,1.0,175.67,0.03,170.4,65.0,105.4,Bank Transfer,Gio,No
+ORD-50223,2025-08-13,Davao Region,Online,Small Business,Electronics,Wireless Mouse,3.0,420.17,0.0,1260.51,478.99,781.52,E-wallet,Eli,No
+ORD-50224,2025-05-17,Region III,Online,Individual,Office Supplies,Stapler,5.0,184.95,0.03,897.01,342.16,554.85,E-wallet,Alex,No
+ORD-50225,2025-06-08,Northern Mindanao,Marketplace,Small Business,Sports & Outdoors,Resistance Band,1.0,317.81,0.03,308.28,143.01,165.27,E-wallet,Carlo,No
+ORD-50226,2025-11-14,NCR,Marketplace,Small Business,Office Supplies,Ballpen Set,1.0,131.49,0.1,118.34,63.12,55.22,E-wallet,Carlo,Yes
+ORD-50227,2025-08-31,Region III,Corporate Sales,Small Business,Home & Living,Storage Box,4.0,332.53,0.03,1290.22,558.65,731.57,Cash,Dana,No
+ORD-50228,2025-12-21,Region VII,Marketplace,Individual,Office Supplies,Stapler,2.0,195.4,0.05,371.26,144.6,226.66,E-wallet,Carlo,No
+ORD-50229,2025-03-26,Region VI,In-store,Individual,Electronics,Headset,3.0,1302.26,0.03,3789.58,1250.17,2539.41,Cash,Alex,No
+ORD-50230,2025-02-22,CALABARZON,In-store,Individual,Electronics,Webcam,2.0,1898.75,0.05,3607.62,1139.25,2468.37,Cash,Bea,No
+ORD-50231,2025-04-16,Bicol Region,Online,Individual,Home & Living,Water Bottle,3.0,278.24,0.0,834.72,375.62,459.1,Cash,Bea,No
+ORD-50232,2025-04-02,Region VII,Marketplace,Small Business,Electronics,Webcam,4.0,1723.39,0.0,6893.56,2068.07,4825.49,E-wallet,Alex,No
+ORD-50233,2025-02-05,NCR,Online,Individual,Home & Living,Organizer,6.0,517.0,0.0,3102.0,1240.8,1861.2,E-wallet,Faith,No
+ORD-50234,2025-06-29,NCR,In-store,Small Business,Sports & Outdoors,Tumbler,4.0,454.52,0.0,1818.08,727.23,1090.85,E-wallet,Bea,No
+ORD-50235,2025-04-07,Region VII,In-store,Individual,Electronics,Webcam,2.0,1782.3,0.0,3564.6,1069.38,2495.22,Debit Card,Eli,No
+ORD-50236,2025-06-08,NCR,Online,Individual,Home & Living,Water Bottle,2.0,265.06,0.0,530.12,238.55,291.57,Debit Card,Alex,No
+ORD-50237,2025-05-06,NCR,Corporate Sales,Individual,Fashion,Wallet,1.0,510.69,0.05,485.16,183.85,301.31,Credit Card,Carlo,No
+ORD-50238,2025-11-01,NCR,In-store,Corporate,Electronics,Webcam,4.0,1936.22,0.15,6583.15,2323.46,4259.69,Cash,Bea,Yes
+ORD-50239,2025-07-26,Northern Mindanao,Online,Individual,Fashion,Cap,4.0,251.38,0.0,1005.52,432.37,573.15,E-wallet,Hana,No
+ORD-50240,2025-10-03,CALABARZON,Corporate Sales,Individual,Office Supplies,Stapler,4.0,166.81,0.0,667.24,246.88,420.36,Credit Card,Faith,No
+ORD-50241,2025-06-12,Davao Region,In-store,Individual,Electronics,USB Hub,3.0,708.12,0.0,2124.36,764.77,1359.59,Bank Transfer,Carlo,No
+ORD-50242,2025-09-10,CALABARZON,Online,Individual,Office Supplies,Bond Paper Ream,1.0,271.96,0.0,271.96,67.99,203.97,Debit Card,Carlo,No
+ORD-50243,2025-10-16,Davao Region,Corporate Sales,Individual,Fashion,Cap,3.0,274.54,0.0,823.62,354.16,469.46,E-wallet,Faith,No
+ORD-50244,2025-02-12,Northern Mindanao,In-store,Individual,Electronics,Headset,5.0,1308.77,0.05,6216.66,2094.03,4122.63,Debit Card,Carlo,No
+ORD-50245,2025-04-19,Davao Region,In-store,Small Business,Office Supplies,Notebook,1.0,84.6,0.05,80.37,42.3,38.07,E-wallet,Eli,No
+ORD-50246,2025-04-21,ncr,Marketplace,Corporate,Electronics,Wireless Mouse,2.0,482.2,0.0,964.4,366.47,597.93,E-wallet,Hana,Yes
+ORD-50247,2025-12-09,Davao Region,Online,Small Business,Office Supplies,Notebook,4.0,85.49,0.0,341.96,170.98,170.98,Bank Transfer,Dana,Yes
+ORD-50248,2025-01-27,Bicol Region,Corporate Sales,Small Business,Home & Living,Desk Lamp,8.0,942.9,0.0,7543.2,2564.69,4978.51,Cash,Gio,No
+ORD-50249,2025-11-14,Bicol Region,,Individual,Fashion,Cap,1.0,256.72,0.0,256.72,110.39,146.33,Cash,Faith,No
+ORD-50250,2025-03-16,Region VII,Marketplace,Corporate,Sports & Outdoors,Yoga Mat,5.0,834.38,0.05,3963.3,1460.16,2503.14,Credit Card,Gio,Yes
+ORD-50251,2025-05-09,CALABARZON,Marketplace,Small Business,Office Supplies,Bond Paper Ream,1.0,273.98,0.0,273.98,68.5,205.48,E-wallet,Dana,No
+ORD-50252,2025-02-17,Region VI,Marketplace,Individual,Fashion,Wallet,2.0,545.43,0.0,1090.86,392.71,698.15,Credit Card,Hana,No
+ORD-50253,2025-12-13,Region III,Online,Corporate,Sports & Outdoors,Resistance Band,3.0,296.64,0.15,756.43,400.46,355.97,Credit Card,Eli,Yes
+ORD-50254,2025-02-07,Region VII,In-store,Individual,Office Supplies,Bond Paper Ream,3.0,271.75,0.0,815.25,203.81,611.44,Cash,Alex,No
+ORD-50255,2025-05-27,NCR,In-store,Individual,Home & Living,Desk Lamp,2.0,985.37,0.03,1911.62,670.05,1241.57,Cash,Carlo,No
+ORD-50256,2025-10-02,Bicol Region,In-store,Individual,Office Supplies,Ballpen Set,4.0,121.15,0.03,470.06,232.61,237.45,Cash,Carlo,No
+ORD-50257,2025-02-01,Davao Region,Corporate Sales,Individual,Fashion,Cap,2.0,262.47,0.0,524.94,225.72,299.22,Credit Card,Alex,No
+ORD-50258,2025-08-31,Region VII,Corporate Sales,Individual,Electronics,Headset,2.0,1240.91,0.0,2481.82,794.18,1687.64,E-wallet,Dana,No
+ORD-50259,2025-11-12,Region III,Online,Corporate,Fashion,Wallet,3.0,598.24,0.05,1704.98,646.1,1058.88,E-wallet,Alex,No
+ORD-50260,2025-07-15,Bicol Region,In-store,Individual,Electronics,Webcam,3.0,1871.88,0.0,5615.64,1684.69,3930.95,Bank Transfer,Dana,No
+ORD-50261,2025-07-31,Region VII,Corporate Sales,Individual,Electronics,Wireless Mouse,4.0,418.54,0.0,1674.16,636.18,1037.98,Bank Transfer,Eli,No
+ORD-50262,2025-01-28,Region VI,Marketplace,Small Business,Electronics,Wireless Mouse,1.0,432.63,0.03,419.65,164.4,255.25,Bank Transfer,Eli,No
+ORD-50263,2025-09-15,Region III,In Store,Small Business,Office Supplies,Bond Paper Ream,2.0,253.21,0.0,506.42,126.61,379.81,Cash,Carlo,Yes
+ORD-50264,2025-03-10,Region III,Marketplace,Individual,Fashion,Backpack,2.0,1096.86,0.0,2193.72,723.93,1469.79,Debit Card,Hana,No
+ORD-50265,2025-08-03,Region VII,Marketplace,Individual,Home & Living,Desk Lamp,1.0,1031.89,0.05,980.3,350.84,629.46,Credit Card,Carlo,No
+ORD-50266,2025-07-01,Region III,Marketplace,Small Business,Electronics,Keyboard,1.0,865.37,0.0,865.37,302.88,562.49,Credit Card,Carlo,No
+ORD-50267,2025-05-18,Region VII,In-store,Individual,electronics,USB Hub,1.0,642.21,0.0,642.21,231.2,411.01,Debit Card,Hana,No
+ORD-50268,2025-09-13,CALABARZON,Online,Individual,Home & Living,Desk Lamp,2.0,989.2,0.05,1879.48,672.66,1206.82,Credit Card,Gio,No
+ORD-50269,2025-05-30,CALABARZON,Online,Small Business,Electronics,Keyboard,5.0,874.37,0.1,3934.67,1530.15,2404.52,Cash,Eli,Yes
+ORD-50270,2025-09-07,NCR,In-store,Small Business,Sports & Outdoors,Yoga Mat,1.0,775.89,0.05,737.1,271.56,465.54,Bank Transfer,Hana,No
+ORD-50271,2025-03-26,Region III,Corporate Sales,Corporate,Office Supplies,Ballpen Set,3.0,114.35,0.0,343.05,164.66,178.39,Credit Card,Faith,Yes
+ORD-50272,2025-07-25,Region III,Marketplace,Individual,Office Supplies,Stapler,1.0,167.13,0.0,167.13,61.84,105.29,Cash,Hana,Yes
+ORD-50273,2025-03-22,Bicol Region,Online,Individual,Fashion,Backpack,2.0,1112.91,0.0,2225.82,734.52,1491.3,E-wallet,Faith,No
+ORD-50274,2025-07-03,NCR,Online,Small Business,Office Supplies,Stapler,2.0,188.87,0.0,377.74,139.76,237.98,Cash,Faith,No
+ORD-50275,2025-01-08,CALABARZON,Online,Small Business,Electronics,Wireless Mouse,4.0,446.18,0.0,1784.72,678.19,1106.53,Bank Transfer,Eli,No
+ORD-50276,2025-05-26,Region VII,Online,Individual,Office Supplies,Stapler,3.0,168.64,0.0,505.92,187.19,318.73,E-wallet,Hana,No
+ORD-50277,2025-11-25,Bicol Region,Online,Small Business,Home & Living,Organizer,10.0,546.35,0.0,5463.5,2185.4,3278.1,Credit Card,Bea,Yes
+ORD-50278,2025-07-27,Region III,In-store,Individual,Home & Living,Organizer,5.0,463.46,0.0,2317.3,926.92,1390.38,E-wallet,Carlo,No
+ORD-50279,2025-08-09,Region III,Corporate Sales,Corporate,Electronics,Keyboard,2.0,799.69,0.0,1599.38,559.78,1039.6,Cash,Gio,No
+ORD-50280,2025-12-09,Region III,In-store,Small Business,Office Supplies,Notebook,2.0,89.44,0.0,178.88,89.44,89.44,Cash,Hana,Yes
+ORD-50281,2025-02-04,Region VII,Marketplace,Individual,Electronics,USB Hub,1.0,612.26,0.05,581.65,220.41,361.24,Bank Transfer,Eli,No
+ORD-50282,2025-03-16,NCR,Online,Individual,Fashion,Backpack,3.0,1060.55,0.1,2863.48,1049.94,1813.54,Bank Transfer,Hana,Yes
+ORD-50283,2025-12-04,Region VII,Corporate Sales,Individual,Electronics,Headset,6.0,1296.22,0.0,7777.32,2488.74,5288.58,Bank Transfer,Carlo,No
+ORD-50284,2025-06-09,Region VII,Corporate Sales,Small Business,Sports & Outdoors,Resistance Band,3.0,327.43,0.0,982.29,442.03,540.26,E-wallet,Gio,No
+ORD-50285,2025-10-26,Bicol Region,Online,Small Business,Fashion,Cap,1.0,,0.0,254.98,109.64,145.34,Bank Transfer,Gio,No
+ORD-50286,2025-03-19,Northern Mindanao,Marketplace,Individual,Office Supplies,Stapler,6.0,190.81,0.05,1087.62,423.6,664.02,E-wallet,Bea,No
+ORD-50287,2025-05-14,Region III,Corporate Sales,Individual,Office Supplies,Stapler,1.0,194.06,0.03,188.24,71.8,116.44,Bank Transfer,Hana,No
+ORD-50288,2025-03-25,CALABARZON,In-store,Small Business,Electronics,Wireless Mouse,8.0,491.58,0.15,3342.74,1494.4,1848.34,Debit Card,Eli,Yes
+ORD-50289,2025-07-31,,Online,Small Business,Fashion,Cap,3.0,232.3,0.05,662.06,299.67,362.39,Bank Transfer,Carlo,No
+ORD-50290,2025-01-30,Region VII,Online,Individual,Sports & Outdoors,Resistance Band,4.0,279.71,0.0,1118.84,503.48,615.36,Credit Card,Eli,No
+ORD-50291,2025-10-08,Bicol Region,Online,Small Business,Electronics,Headset,5.0,1157.22,0.05,5496.8,1851.55,3645.25,Bank Transfer,Alex,No
+ORD-50292,2025-11-07,Northern Mindanao,Online,Small Business,Electronics,Keyboard,2.0,789.1,0.0,1578.2,552.37,1025.83,E-wallet,Carlo,No
+ORD-50293,2025-09-12,CALABARZON,Marketplace,Individual,Fashion,Cap,3.0,269.43,0.0,808.29,347.56,460.73,Debit Card,Eli,No
+ORD-50294,2025-08-15,Northern Mindanao,In-store,Individual,Office Supplies,Notebook,8.0,83.09,0.03,644.78,332.36,312.42,Cash,Carlo,No
+ORD-50295,2025-06-25,NCR,In-store,Individual,Office Supplies,Notebook,3.0,83.36,0.05,237.58,125.04,112.54,Bank Transfer,Hana,No
+ORD-50296,2025-10-31,Region VI,Online,Individual,Office Supplies,Notebook,3.0,84.0,0.05,239.4,126.0,113.4,Credit Card,Hana,No
+ORD-50297,2025-04-05,Region III,Corporate Sales,Individual,Fashion,Backpack,2.0,1150.66,0.1,2071.19,759.44,1311.75,Credit Card,Faith,Yes
+ORD-50298,2025-09-12,ncr,Online,Individual,Office Supplies,Ballpen Set,4.0,131.69,0.0,526.76,252.84,273.92,E-wallet,Hana,No
+ORD-50299,2025-11-07,Region VI,Online,Individual,Sports & Outdoors,Yoga Mat,2.0,839.49,0.1,1511.08,587.64,923.44,Credit Card,Gio,Yes
+ORD-50300,2025-05-06,Region III,Online,Small Business,Sports & Outdoors,Resistance Band,3.0,287.69,0.0,863.07,388.38,474.69,Cash,Hana,No
+ORD-50301,2025-02-04,Region III,Online,Individual,Electronics,Webcam,2.0,1784.63,0.0,3569.26,1070.78,2498.48,E-wallet,Bea,No
+ORD-50302,2025-07-03,Davao Region,Online,Individual,Fashion,Wallet,3.0,596.56,0.0,1789.68,644.28,1145.4,E-wallet,Dana,No
+ORD-50303,2025-12-26,Region VI,In-store,Small Business,Fashion,Wallet,3.0,591.52,0.0,1774.56,638.84,1440.66,Cash,Faith,Yes
+ORD-50304,2025-01-29,NCR,Marketplace,Individual,Office Supplies,Bond Paper Ream,3.0,,0.0,759.81,189.95,569.86,Bank Transfer,Bea,No
+ORD-50305,2025-03-08,Northern Mindanao,Corporate Sales,Individual,Fashion,Wallet,2.0,566.96,0.0,1133.92,408.21,725.71,E-wallet,Alex,No
+ORD-50306,2025-07-19,Northern Mindanao,Online,Individual,Home & Living,Organizer,2.0,529.96,0.0,1059.92,423.97,635.95,Debit Card,Hana,No
+ORD-50307,2025-02-18,Northern Mindanao,Online,Individual,Home & Living,Organizer,4.0,527.6,0.0,2110.4,844.16,1266.24,Bank Transfer,Alex,No
+ORD-50308,2025-01-10,Northern Mindanao,Marketplace,Individual,Electronics,Webcam,1.0,1749.65,0.03,1697.16,524.89,1172.27,Debit Card,Eli,No
+ORD-50309,2025-08-18,Northern Mindanao,Online,Corporate,Fashion,Wallet,6.0,516.66,0.03,3006.96,1115.99,1890.97,Credit Card,Bea,No
+ORD-50310,2025-01-09,Region VI,Online,Individual,Office Supplies,Stapler,6.0,177.39,0.03,1032.41,393.81,638.6,E-wallet,Eli,No
+ORD-50311,2025-03-09,Bicol Region,Online,Individual,Sports & Outdoors,Tumbler,1.0,399.59,0.15,339.65,159.84,179.81,Debit Card,Carlo,Yes
+ORD-50312,2025-09-01,Region III,Corporate Sales,Small Business,Office Supplies,Bond Paper Ream,2.0,262.25,0.1,472.05,131.12,340.93,Cash,Bea,Yes
+ORD-50313,2025-11-30,Bicol Region,Marketplace,Small Business,Office Supplies,Notebook,1.0,89.35,0.03,86.67,44.67,42.0,Cash,Gio,No
+ORD-50314,2025-07-11,Region VII,Marketplace,Individual,Home & Living,Desk Lamp,2.0,998.93,0.1,1798.07,679.27,1118.8,Credit Card,Alex,Yes
+ORD-50315,2025-10-05,Region VII,Online,Individual,Fashion,Backpack,1.0,1096.32,0.0,1096.32,361.79,734.53,Cash,Gio,No
+ORD-50316,2025-09-27,Region VI,Marketplace,Individual,Electronics,Keyboard,3.0,828.48,0.0,2485.44,869.9,1615.54,Debit Card,Gio,Yes
+ORD-50317,2025-04-21,Davao,Online,Individual,Office Supplies,Bond Paper Ream,2.0,269.65,0.0,539.3,134.82,404.48,Bank Transfer,Dana,No
+ORD-50318,2025-11-25,Region VII,Marketplace,Small Business,Electronics,Webcam,1.0,1827.52,0.03,1772.69,548.26,1224.43,Debit Card,Carlo,No
+ORD-50319,2025-01-30,Region VI,Online,Individual,Office Supplies,Stapler,8.0,194.13,0.0,1553.04,574.62,978.42,Bank Transfer,Eli,Yes
+ORD-50320,2025-01-30,Region VI,Online,Small Business,Sports & Outdoors,Resistance Band,4.0,276.91,0.15,941.49,498.44,443.05,Credit Card,Alex,Yes
+ORD-50321,2025-07-31,Region III,Marketplace,Small Business,Office Supplies,Notebook,2.0,92.44,0.0,184.88,92.44,92.44,Bank Transfer,Faith,No
+ORD-50322,2025-07-26,Bicol Region,Online,Individual,Home & Living,Desk Lamp,2.0,976.84,0.1,1758.31,664.25,1094.06,E-wallet,Bea,Yes
+ORD-50323,2025-01-08,Davao Region,In-store,Small Business,Electronics,Headset,1.0,1314.58,0.15,1117.39,420.67,696.72,Credit Card,Carlo,Yes
+ORD-50324,2025-09-01,Davao Region,Corporate Sales,Individual,electronics,USB Hub,2.0,603.23,0.0,1206.46,434.33,772.13,Credit Card,Eli,Yes
+ORD-50325,2025-09-01,Region VI,Online,Individual,Office Supplies,Ballpen Set,2.0,121.85,0.0,243.7,116.98,126.72,Cash,Hana,No
+ORD-50326,2025-06-17,Region III,In-store,Individual,Sports & Outdoors,Tumbler,3.0,441.18,0.0,1323.54,529.42,794.12,Bank Transfer,Carlo,No
+ORD-50327,2025-01-05,Region III,In-store,Corporate,Fashion,Wallet,1.0,596.17,0.0,596.17,214.62,381.55,Debit Card,Bea,No
+ORD-50328,2025-11-09,Northern Mindanao,Online,Individual,Sports & Outdoors,Yoga Mat,3.0,821.27,0.0,2463.81,862.33,1601.48,Cash,Hana,No
+ORD-50329,2025-08-22,Davao Region,Online,Individual,Office Supplies,Stapler,8.0,180.95,0.0,1447.6,535.61,911.99,Debit Card,Gio,Yes
+ORD-50330,2025-10-30,Bicol Region,Online,Individual,Fashion,Cap,6.0,237.09,0.0,1422.54,611.69,810.85,Debit Card,Eli,No
+ORD-50331,2025-12-28,CALABARZON,Marketplace,Small Business,Fashion,Backpack,3.0,1132.26,0.0,3396.78,1120.94,2275.84,Cash,Dana,Yes
+ORD-50332,2025-07-28,Bicol Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,274.4,0.05,260.68,68.6,192.08,E-wallet,Alex,No
+ORD-50333,2025-12-14,CALABARZON,Online,Small Business,Sports & Outdoors,Resistance Band,6.0,279.79,0.15,1426.93,755.43,671.5,Cash,Faith,Yes
+ORD-50334,2025-07-24,Northern Mindanao,Online,Corporate,Home & Living,Water Bottle,1.0,292.73,0.05,-278.09,131.73,146.36,Cash,Eli,Yes
+ORD-50335,2025-01-15,Region VI,Marketplace,Individual,Sports & Outdoors,Tumbler,1.0,410.56,0.0,410.56,164.22,246.34,Bank Transfer,Gio,No
+ORD-50336,2025-03-10,NCR,Online,Small Business,Sports & Outdoors,Yoga Mat,1.0,777.25,0.05,738.39,272.04,466.35,Cash,Dana,No
+ORD-50337,2025-06-09,Region VI,In-store,Individual,Office Supplies,Stapler,2.0,183.44,0.0,366.88,135.75,231.13,,Dana,No
+ORD-50338,2025-04-11,Region VII,Online,Individual,Office Supplies,Ballpen Set,2.0,124.01,0.03,240.58,119.05,121.53,Bank Transfer,Hana,No
+ORD-50339,2025-10-25,Bicol Region,Online,Small Business,Electronics,Wireless Mouse,2.0,463.56,0.0,927.12,352.31,574.81,Cash,Eli,No
+ORD-50340,2025-03-12,Region VI,Online,Small Business,Fashion,T-Shirt,4.0,323.62,0.0,1294.48,517.79,776.69,Credit Card,Gio,No
+ORD-50341,2025-01-18,CALABARZON,In-store,Individual,Office Supplies,Bond Paper Ream,2.0,265.4,0.0,530.8,132.7,398.1,Debit Card,Gio,No
+ORD-50342,2025-08-15,Region III,Corporate Sales,Individual,Electronics,USB Hub,4.0,618.77,0.05,2351.33,891.03,1460.3,Debit Card,Hana,Yes
+ORD-50343,2025-09-02,Davao Region,In-store,Individual,Office Supplies,Ballpen Set,4.0,124.05,0.0,496.2,238.18,258.02,Credit Card,Hana,No
+ORD-50344,2025-04-09,Bicol Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,2.0,721.6,0.05,1371.04,505.12,865.92,Credit Card,Hana,No
+ORD-50345,2025-06-01,Region VI,In-store,Small Business,Office Supplies,Notebook,5.0,92.76,0.05,440.61,231.9,208.71,Bank Transfer,Eli,No
+ORD-50346,2025-06-07,Region VI,Marketplace,Individual,Office Supplies,Stapler,2.0,175.79,0.05,334.0,130.08,203.92,Credit Card,Alex,No
+ORD-50347,2025-11-15,Davao Region,Marketplace,Individual,Electronics,Wireless Mouse,1.0,460.46,0.05,437.44,174.97,262.47,Credit Card,Gio,Yes
+ORD-50348,2025-01-29,Davao Region,In-store,Individual,Fashion,Backpack,1.0,1150.16,0.05,1092.65,379.55,713.1,E-wallet,Dana,No
+ORD-50349,2025-07-11,Davao Region,In-store,Individual,Electronics,Webcam,2.0,1766.6,0.0,3533.2,1059.96,2473.24,Debit Card,Gio,No
+ORD-50350,2025-03-13,Region III,Online,Corporate,Sports & Outdoors,Resistance Band,5.0,278.31,0.0,1391.55,626.2,765.35,Cash,Faith,No
+ORD-50351,2025-09-01,CALABARZON,Corporate Sales,Individual,Home & Living,Organizer,4.0,497.85,0.0,1991.4,796.56,1194.84,E-wallet,Carlo,No
+ORD-50352,2025-09-16,Northern Mindanao,In-store,Individual,Home & Living,Water Bottle,8.0,306.73,0.15,2085.76,1104.23,981.53,E-wallet,Gio,Yes
+ORD-50353,2025-04-13,CALABARZON,In-store,Individual,Office Supplies,Bond Paper Ream,3.0,286.0,0.0,858.0,214.5,643.5,Cash,Bea,No
+ORD-50354,2025-02-18,Bicol Region,In-store,Individual,Fashion,Backpack,2.0,1022.74,0.0,2045.48,675.01,1370.47,Cash,Eli,No
+ORD-50355,2025-08-14,Northern Mindanao,Corporate Sales,Individual,Office Supplies,Bond Paper Ream,3.0,243.43,0.0,730.29,182.57,547.72,Debit Card,Alex,No
+ORD-50356,2025-08-10,Davao Region,Marketplace,Individual,Electronics,Wireless Mouse,5.0,440.13,0.05,2090.62,836.25,1254.37,Debit Card,Alex,No
+ORD-50357,2025-06-22,CALABARZON,Online,Corporate,Electronics,Keyboard,1.0,839.25,0.0,839.25,293.74,545.51,Bank Transfer,Hana,No
+ORD-50358,2025-05-27,Region III,Online,Individual,Home & Living,Water Bottle,1.0,297.84,0.0,297.84,134.03,163.81,Bank Transfer,Dana,No
+ORD-50359,2025-02-17,CALABARZON,Online,Individual,Electronics,Headset,1.0,1204.87,0.05,1144.63,385.56,759.07,Cash,Hana,No
+ORD-50360,2025-10-16,NCR,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,1.0,762.14,0.03,739.28,266.75,472.53,Credit Card,Eli,No
+ORD-50361,2025-07-28,Region III,Online,Individual,Sports & Outdoors,Tumbler,8.0,394.19,0.0,3153.52,1261.41,1892.11,E-wallet,Eli,Yes
+ORD-50362,2025-01-17,Bicol Region,Online,Small Business,Fashion,T-Shirt,2.0,367.85,0.0,735.7,294.28,441.42,Bank Transfer,Faith,Yes
+ORD-50363,2025-06-14,Northern Mindanao,In-store,Corporate,Sports & Outdoors,Tumbler,6.0,436.84,0.0,2621.04,1048.42,1572.62,Debit Card,Gio,Yes
+ORD-50364,2025-01-06,NCR,Marketplace,Individual,Electronics,Headset,2.0,1199.43,0.0,2398.86,767.64,1631.22,Cash,Gio,No
+ORD-50365,2025-09-24,Davao Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,2.0,265.25,0.0,530.5,132.62,397.88,Debit Card,Dana,No
+ORD-50366,2025-05-14,Region III,Corporate Sales,Small Business,Fashion,T-Shirt,5.0,360.51,0.0,1802.55,721.02,1081.53,Bank Transfer,Carlo,No
+ORD-50367,2025-04-15,Region VI,Corporate Sales,Individual,Electronics,Keyboard,1.0,788.16,0.03,764.52,275.86,488.66,Bank Transfer,Faith,No
+ORD-50368,2025-04-05,CALABARZON,Online,Individual,Electronics,Webcam,-4.0,1906.4,0.0,7625.6,2287.68,5337.92,Bank Transfer,Carlo,No
+ORD-50369,2025-10-15,Region VII,Marketplace,Individual,Home & Living,Organizer,3.0,500.36,0.0,1501.08,600.43,900.65,Credit Card,Hana,No
+ORD-50370,2025-07-29,NCR,Corporate Sales,Individual,Fashion,Cap,5.0,255.98,0.0,1279.9,550.36,729.54,Bank Transfer,Alex,No
+ORD-50371,2025-11-28,NCR,Online,Small Business,Electronics,Wireless Mouse,1.0,442.19,0.0,442.19,168.03,274.16,Bank Transfer,Gio,No
+ORD-50372,2025-02-09,NCR,Online,Small Business,Fashion,Cap,2.0,239.06,0.05,454.21,205.59,248.62,E-wallet,Eli,No
+ORD-50373,2025-04-03,NCR,Corporate Sales,Individual,Home & Living,Storage Box,1.0,340.87,0.0,340.87,143.17,197.7,Credit Card,Dana,No
+ORD-50374,2025-02-11,Davao Region,Online,Individual,Home & Living,Storage Box,2.0,310.41,0.0,620.82,260.74,360.08,Credit Card,Faith,No
+ORD-50375,2025-09-05,Region VII,Corporate Sales,Small Business,Home & Living,Organizer,3.0,543.1,0.0,1629.3,651.72,977.58,Debit Card,Faith,No
+ORD-50376,2025-07-08,Region VII,Online,Individual,Electronics,USB Hub,1.0,693.65,0.0,693.65,249.71,443.94,Credit Card,Hana,No
+ORD-50377,2025-12-08,Northern Mindanao,Online,Individual,Home & Living,Organizer,1.0,545.19,0.0,545.19,218.08,327.11,Credit Card,Alex,Yes
+ORD-50378,2025-02-23,NCR,Online,Small Business,Sports & Outdoors,Resistance Band,1.0,329.06,0.05,312.61,148.08,164.53,E-wallet,Dana,No
+ORD-50379,2025-08-19,Northern Mindanao,In-store,Small Business,Fashion,Wallet,1.0,533.77,0.05,507.08,192.16,314.92,Debit Card,Faith,No
+ORD-50380,2025-10-31,Davao Region,In-store,Small Business,Fashion,Wallet,5.0,559.79,0.0,2798.95,1007.62,1791.33,Cash,Carlo,No
+ORD-50381,2025-06-22,Region III,Marketplace,Individual,Office Supplies,Ballpen Set,1.0,121.78,0.0,121.78,58.45,63.33,E-wallet,Gio,Yes
+ORD-50382,2025-06-05,Northern Mindanao,Corporate Sales,Individual,Office Supplies,Notebook,4.0,85.24,0.0,340.96,170.48,170.48,Credit Card,Eli,No
+ORD-50383,2025-10-06,Northern Mindanao,In-store,Individual,Fashion,Wallet,2.0,517.49,0.05,983.23,372.59,610.64,Credit Card,Eli,No
+ORD-50384,2025-08-26,Davao Region,Online,Individual,Electronics,Webcam,3.0,1685.66,0.0,5056.98,1517.09,3539.89,Credit Card,Faith,No
+ORD-50385,2025-05-05,Davao Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,2.0,788.62,0.0,1577.24,552.03,1025.21,Debit Card,Gio,No
+ORD-50386,2025-07-18,Region III,Online,Small Business,Sports & Outdoors,Tumbler,1.0,458.05,0.0,458.05,183.22,274.83,Bank Transfer,Alex,No
+ORD-50387,2025-01-14,NCR,Online,Individual,Fashion,Wallet,3.0,593.52,0.03,1727.14,641.0,1086.14,Cash,Alex,No
+ORD-50388,2025-01-19,CALABARZON,Online,Individual,Fashion,Cap,5.0,245.11,0.05,1164.27,526.99,637.28,Bank Transfer,Gio,No
+ORD-50389,2025-03-05,Region III,Online,Individual,Home & Living,Organizer,8.0,515.81,0.0,4126.48,1650.59,2475.89,Debit Card,Hana,No
+ORD-50390,2025-08-04,Davao Region,In-store,Individual,Office Supplies,Bond Paper Ream,1.0,244.39,0.05,232.17,61.1,171.07,Cash,Gio,No
+ORD-50391,2025-06-05,CALABARZON,Marketplace,Small Business,Fashion,T-Shirt,1.0,346.13,0.05,328.82,138.45,190.37,Cash,Alex,No
+ORD-50392,2025-10-31,Region VI,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,1.0,795.5,0.03,771.63,278.42,493.21,Credit Card,Hana,No
+ORD-50393,2025-12-04,Bicol Region,Online,Individual,Electronics,Wireless Mouse,5.0,423.82,0.0,2119.1,805.26,1313.84,Credit Card,Gio,No
+ORD-50394,2025-02-28,NCR,Marketplace,Corporate,Fashion,T-Shirt,8.0,377.82,0.0,3022.56,1209.02,1813.54,Cash,Carlo,No
+ORD-50395,2025-01-17,Northern Mindanao,In-store,Individual,Office Supplies,Ballpen Set,2.0,124.43,0.05,236.42,119.45,116.97,Bank Transfer,Faith,No
+ORD-50396,2025-01-08,Region III,In-store,Individual,Sports & Outdoors,Resistance Band,1.0,318.88,0.03,309.31,143.5,165.81,Cash,Alex,No
+ORD-50397,2025-07-22,Region VI,In-store,Corporate,Electronics,Webcam,3.0,1725.03,0.0,5175.09,1552.53,3622.56,E-wallet,Dana,No
+ORD-50398,2025-06-21,CALABARZON,Corporate Sales,Corporate,Sports & Outdoors,Yoga Mat,1.0,857.36,0.1,771.62,300.08,471.54,E-wallet,Dana,Yes
+ORD-50399,2025-12-06,Region III,Marketplace,Small Business,Sports & Outdoors,Yoga Mat,1.0,848.15,0.0,848.15,296.85,551.3,Credit Card,Eli,No
+ORD-50400,2025-09-12,Region III,Online,Individual,Fashion,Backpack,4.0,1026.22,0.0,4104.88,1354.61,2750.27,Cash,Dana,No
+ORD-50401,2025-08-09,Region III,Marketplace,Individual,Sports & Outdoors,Resistance Band,6.0,327.31,0.0,1963.86,883.74,1080.12,E-wallet,Faith,No
+ORD-50402,2025-10-05,CALABARZON,Online,Individual,Electronics,Wireless Mouse,2.0,487.8,0.0,975.6,370.73,604.87,Credit Card,Alex,No
+ORD-50403,2025-11-25,Bicol Region,Marketplace,Individual,Office Supplies,Stapler,1.0,187.96,0.05,178.56,69.55,109.01,Cash,Eli,No
+ORD-50404,2025-08-29,Region III,Marketplace,Individual,Fashion,T-Shirt,6.0,324.73,0.0,1948.38,779.35,1169.03,E-wallet,Eli,No
+ORD-50405,2025-06-08,CALABARZON,Corporate Sales,Individual,Fashion,T-Shirt,5.0,358.78,0.0,1793.9,717.56,1076.34,E-wallet,Bea,No
+ORD-50406,2025-01-04,NCR,In-store,Small Business,Sports & Outdoors,Tumbler,2.0,408.89,0.03,793.25,327.11,466.14,Debit Card,Alex,No
+ORD-50407,2025-08-22,Northern Mindanao,Marketplace,Individual,Fashion,Wallet,2.0,513.73,0.0,1027.46,369.89,657.57,Cash,Dana,No
+ORD-50408,2025-10-02,CALABARZON,Marketplace,Individual,Fashion,Cap,2.0,251.53,0.05,477.91,216.32,261.59,Credit Card,Bea,No
+ORD-50409,2025-09-16,NCR,Marketplace,Small Business,Office Supplies,Ballpen Set,4.0,118.79,0.05,451.4,228.08,223.32,Debit Card,Carlo,Yes
+ORD-50410,2025-02-26,CALABARZON,Corporate Sales,Individual,Electronics,Wireless Mouse,1.0,462.23,0.03,448.36,175.65,272.71,Debit Card,Eli,No
+ORD-50411,2025-05-01,Region III,Marketplace,Small Business,Fashion,T-Shirt,,358.6,0.05,681.34,286.88,394.46,Credit Card,Dana,No
+ORD-50412,2025-01-05,CALABARZON,Online,Small Business,Fashion,Backpack,2.0,1123.54,0.0,2247.08,741.54,1505.54,Debit Card,Bea,No
+ORD-50413,2025-05-14,CALABARZON,Marketplace,Individual,Electronics,Webcam,3.0,1968.23,0.15,5018.99,1771.41,3247.58,Debit Card,Faith,Yes
+ORD-50414,2025-12-16,Region VII,Corporate Sales,Small Business,Fashion,Cap,3.0,233.93,0.05,666.7,301.77,364.93,Bank Transfer,Dana,No
+ORD-50415,2025-05-02,Region III,In-store,Individual,Fashion,Wallet,3.0,602.33,0.0,1806.99,650.52,1156.47,Debit Card,Faith,No
+ORD-50416,2025-03-29,Region III,Marketplace,Corporate,Electronics,Headset,2.0,1259.95,0.0,2519.9,806.37,1713.53,Bank Transfer,Faith,Yes
+ORD-50417,2025-07-08,Region III,Marketplace,Small Business,Home & Living,Desk Lamp,2.0,1017.98,0.0,2035.96,692.23,1343.73,Debit Card,Faith,No
+ORD-50418,2025-12-23,Region VII,Online,Small Business,Electronics,Wireless Mouse,10.0,417.23,0.0,4172.3,1585.47,2586.83,Bank Transfer,Gio,No
+ORD-50419,2025-07-14,Region III,Marketplace,Individual,Office Supplies,Notebook,3.0,93.19,0.0,279.57,139.78,139.79,Credit Card,Gio,Yes
+ORD-50420,2025-11-14,Region VII,In-store,Small Business,Fashion,Backpack,8.0,1062.88,0.1,7652.74,2806.0,4846.74,Debit Card,Carlo,Yes
+ORD-50421,2025-11-25,Northern Mindanao,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,250.05,0.0,250.05,62.51,187.54,Credit Card,Dana,Yes
+ORD-50422,2025-08-23,Region III,Online,Individual,Home & Living,Storage Box,3.0,338.24,0.0,1014.72,426.18,588.54,Credit Card,Carlo,No
+ORD-50423,2025-07-08,Calabarzon,Online,Individual,Office Supplies,Notebook,1.0,82.79,0.03,80.31,41.4,38.91,Cash,Dana,No
+ORD-50424,2025-10-08,Davao Region,Corporate Sales,Small Business,Office Supplies,Notebook,1.0,88.37,0.0,88.37,44.19,44.18,Credit Card,Gio,Yes
+ORD-50425,2025-04-08,NCR,Online,Individual,Home & Living,Organizer,8.0,540.45,0.0,4323.6,1729.44,2594.16,Credit Card,Bea,No
+ORD-50426,2025-12-31,CALABARZON,In-store,Individual,Office Supplies,Notebook,4.0,82.47,0.1,296.89,164.94,131.95,E-wallet,Alex,Yes
+ORD-50427,2025-12-13,CALABARZON,Online,Individual,Electronics,USB Hub,1.0,698.11,0.0,698.11,251.32,446.79,E-wallet,Hana,No
+ORD-50428,2025-02-26,Bicol Region,Corporate Sales,Small Business,Home & Living,Water Bottle,4.0,290.53,0.03,1127.26,522.95,604.31,Credit Card,Bea,No
+ORD-50429,2025-01-06,NCR,Online,Individual,Electronics,Headset,1.0,1363.25,0.03,1322.35,436.24,886.11,E-wallet,Gio,No
+ORD-50430,2025-05-29,Region VII,Corporate Sales,Individual,Fashion,Backpack,1.0,1061.89,0.0,1061.89,350.42,711.47,E-wallet,Gio,No
+ORD-50431,2025-04-14,Northern Mindanao,Online,Individual,Electronics,USB Hub,1.0,631.5,0.0,631.5,227.34,404.16,E-wallet,Alex,No
+ORD-50432,2025-06-24,Davao Region,Online,Small Business,Sports & Outdoors,Tumbler,4.0,398.54,0.0,1594.16,637.66,956.5,E-wallet,Eli,Yes
+ORD-50433,2025-07-10,CALABARZON,Online,Individual,Home & Living,Storage Box,2.0,350.86,0.0,701.72,294.72,407.0,Credit Card,Gio,No
+ORD-50434,2025-07-25,CALABARZON,Marketplace,Individual,Fashion,Cap,3.0,240.47,0.0,721.41,310.21,411.2,Credit Card,Faith,No
+ORD-50435,2025-10-21,Davao Region,Marketplace,Individual,Fashion,Wallet,4.0,578.95,0.0,2315.8,833.69,1482.11,Debit Card,Alex,No
+ORD-50436,2025-08-17,Region VII,Marketplace,Individual,Home & Living,Storage Box,2.0,316.9,0.15,538.73,266.2,272.53,Cash,Alex,Yes
+ORD-50437,2025-08-01,Region VII,In-store,Small Business,Office Supplies,Stapler,2.0,185.03,0.05,351.56,136.92,214.64,Bank Transfer,Carlo,No
+ORD-50438,2025-11-15,Bicol Region,Online,Small Business,Home & Living,Storage Box,2.0,319.43,0.0,638.86,268.32,370.54,E-wallet,Gio,No
+ORD-50439,2025-02-28,Region VI,Corporate Sales,Corporate,Fashion,T-Shirt,2.0,322.42,0.0,644.84,257.94,386.9,Bank Transfer,Gio,No
+ORD-50440,2025-05-24,Region III,Marketplace,Individual,Sports & Outdoors,Resistance Band,3.0,284.24,0.05,810.08,383.72,426.36,Credit Card,Carlo,No
+ORD-50441,2025-12-12,CALABARZON,In-store,Small Business,Electronics,USB Hub,1.0,679.42,0.05,645.45,244.59,400.86,Cash,Bea,No
+ORD-50442,2025-03-20,Region VI,Corporate Sales,Small Business,Home & Living,Water Bottle,8.0,263.8,0.0,2110.4,949.68,1160.72,Debit Card,Alex,No
+ORD-50443,2025-08-07,Region VI,In-store,Corporate,Fashion,Backpack,4.0,1041.96,0.0,4167.84,1375.39,2792.45,Credit Card,Alex,No
+ORD-50444,2025-06-16,Northern Mindanao,Marketplace,Individual,Office Supplies,Ballpen Set,6.0,121.52,0.03,707.25,349.98,357.27,Cash,Carlo,No
+ORD-50445,2025-06-10,Davao Region,In-store,Individual,Fashion,Backpack,3.0,1179.21,0.05,3360.75,1167.42,2193.33,Bank Transfer,Gio,Yes
+ORD-50446,2025-02-25,Bicol Region,Online,Individual,Sports & Outdoors,Tumbler,2.0,449.59,0.05,854.22,359.67,494.55,Bank Transfer,Eli,No
+ORD-50447,2025-06-25,Region VII,Marketplace,Individual,Electronics,Wireless Mouse,2.0,468.88,0.0,937.76,356.35,581.41,Cash,Bea,Yes
+ORD-50448,2025-02-02,CALABARZON,Marketplace,Individual,Office Supplies,Stapler,1.0,177.16,0.0,177.16,65.55,111.61,Credit Card,Gio,No
+ORD-50449,2025-05-01,Bicol Region,In-store,Individual,Home & Living,Organizer,1.0,511.82,0.03,496.47,204.73,291.74,Bank Transfer,Gio,No
+ORD-50450,2025-12-10,Region VII,In-store,Small Business,Home & Living,Desk Lamp,6.0,1010.45,0.0,6062.7,2061.32,4001.38,Cash,Dana,Yes
+ORD-50451,2025-06-26,Region VII,Online,Individual,Office Supplies,Stapler,4.0,176.95,0.0,707.8,261.89,445.91,Debit Card,Hana,Yes
+ORD-50452,2025-04-09,CALABARZON,Marketplace,Individual,Electronics,Keyboard,5.0,808.35,0.0,4041.75,1414.61,2627.14,Credit Card,Carlo,No
+ORD-50453,2025-03-25,Region VII,Online,CORPORATE,Electronics,Webcam,2.0,1745.78,0.0,3491.56,1047.47,2444.09,Debit Card,Dana,No
+ORD-50454,2025-03-04,Region VI,In-store,Individual,Fashion,Wallet,3.0,590.96,0.05,1684.24,638.24,1046.0,E-wallet,Faith,No
+ORD-50455,2025-04-23,Region VI,Online,Individual,Home & Living,Water Bottle,3.0,298.93,0.05,851.95,403.56,448.39,E-wallet,Gio,No
+ORD-50456,2025-06-12,Region III,Marketplace,Small Business,Home & Living,Storage Box,1.0,296.9,0.05,282.05,124.7,157.35,Debit Card,Dana,Yes
+ORD-50457,2025-08-15,Region III,,Small Business,Home & Living,Storage Box,4.0,312.51,0.03,1212.54,525.02,687.52,Cash,Dana,No
+ORD-50458,2025-08-19,Region VI,Marketplace,Small Business,Fashion,Wallet,1.0,586.38,0.0,586.38,211.1,375.28,Cash,Gio,No
+ORD-50459,2025-08-14,Davao Region,Online,Individual,Sports & Outdoors,Yoga Mat,5.0,767.87,0.03,3724.17,1343.77,2380.4,Cash,Faith,No
+ORD-50460,2025-11-03,Region VI,In-store,Corporate,Home & Living,Organizer,3.0,491.53,0.05,1400.86,589.84,811.02,Credit Card,Carlo,No
+ORD-50461,2025-05-04,Davao Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,6.0,247.54,1.25,1440.68,371.31,1069.37,E-wallet,Carlo,No
+ORD-50462,2025-01-28,Region III,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,1.0,735.77,0.0,735.77,257.52,478.25,Debit Card,Dana,No
+ORD-50463,2025-07-08,Bicol Region,Corporate Sales,Individual,Electronics,Headset,4.0,1242.59,0.0,4970.36,1590.52,3379.84,Debit Card,Faith,No
+ORD-50464,2025-06-13,CALABARZON,Market Place,Individual,Electronics,Headset,1.0,1367.28,0.0,1367.28,437.53,929.75,Bank Transfer,Eli,No
+ORD-50465,2025-03-07,CALABARZON,Marketplace,Individual,Home & Living,Organizer,2.0,492.51,0.0,985.02,394.01,591.01,Bank Transfer,Dana,No
+ORD-50466,2025-12-18,Region VI,In-store,Small Business,Sports & Outdoors,Resistance Band,5.0,290.53,0.05,1380.02,653.69,726.33,Cash,Alex,No
+ORD-50467,2025-03-10,Region VI,Marketplace,Individual,Fashion,Backpack,5.0,1052.51,0.05,4999.42,1736.64,3262.78,E-wallet,Gio,No
+ORD-50468,2025-09-25,Bicol Region,In-store,Small Business,Fashion,Wallet,2.0,602.94,0.0,1205.88,434.12,771.76,Cash,Gio,Yes
+ORD-50469,2025-03-17,Region III,In-store,Small Business,Sports & Outdoors,Resistance Band,3.0,300.68,0.0,902.04,405.92,496.12,Cash,Hana,Yes
+ORD-50470,2025-09-06,NCR,Online,Corporate,Fashion,Cap,3.0,248.15,0.05,707.23,320.11,387.12,E-wallet,Gio,No
+ORD-50471,2025-02-20,NCR,In-store,Individual,Office supplies,Stapler,5.0,183.62,0.0,918.1,339.7,578.4,Bank Transfer,Alex,No
+ORD-50472,2025-10-03,Region VII,In-store,Individual,Home & Living,Storage Box,3.0,340.65,0.0,1021.95,429.22,592.73,Bank Transfer,Hana,No
+ORD-50473,2025-03-07,CALABARZON,In-store,Individual,Sports & Outdoors,Yoga Mat,3.0,844.62,0.15,2153.78,886.85,1266.93,E-wallet,Gio,Yes
+ORD-50474,2025-11-09,Region VI,Online,Individual,Sports & Outdoors,Resistance Band,5.0,312.44,0.05,1484.09,702.99,781.1,E-wallet,Dana,No
+ORD-50475,2025-12-20,Region VI,Marketplace,Small Business,Fashion,T-Shirt,1.0,350.83,0.0,350.83,140.33,210.5,Cash,Bea,Yes
+ORD-50476,2025-07-12,CALABARZON,In-store,Small Business,Electronics,USB Hub,2.0,702.22,0.0,1404.44,505.6,898.84,Cash,Carlo,No
+ORD-50477,2025-04-28,Bicol Region,In-store,Individual,Electronics,Keyboard,3.0,838.21,0.0,2514.63,880.12,1634.51,E-wallet,Dana,No
+ORD-50478,2025-06-19,Region III,In-store,Individual,Electronics,Keyboard,1.0,790.06,0.05,750.56,276.52,474.04,Cash,Carlo,Yes
+ORD-50479,2025-08-23,NCR,Online,Individual,Sports & Outdoors,Resistance Band,1.0,321.62,0.0,321.62,144.73,176.89,Cash,Hana,No
+ORD-50480,2025-03-21,CALABARZON,Corporate Sales,Individual,Electronics,Keyboard,6.0,932.79,0.0,5596.74,1958.86,3637.88,Bank Transfer,Bea,No
+ORD-50481,2025-04-20,NCR,Corporate Sales,Individual,Office Supplies,Ballpen Set,1.0,114.73,0.03,111.29,55.07,56.22,Cash,Gio,No
+ORD-50482,2025-12-20,Region VI,Online,Individual,Home & Living,Organizer,4.0,538.98,0.03,2091.24,862.37,1228.87,Cash,Bea,No
+ORD-50483,2025-08-24,Bicol Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,5.0,285.36,0.05,1355.46,356.7,998.76,Cash,Dana,No
+ORD-50484,2025-01-07,Northern Mindanao,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,3.0,838.12,0.0,2514.36,880.03,1634.33,E-wallet,Alex,No
+ORD-50485,2025-05-26,CALABARZON,Marketplace,Small Business,Home & Living,Desk Lamp,3.0,903.22,0.0,2709.66,921.28,1788.38,Cash,Faith,No
+ORD-50486,2025-01-04,Bicol Region,Corporate Sales,Individual,Electronics,Keyboard,1.0,839.11,0.05,797.15,293.69,503.46,Credit Card,Dana,No
+ORD-50487,2025-03-26,Region VI,Corporate Sales,Small Business,Sports & Outdoors,Resistance Band,5.0,303.56,0.0,1517.8,683.01,834.79,Credit Card,Bea,Yes
+ORD-50488,2025-06-04,CALABARZON,Corporate Sales,Individual,Electronics,Keyboard,1.0,824.33,0.05,783.11,288.52,494.59,Credit Card,Dana,No
+ORD-50489,2025-05-10,Region VII,Online,Individual,Office Supplies,Ballpen Set,1.0,114.1,0.03,110.68,54.77,55.91,E-wallet,Hana,No
+ORD-50490,2025-05-24,Davao Region,Corporate Sales,Corporate,Electronics,Headset,3.0,1369.81,0.0,4109.43,1315.02,3149.01,E-wallet,Eli,No
+ORD-50491,2025-09-06,Region VII,Online,Small Business,Office Supplies,Bond Paper Ream,3.0,283.67,0.0,851.01,212.75,638.26,Bank Transfer,Eli,No
+ORD-50492,2025-01-11,Northern Mindanao,Marketplace,Individual,Office Supplies,Stapler,8.0,172.49,0.0,1379.92,510.57,869.35,Debit Card,Faith,No
+ORD-50493,2025-10-01,NCR,Online,Individual,Electronics,Headset,2.0,1355.65,0.05,2575.74,867.62,1708.12,Bank Transfer,Alex,No
+ORD-50494,2025-11-27,Davao Region,Online,Corporate,Office Supplies,Bond Paper Ream,4.0,281.5,0.0,1126.0,281.5,844.5,Cash,Gio,Yes
+ORD-50495,2025-02-03,NCR,Online,Individual,Electronics,Keyboard,4.0,870.93,0.0,3483.72,1219.3,2264.42,Cash,Hana,No
+ORD-50496,2025-07-07,Region VI,Marketplace,Individual,Electronics,USB Hub,1.0,665.82,0.0,665.82,239.7,426.12,Cash,Carlo,No
+ORD-50497,2025-12-16,NCR,Corporate Sales,Individual,Fashion,T-Shirt,3.0,345.68,0.0,1037.04,414.82,622.22,Bank Transfer,Faith,No
+ORD-50498,2025-06-04,Region VI,In-store,Small Business,Electronics,Wireless Mouse,3.0,425.08,0.15,1083.95,484.59,599.36,Debit Card,Gio,Yes
+ORD-50499,2025-05-30,Region VII,Marketplace,Individual,Home & Living,Desk Lamp,2.0,918.41,0.0,1836.82,624.52,1212.3,E-wallet,Eli,No
+ORD-50500,2025-09-14,Region VI,Marketplace,CORPORATE,Home & Living,Desk Lamp,5.0,1014.31,0.0,5071.55,1724.33,3347.22,Cash,Bea,No
+ORD-50501,2025-11-19,NCR,Online,Small Business,Office Supplies,Stapler,2.0,165.66,0.0,331.32,122.59,208.73,Bank Transfer,Hana,Yes
+ORD-50502,2025-07-15,Region III,In-store,Individual,Electronics,Webcam,1.0,1853.91,0.0,1853.91,556.17,1297.74,Bank Transfer,Dana,No
+ORD-50503,2025-11-15,Bicol Region,In-store,Individual,Office Supplies,Bond Paper Ream,1.0,247.6,0.0,247.6,61.9,185.7,Debit Card,Alex,No
+ORD-50504,2025-01-08,Bicol Region,Online,Individual,Electronics,Headset,1.0,1309.46,0.0,1309.46,419.03,890.43,Bank Transfer,Dana,No
+ORD-50505,2025-10-03,CALABARZON,Marketplace,Individual,Home & Living,Desk Lamp,4.0,874.57,0.0,3498.28,1189.42,2308.86,Bank Transfer,Eli,No
+ORD-50506,2025-06-30,Northern Mindanao,Corporate Sales,Individual,Fashion,Wallet,6.0,525.61,0.05,2995.98,1135.32,1860.66,Bank Transfer,Eli,Yes
+ORD-50507,2025-09-21,Davao Region,In-store,Small Business,Office Supplies,Ballpen Set,3.0,120.58,0.05,343.65,173.64,170.01,E-wallet,Bea,No
+ORD-50508,2025-08-28,Davao Region,Online,Individual,Sports & Outdoors,Tumbler,1.0,399.11,0.0,399.11,159.64,239.47,Credit Card,Alex,No
+ORD-50509,2025-08-02,Bicol Region,Marketplace,Corporate,Office Supplies,Ballpen Set,10.0,119.75,0.05,1137.62,574.8,562.82,Credit Card,Eli,No
+ORD-50510,2025-12-09,NCR,Online,Individual,Electronics,USB Hub,6.0,695.8,0.1,3757.32,1502.93,2254.39,E-wallet,Alex,Yes
+ORD-50511,2025-01-18,NCR,Marketplace,Individual,Home & Living,Storage Box,2.0,299.01,0.03,580.08,251.17,328.91,Bank Transfer,Eli,No
+ORD-50512,2025-07-15,Northern Mindanao,In-store,Individual,Office Supplies,Bond Paper Ream,10.0,262.65,0.03,2547.7,656.62,1891.08,Bank Transfer,Eli,No
+ORD-50513,2025-01-29,Region VII,Marketplace,Individual,Home & Living,Desk Lamp,2.0,1040.86,0.0,2081.72,707.78,1373.94,Debit Card,Eli,No
+ORD-50514,2025-06-27,CALABARZON,In-store,Corporate,Electronics,Webcam,4.0,1796.24,0.05,6825.71,2155.49,4670.22,Credit Card,Faith,No
+ORD-50515,2025-09-08,Region III,Marketplace,Individual,Electronics,Headset,2.0,1229.65,0.05,-2336.34,786.98,1549.36,Credit Card,Carlo,No
+ORD-50516,2025-02-27,Region VI,In-store,Corporate,Office Supplies,Bond Paper Ream,2.0,253.97,0.0,507.94,126.98,380.96,Cash,Carlo,No
+ORD-50517,2025-01-29,Region VII,Corporate Sales,Individual,Fashion,Cap,3.0,260.89,0.0,782.67,336.55,446.12,Debit Card,Eli,No
+ORD-50518,2025-04-25,NCR,Marketplace,Individual,Home & Living,Storage Box,3.0,313.65,0.0,940.95,395.2,545.75,Debit Card,Hana,No
+ORD-50519,2025-12-30,Region VI,In-store,Small Business,Home & Living,Organizer,3.0,466.57,0.0,1399.71,559.88,839.83,Bank Transfer,Dana,No
+ORD-50520,2025-01-16,Region VII,Marketplace,Individual,Electronics,Keyboard,4.0,861.72,0.0,3446.88,1206.41,2240.47,Debit Card,Carlo,No
+ORD-50521,2025-01-20,Bicol Region,In-store,Individual,Home & Living,Water Bottle,4.0,300.44,0.05,1141.67,540.79,600.88,Debit Card,Eli,Yes
+ORD-50522,2025-02-21,CALABARZON,Marketplace,Individual,Home & Living,Organizer,6.0,534.93,0.0,3209.58,1283.83,1925.75,Debit Card,Alex,No
+ORD-50523,2025-03-28,Region VI,Corporate Sales,Small Business,Home & Living,Desk Lamp,1.0,1034.22,0.1,930.8,351.63,579.17,E-wallet,Dana,Yes
+ORD-50524,2025-07-28,NCR,In-store,Individual,Fashion,T-Shirt,6.0,351.24,0.0,2107.44,842.98,1264.46,Debit Card,Hana,No
+ORD-50525,2025-05-23,NCR,In-store,Small Business,Sports & Outdoors,Resistance Band,3.0,299.1,0.05,852.44,403.79,448.65,Cash,Faith,Yes
+ORD-50526,2025-04-23,Region VI,In-store,Individual,Sports & Outdoors,Yoga Mat,4.0,760.86,0.0,3043.44,1065.2,1978.24,Debit Card,Faith,No
+ORD-50527,2025-07-26,Northern Mindanao,Marketplace,Individual,Fashion,Wallet,3.0,509.11,0.0,1527.33,549.84,977.49,Cash,,No
+ORD-50528,2025-08-15,Region III,Corporate Sales,Individual,Sports & Outdoors,Tumbler,10.0,437.55,0.03,4244.23,1750.2,2494.03,Bank Transfer,Faith,No
+ORD-50529,2025-12-17,NCR,In-store,Small Business,Office Supplies,Bond Paper Ream,2.0,269.16,0.0,538.32,134.58,403.74,Credit Card,Dana,No
+ORD-50530,2025-05-31,Region VII,Marketplace,Small Business,Sports & Outdoors,Resistance Band,4.0,306.24,0.05,1163.71,551.23,612.48,Credit Card,Alex,No
+ORD-50531,2025-11-17,NCR,Marketplace,Individual,Home & Living,Water Bottle,1.0,285.36,0.0,285.36,128.41,156.95,Bank Transfer,Hana,No
+ORD-50532,2025-12-10,Davao Region,In-store,Individual,Home & Living,Organizer,4.0,462.53,0.05,1757.61,740.05,1017.56,E-wallet,Hana,No
+ORD-50533,2025-03-31,Davao Region,Online,Individual,Electronics,Wireless Mouse,6.0,428.7,0.0,2572.2,977.44,1594.76,Cash,Bea,Yes
+ORD-50534,2025-04-24,Davao Region,Corporate Sales,Small Business,Sports & Outdoors,Tumbler,1.0,450.72,0.05,428.18,180.29,247.89,Debit Card,Bea,No
+ORD-50535,2025-11-24,Davao Region,In-store,Corporate,Electronics,Wireless Mouse,3.0,432.25,0.0,1296.75,492.76,803.99,Debit Card,Faith,Yes
+ORD-50536,2025-12-29,Bicol Region,Corporate Sales,Individual,Home & Living,Water Bottle,3.0,260.48,0.0,781.44,351.65,429.79,Credit Card,Alex,No
+ORD-50537,2025-05-18,Region III,In-store,Individual,Electronics,Headset,5.0,1357.73,0.0,6788.65,2172.37,4616.28,Debit Card,Carlo,No
+ORD-50538,2025-01-21,Region VI,Market Place,Corporate,Home & Living,Water Bottle,2.0,293.3,0.03,569.0,263.97,305.03,E-wallet,Hana,No
+ORD-50539,2025-11-04,Northern Mindanao,Online,Small Business,Sports & Outdoors,Yoga Mat,4.0,828.99,0.0,3315.96,1160.59,2155.37,Debit Card,Bea,Yes
+ORD-50540,2025-01-14,Region VI,In-store,Individual,Office Supplies,Stapler,8.0,192.25,0.0,1538.0,569.06,968.94,E-wallet,Faith,Yes
+ORD-50541,2025-02-11,Northern Mindanao,Online,Corporate,Electronics,Keyboard,1.0,817.75,0.0,817.75,286.21,531.54,Credit Card,Carlo,Yes
+ORD-50542,2025-01-08,Northern Mindanao,In-store,Individual,Sports & Outdoors,Yoga Mat,2.0,726.45,0.0,1452.9,508.51,944.39,Bank Transfer,Hana,No
+ORD-50543,2025-04-29,Region VII,Online,Individual,Office Supplies,Ballpen Set,10.0,128.37,0.05,1219.51,616.18,603.33,E-wallet,Alex,No
+ORD-50544,2025-08-15,Northern Mindanao,In-store,Individual,Fashion,Wallet,1.0,567.78,0.0,567.78,204.4,363.38,Credit Card,Eli,Yes
+ORD-50545,2025-11-27,Region VI,Online,Individual,Sports & Outdoors,Yoga Mat,3.0,738.64,0.05,2105.12,775.57,1329.55,Cash,Hana,No
+ORD-50546,2025-10-16,Region VII,Marketplace,Individual,Home & Living,Organizer,6.0,462.74,0.03,2693.15,1110.58,1582.57,Debit Card,Carlo,No
+ORD-50547,2025-02-11,Davao Region,Corporate Sales,Individual,Electronics,Keyboard,1.0,782.26,0.0,782.26,273.79,508.47,Credit Card,Carlo,No
+ORD-50548,2025-10-07,Davao Region,Online,Small Business,Electronics,Wireless Mouse,2.0,414.01,0.0,828.02,314.65,513.37,Credit Card,Eli,No
+ORD-50549,2025-09-21,Davao Region,Online,Corporate,Fashion,Wallet,1.0,511.84,0.0,511.84,184.26,327.58,Bank Transfer,Bea,No
+ORD-50550,2025-03-10,Bicol Region,Online,Small Business,Home & Living,Organizer,4.0,522.63,0.0,2090.52,836.21,1254.31,Credit Card,Carlo,Yes
+ORD-50551,2025-01-08,Region VII,Marketplace,Small Business,Office Supplies,Bond Paper Ream,2.0,272.57,0.03,528.79,136.28,392.51,Cash,Carlo,No
+ORD-50552,2025-06-17,Bicol Region,In-store,Individual,Office Supplies,Notebook,1.0,87.72,0.05,83.33,43.86,39.47,Bank Transfer,Faith,Yes
+ORD-50553,2025-12-04,Bicol Region,,Individual,Fashion,Backpack,10.0,1055.72,0.1,9501.48,3483.88,6017.6,Bank Transfer,Carlo,Yes
+ORD-50554,2025-12-04,Davao Region,In-store,Individual,Office Supplies,Bond Paper Ream,4.0,244.53,0.0,978.12,244.53,733.59,Debit Card,Faith,Yes
+ORD-50555,2025-03-26,Northern Mindanao,In-store,Individual,Home & Living,Water Bottle,1.0,266.17,0.05,252.86,119.78,133.08,E-wallet,Eli,No
+ORD-50556,2025-05-24,Bicol Region,Marketplace,Individual,Electronics,Wireless Mouse,1.0,446.73,0.03,433.33,169.76,263.57,Bank Transfer,Eli,No
+ORD-50557,2025-02-06,Bicol Region,Marketplace,Small Business,Office Supplies,Stapler,4.0,180.17,0.0,720.68,266.65,454.03,Debit Card,Bea,Yes
+ORD-50558,2025-12-17,Davao Region,Corporate Sales,Individual,Electronics,Wireless Mouse,1.0,427.8,0.05,406.41,162.56,243.85,Bank Transfer,Bea,No
+ORD-50559,2025-01-05,Region VI,Online,Individual,Fashion,Backpack,3.0,1121.66,0.0,3364.98,1110.44,2254.54,E-wallet,Hana,Yes
+ORD-50560,2025-10-10,Bicol Region,Marketplace,Individual,Electronics,Wireless Mouse,10.0,486.02,0.0,4860.2,1846.88,3013.32,Debit Card,Gio,No
+ORD-50561,2025-08-29,Region VII,In-store,Small Business,Fashion,Cap,3.0,232.71,0.0,698.13,300.2,397.93,Cash,Carlo,No
+ORD-50562,2025-01-15,CALABARZON,Corporate Sales,Small Business,Sports & Outdoors,Resistance Band,2.0,286.43,0.03,555.67,257.79,297.88,Cash,Dana,No
+ORD-50563,2025-09-25,NCR,In-store,Individual,Electronics,Headset,10.0,1270.05,0.03,12319.48,4064.16,8255.32,Bank Transfer,Gio,No
+ORD-50564,2025-08-05,Bicol Region,In-store,Individual,Sports & Outdoors,Tumbler,4.0,430.53,0.0,1722.12,688.85,1033.27,Credit Card,Carlo,No
+ORD-50565,2025-12-23,Region III,Marketplace,Small Business,Electronics,Keyboard,2.0,830.12,0.0,1660.24,581.08,1079.16,Bank Transfer,Eli,Yes
+ORD-50566,2025-09-11,Region VI,In-store,Individual,Electronics,USB Hub,1.0,623.38,0.0,623.38,224.42,398.96,Cash,Eli,No
+ORD-50567,2025-10-31,CALABARZON,Online,Individual,Home & Living,Storage Box,3.0,325.46,0.0,976.38,410.08,566.3,Cash,Faith,No
+ORD-50568,2025-01-21,Region VI,In-store,Individual,Office Supplies,Ballpen Set,2.0,110.73,0.03,214.82,106.3,108.52,E-wallet,Eli,No
+ORD-50569,2025-01-26,Davao Region,Marketplace,Individual,Sports & Outdoors,Resistance Band,6.0,295.99,0.05,1687.14,799.17,887.97,Debit Card,Eli,No
+ORD-50570,2025-07-25,Davao Region,Online,Small Business,Home & Living,Desk Lamp,8.0,899.44,0.0,7195.52,2446.48,4749.04,Debit Card,Alex,No
+ORD-50571,2025-12-11,NCR,Corporate Sales,Individual,Office Supplies,Notebook,4.0,79.28,0.0,317.12,158.56,158.56,Debit Card,Hana,No
+ORD-50572,2025-06-14,Region VII,Online,Individual,Electronics,Keyboard,3.0,809.9,0.1,2186.73,850.39,1336.34,Debit Card,Carlo,Yes
+ORD-50573,2025-03-02,Northern Mindanao,Marketplace,Small Business,Fashion,Cap,2.0,259.21,0.0,518.42,222.92,295.5,Debit Card,Dana,No
+ORD-50574,2025-09-27,NCR,Online,Corporate,Fashion,Wallet,1.0,581.3,0.05,552.23,209.27,342.96,Debit Card,Eli,No
+ORD-50575,2025-03-17,Northern Mindanao,In-store,Individual,Fashion,T-Shirt,3.0,373.46,0.0,1120.38,448.15,672.23,E-wallet,Hana,No
+ORD-50576,2025-12-24,Region III,,Individual,Fashion,Backpack,1.0,1124.24,0.03,1090.51,371.0,719.51,Bank Transfer,Gio,No
+ORD-50577,2025-06-29,Northern Mindanao,Marketplace,Individual,Fashion,T-Shirt,2.0,332.56,0.03,645.17,266.05,379.12,Bank Transfer,Bea,No
+ORD-50578,2025-10-24,Region VI,Online,Individual,Sports & Outdoors,Yoga Mat,2.0,837.81,0.05,1591.84,586.47,1005.37,Cash,Carlo,No
+ORD-50579,2025-01-23,Northern Mindanao,Corporate Sales,Individual,Fashion,Wallet,4.0,571.42,0.05,2171.4,822.84,1348.56,Cash,Hana,Yes
+ORD-50580,2025-01-08,,Corporate Sales,Individual,Office Supplies,Stapler,6.0,195.55,0.0,1173.3,434.12,739.18,E-wallet,Faith,No
+ORD-50581,2025-12-12,Northern Mindanao,Marketplace,Corporate,Fashion,T-Shirt,3.0,329.41,0.0,988.23,395.29,592.94,Cash,Carlo,Yes
+ORD-50582,2025-10-05,Region III,Online,Individual,Office Supplies,Ballpen Set,3.0,130.04,0.0,390.12,187.26,202.86,Bank Transfer,Alex,No
+ORD-50583,2025-03-30,Davao Region,Marketplace,Individual,Electronics,USB Hub,3.0,598.37,0.0,1795.11,646.24,1148.87,Bank Transfer,Gio,No
+ORD-50584,2025-07-18,Northern Mindanao,Marketplace,Individual,Home & Living,Organizer,4.0,528.71,0.0,2114.84,845.94,1268.9,Bank Transfer,Gio,No
+ORD-50585,2025-08-17,Davao Region,Marketplace,Individual,Fashion,Wallet,5.0,571.6,0.03,2772.26,1028.88,1743.38,Cash,Bea,No
+ORD-50586,2025-04-16,CALABARZON,In-store,Small Business,Electronics,Webcam,4.0,1939.07,0.05,7368.47,2326.88,5041.59,E-wallet,Hana,No
+ORD-50587,2025-11-12,CALABARZON,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,4.0,779.6,0.03,3024.85,1091.44,1933.41,Credit Card,Eli,No
+ORD-50588,2025-01-19,Davao Region,Online,Individual,Electronics,USB Hub,2.0,617.32,0.05,1172.91,444.47,728.44,Credit Card,Eli,No
+ORD-50589,2025-09-28,Region VII,Marketplace,Small Business,Fashion,T-Shirt,1.0,,0.0,322.51,129.0,193.51,Credit Card,,No
+ORD-50590,2025-07-10,Davao Region,In-store,Individual,Office Supplies,Bond Paper Ream,1.0,260.93,0.0,260.93,65.23,195.7,Cash,Carlo,No
+ORD-50591,2025-11-24,Northern Mindanao,Online,Corporate,Electronics,Wireless Mouse,2.0,457.49,0.0,914.98,347.69,567.29,Credit Card,Faith,Yes
+ORD-50592,2025-05-09,CALABARZON,Marketplace,Individual,Electronics,Headset,3.0,1344.21,0.05,3831.0,1290.44,2540.56,Debit Card,Eli,No
+ORD-50593,2025-01-22,Region III,Marketplace,Small Business,Office Supplies,Ballpen Set,5.0,121.89,0.0,609.45,292.54,316.91,Debit Card,Dana,No
+ORD-50594,2025-10-05,Bicol Region,In-store,Small Business,Home & Living,Organizer,1.0,538.45,0.03,522.3,215.38,306.92,Bank Transfer,Bea,No
+ORD-50595,2025-05-11,Region VII,In-store,Individual,Home & Living,Desk Lamp,3.0,978.23,0.0,2934.69,997.79,1936.9,Cash,Dana,No
+ORD-50596,2025-03-14,Region VI,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,1.0,844.27,0.0,844.27,295.49,714.51,Credit Card,Carlo,Yes
+ORD-50597,2025-12-15,Northern Mindanao,In-store,Individual,Electronics,Headset,3.0,1296.61,0.05,3695.34,1244.75,2450.59,Bank Transfer,Gio,No
+ORD-50598,2025-05-15,Bicol Region,Online,Corporate,Fashion,Wallet,1.0,569.24,0.0,569.24,204.93,364.31,Bank Transfer,Alex,No
+ORD-50599,2025-03-08,CALABARZON,Online,Small Business,Office Supplies,Stapler,6.0,174.37,0.0,1046.22,387.1,659.12,Credit Card,Alex,No
+ORD-50600,2025-05-01,Region III,Marketplace,Individual,Sports & Outdoors,Yoga Mat,3.0,843.42,0.03,2454.35,885.59,1568.76,Bank Transfer,Eli,No
+ORD-50601,2025-12-10,Region VI,Marketplace,Individual,Electronics,Keyboard,2.0,896.71,0.05,1703.75,627.7,1076.05,Debit Card,Eli,No
+ORD-50602,2025-09-03,Region III,Online,Individual,Home & Living,Water Bottle,10.0,295.5,0.03,2866.35,1329.75,1536.6,Debit Card,Bea,No
+ORD-50603,2025-11-25,Region VI,Marketplace,Individual,Home & Living,Water Bottle,1.0,272.41,0.15,231.55,122.58,108.97,Cash,Bea,Yes
+ORD-50604,2025-06-29,NCR,Marketplace,Individual,Electronics,Webcam,6.0,1762.84,0.05,10048.19,3173.11,6875.08,Bank Transfer,Eli,No
+ORD-50605,2025-01-10,Region III,In-store,Small Business,Electronics,Headset,1.0,1262.3,0.05,1199.18,403.94,795.24,Bank Transfer,Dana,Yes
+ORD-50606,2025-04-15,Region VII,In-store,Individual,Home & Living,Storage Box,4.0,348.93,0.0,1395.72,586.2,809.52,Bank Transfer,Gio,No
+ORD-50607,2025-04-21,Region VII,In-store,Small Business,Sports & Outdoors,Tumbler,1.0,423.11,0.05,401.95,169.24,232.71,Credit Card,Eli,No
+ORD-50608,2025-10-31,Davao Region,In-store,Individual,Office Supplies,Ballpen Set,5.0,122.88,0.05,583.68,294.91,288.77,Debit Card,Faith,No
+ORD-50609,2025-09-01,Region VII,Online,Individual,Office Supplies,Ballpen Set,5.0,120.14,0.0,600.7,288.34,312.36,Cash,Eli,Yes
+ORD-50610,2025-01-14,Region VI,Online,Individual,Sports & Outdoors,Resistance Band,5.0,313.99,0.0,1569.95,706.48,863.47,Debit Card,Carlo,No
+ORD-50611,2025-09-14,Bicol Region,Online,Small Business,Home & Living,Storage Box,3.0,323.05,0.0,969.15,407.04,562.11,Cash,Alex,Yes
+ORD-50612,2025-11-30,Region III,Online,Individual,Home & Living,Storage Box,4.0,322.42,0.0,1289.68,541.67,748.01,E-wallet,Carlo,Yes
+ORD-50613,2025-11-27,Region VI,Corporate Sales,Individual,Home & Living,Desk Lamp,6.0,1014.56,0.0,6087.36,2069.7,4017.66,E-wallet,Hana,Yes
+ORD-50614,2025-10-10,Region VI,In Store,Corporate,Sports & Outdoors,Yoga Mat,3.0,721.06,0.05,2055.02,757.11,1297.91,Bank Transfer,Dana,No
+ORD-50615,2025-03-03,Region III,Online,Individual,Fashion,T-Shirt,2.0,344.19,0.0,688.38,275.35,413.03,Cash,Dana,Yes
+ORD-50616,2025-05-18,Bicol Region,Marketplace,Individual,Electronics,Webcam,5.0,1716.37,0.0,8581.85,2574.55,6007.3,E-wallet,Carlo,No
+ORD-50617,2025-05-18,,Online,Individual,Office Supplies,Stapler,2.0,187.31,0.05,355.89,138.61,217.28,Bank Transfer,Faith,Yes
+ORD-50618,2025-12-26,Region VI,Online,Individual,Electronics,Headset,2.0,1198.33,0.0,2396.66,766.93,1629.73,Cash,Eli,No
+ORD-50619,2025-12-02,CALABARZON,In-store,Individual,Office Supplies,Ballpen Set,2.0,118.62,0.0,237.24,113.88,123.36,Bank Transfer,Faith,Yes
+ORD-50620,2025-10-07,Region VII,Corporate Sales,Individual,Office Supplies,Ballpen Set,1.0,111.17,0.0,111.17,53.36,57.81,Cash,Faith,No
+ORD-50621,2025-09-05,Region III,Online,Individual,Fashion,T-Shirt,1.0,378.0,0.0,378.0,151.2,226.8,Credit Card,Eli,No
+ORD-50622,2025-05-20,Region VII,Online,Individual,Home & Living,Organizer,6.0,540.17,0.03,3143.79,1296.41,1847.38,E-wallet,Faith,No
+ORD-50623,2025-11-29,Region VII,In-store,Individual,Fashion,Backpack,2.0,1205.87,0.0,2411.74,795.87,1615.87,Credit Card,Bea,Yes
+ORD-50624,2025-03-06,Bicol Region,Marketplace,Individual,Sports & Outdoors,Tumbler,4.0,450.79,0.0,1803.16,721.26,1081.9,E-wallet,Gio,No
+ORD-50625,2025-10-27,Region VII,Online,Individual,Office Supplies,Stapler,1.0,180.77,0.05,171.73,66.88,104.85,E-wallet,Hana,No
+ORD-50626,2025-08-22,CALABARZON,Corporate Sales,Individual,Home & Living,Storage Box,3.0,340.35,0.0,1021.05,428.84,592.21,Credit Card,Alex,No
+ORD-50627,2025-07-02,Northern Mindanao,In-store,Individual,Office Supplies,Stapler,3.0,168.77,0.0,506.31,187.33,318.98,Bank Transfer,Faith,No
+ORD-50628,2025-03-23,NCR,In-store,Corporate,Electronics,Webcam,1.0,1882.83,0.0,1882.83,564.85,1317.98,Bank Transfer,Carlo,Yes
+ORD-50629,2025-09-19,CALABARZON,Marketplace,Small Business,Electronics,Keyboard,2.0,895.67,0.0,1791.34,626.97,1164.37,Bank Transfer,Carlo,No
+ORD-50630,2025-06-12,NCR,In-store,Individual,Fashion,Cap,3.0,236.24,0.03,687.46,304.75,382.71,Cash,Gio,No
+ORD-50631,2025-09-06,Region VI,In-store,Small Business,Home & Living,Storage Box,1.0,335.31,0.0,335.31,140.83,194.48,Credit Card,Gio,Yes
+ORD-50632,2025-09-03,Northern Mindanao,Corporate Sales,Small Business,Fashion,Backpack,3.0,1199.21,0.0,3597.63,1187.22,2410.41,Credit Card,Carlo,Yes
+ORD-50633,2025-08-17,CALABARZON,Marketplace,Individual,Home & Living,Organizer,8.0,509.18,0.0,4073.44,1629.38,2444.06,Bank Transfer,Faith,No
+ORD-50634,2025-03-09,Region VII,Marketplace,Individual,Sports & Outdoors,Resistance Band,6.0,289.47,0.03,1684.72,781.57,903.15,Bank Transfer,Hana,No
+ORD-50635,2025-01-24,Northern Mindanao,In-store,Small Business,Electronics,Headset,3.0,1353.29,0.0,4059.87,1299.16,2760.71,E-wallet,Hana,No
+ORD-50636,2025-05-27,Bicol Region,Marketplace,Small Business,Fashion,Cap,6.0,266.74,0.03,1552.43,688.19,864.24,Credit Card,Eli,No
+ORD-50637,2025-01-02,NCR,Marketplace,Small Business,Office Supplies,Stapler,4.0,176.53,0.03,684.94,261.26,423.68,Debit Card,Eli,No
+ORD-50638,2025-02-27,Region VI,In-store,Individual,Electronics,Keyboard,1.0,836.38,0.05,794.56,292.73,501.83,Debit Card,,Yes
+ORD-50639,2025-05-20,Region III,Online,Individual,Office Supplies,Bond Paper Ream,1.0,259.06,0.0,259.06,64.77,194.29,Bank Transfer,Bea,No
+ORD-50640,2025-10-02,Bicol Region,Marketplace,Small Business,Office Supplies,Notebook,1.0,80.09,0.0,80.09,40.05,40.04,Credit Card,Gio,No
+ORD-50641,2025-04-30,Northern Mindanao,Online,Small Business,Office Supplies,Ballpen Set,1.0,122.32,0.0,122.32,58.71,63.61,Cash,Faith,No
+ORD-50642,2025-03-04,CALABARZON,Corporate Sales,Small Business,Electronics,Wireless Mouse,1.0,439.3,0.05,417.33,166.93,250.4,Bank Transfer,Hana,No
+ORD-50643,2025-04-22,Davao Region,Marketplace,Individual,Electronics,Keyboard,3.0,837.23,0.05,2386.11,879.09,1507.02,Bank Transfer,Carlo,No
+ORD-50644,2025-06-09,Region III,Online,Individual,Sports & Outdoors,Tumbler,5.0,448.52,0.05,2130.47,897.04,1233.43,E-wallet,Dana,Yes
+ORD-50645,2025-05-04,Region VI,Marketplace,Individual,Home & Living,Desk Lamp,1.0,949.72,0.0,949.72,322.9,626.82,E-wallet,Eli,Yes
+ORD-50646,2025-12-24,Bicol Region,,Individual,Home & Living,Organizer,2.0,517.02,0.0,1034.04,413.62,620.42,Cash,Faith,No
+ORD-50647,2025-03-08,Region VII,Online,Individual,Office Supplies,Bond Paper Ream,5.0,255.16,0.0,1275.8,318.95,956.85,Bank Transfer,,No
+ORD-50648,2025-01-07,CALABARZON,In-store,Individual,Home & Living,Water Bottle,3.0,271.79,0.0,815.37,366.92,448.45,Debit Card,Dana,No
+ORD-50649,2025-10-05,CALABARZON,In-store,Individual,Electronics,USB Hub,1.0,678.8,0.03,658.44,244.37,414.07,Credit Card,Dana,No
+ORD-50650,2025-07-11,CALABARZON,Marketplace,Individual,Home & Living,Desk Lamp,2.0,985.57,0.05,1872.58,670.19,1202.39,Bank Transfer,Carlo,No
+ORD-50651,2025-05-27,Calabarzon,In-store,Individual,Electronics,Wireless Mouse,1.0,453.45,0.0,453.45,172.31,281.14,Debit Card,Dana,No
+ORD-50652,2025-03-23,NCR,Online,Individual,Office Supplies,Notebook,1.0,93.45,0.05,88.78,46.73,42.05,Credit Card,Dana,No
+ORD-50653,2025-09-03,NCR,Marketplace,Small Business,Home & Living,Water Bottle,3.0,305.11,0.05,869.56,411.9,457.66,Credit Card,Bea,No
+ORD-50654,2025-04-13,Davao,In-store,Small Business,Office Supplies,Ballpen Set,2.0,111.89,0.0,223.78,107.41,116.37,Bank Transfer,Dana,No
+ORD-50655,2025-07-16,Region VI,Marketplace,Individual,Fashion,Backpack,1.0,1116.45,0.05,1060.63,368.43,692.2,Bank Transfer,Dana,No
+ORD-50656,2025-11-03,Region III,Online,Individual,Office Supplies,Stapler,1.0,196.53,0.15,167.05,72.72,94.33,E-wallet,Alex,Yes
+ORD-50657,2025-10-11,CALABARZON,In-store,Individual,Sports & Outdoors,Tumbler,4.0,448.2,0.0,1792.8,717.12,1075.68,Debit Card,Hana,No
+ORD-50658,2025-03-07,Region VI,In-store,Individual,Fashion,T-Shirt,1.0,347.93,0.0,347.93,139.17,208.76,Debit Card,Carlo,No
+ORD-50659,2025-12-27,Region III,Marketplace,Individual,Home & Living,Organizer,8.0,515.75,0.0,4126.0,1650.4,2475.6,E-wallet,Faith,No
+ORD-50660,2025-10-25,NCR,In-store,Individual,Office Supplies,Stapler,3.0,190.88,0.0,572.64,211.88,360.76,Debit Card,Bea,No
+ORD-50661,2025-09-30,Bicol Region,Marketplace,Individual,Fashion,Backpack,3.0,1191.82,0.0,3575.46,1179.9,2395.56,Cash,Faith,No
+ORD-50662,2025-05-29,Davao Region,Online,Small Business,Office Supplies,Stapler,5.0,196.96,0.0,984.8,364.38,620.42,Bank Transfer,Gio,No
+ORD-50663,2025-08-10,Davao Region,Marketplace,Small Business,Electronics,Keyboard,4.0,910.01,0.1,3276.04,1274.01,2002.03,Debit Card,Gio,Yes
+ORD-50664,2025-04-06,Region III,Online,Individual,Home & Living,Water Bottle,2.0,270.84,0.05,514.6,243.76,270.84,Bank Transfer,Dana,No
+ORD-50665,2025-10-09,Region VI,Marketplace,Individual,Fashion,Cap,4.0,267.56,0.03,1038.13,460.2,577.93,Credit Card,Eli,No
+ORD-50666,2025-08-12,Davao Region,Marketplace,Small Business,Sports & Outdoors,Yoga Mat,3.0,855.5,0.0,2566.5,898.27,1668.23,E-wallet,Eli,No
+ORD-50667,2025-12-10,Region VII,Marketplace,Small Business,Home & Living,Water Bottle,3.0,281.2,0.0,843.6,379.62,463.98,Cash,Eli,No
+ORD-50668,2025-05-07,Region VII,Corporate Sales,CORPORATE,Office Supplies,Notebook,3.0,79.64,0.0,238.92,119.46,119.46,Bank Transfer,Dana,No
+ORD-50669,2025-04-06,Davao Region,Corporate Sales,Individual,Electronics,Keyboard,4.0,,0.05,3313.98,1220.94,2093.04,Credit Card,Eli,No
+ORD-50670,2025-08-31,NCR,In-store,Small Business,Electronics,Headset,5.0,1311.58,0.0,6557.9,2098.53,4459.37,Debit Card,Faith,No
+ORD-50671,2025-08-19,Northern Mindanao,Marketplace,Individual,Home & Living,Desk Lamp,3.0,972.73,0.03,2830.64,992.18,1838.46,Credit Card,Alex,No
+ORD-50672,2025-12-29,Davao Region,Online,Individual,Office Supplies,Bond Paper Ream,6.0,277.33,0.0,1663.98,416.0,1247.98,Credit Card,Alex,Yes
+ORD-50673,2025-08-19,NCR,Marketplace,Corporate,Home & Living,Storage Box,5.0,310.52,0.0,1552.6,652.09,900.51,Cash,Dana,No
+ORD-50674,2025-06-03,Region VII,Marketplace,Individual,Home & Living,Desk Lamp,2.0,897.74,0.0,1795.48,610.46,1185.02,Bank Transfer,Gio,No
+ORD-50675,2025-08-22,Region VI,Marketplace,Small Business,Electronics,Keyboard,6.0,846.65,0.0,5079.9,1777.96,3301.94,Credit Card,Gio,No
+ORD-50676,2025-08-23,Region VI,In-store,Individual,Office Supplies,Stapler,2.0,196.58,0.03,381.37,145.47,235.9,E-wallet,Eli,No
+ORD-50677,2025-08-06,,Corporate Sales,Individual,Office Supplies,Ballpen Set,1.0,121.99,0.0,121.99,58.56,63.43,E-wallet,Dana,No
+ORD-50678,2025-09-06,Northern Mindanao,Corporate Sales,Individual,Fashion,Cap,2.0,235.81,0.03,457.47,202.8,254.67,Cash,Faith,No
+ORD-50679,2025-08-15,Region III,In-store,Individual,Sports & Outdoors,Yoga Mat,2.0,826.94,0.0,1653.88,578.86,1075.02,Bank Transfer,Dana,Yes
+ORD-50680,2025-11-09,Region VI,Corporate Sales,Small Business,Office Supplies,Bond Paper Ream,4.0,267.25,0.15,908.65,267.25,641.4,Credit Card,Eli,Yes
+ORD-50681,2025-08-30,Region VII,In-store,Individual,Home & Living,Water Bottle,2.0,265.3,0.0,530.6,238.77,291.83,Cash,Carlo,No
+ORD-50682,2025-10-22,NCR,Marketplace,Individual,Electronics,Headset,5.0,1231.59,0.0,6157.95,1970.54,4187.41,Bank Transfer,,No
+ORD-50683,2025-10-20,,Marketplace,Individual,Office Supplies,Notebook,1.0,82.49,0.05,78.37,41.24,37.13,Cash,Gio,No
+ORD-50684,2025-08-08,Region III,In-store,Individual,Office Supplies,Ballpen Set,2.0,116.9,0.0,233.8,112.22,121.58,Debit Card,Gio,No
+ORD-50685,2025-11-20,Region III,Corporate Sales,Small Business,Electronics,Keyboard,4.0,812.99,0.0,3251.96,1138.19,2113.77,Bank Transfer,Dana,No
+ORD-50686,2025-11-28,NCR,Online,Individual,Electronics,Keyboard,2.0,837.81,0.1,1508.06,586.47,921.59,E-wallet,Faith,Yes
+ORD-50687,2025-02-19,Bicol Region,In-store,Individual,Office Supplies,Notebook,1.0,92.88,0.0,92.88,46.44,46.44,Bank Transfer,Alex,No
+ORD-50688,2025-06-23,Davao Region,In-store,Individual,Sports & Outdoors,Resistance Band,2.0,305.92,0.15,520.06,275.33,244.73,Bank Transfer,Dana,Yes
+ORD-50689,2025-04-08,Region VII,Marketplace,Small Business,Sports & Outdoors,Tumbler,1.0,458.48,0.0,458.48,183.39,275.09,Credit Card,Faith,No
+ORD-50690,2025-04-17,Region III,Marketplace,Individual,Home & Living,Organizer,1.0,511.82,0.05,486.23,204.73,281.5,E-wallet,Hana,No
+ORD-50691,2025-06-29,CALABARZON,Corporate Sales,Individual,Fashion,Wallet,1.0,544.99,0.0,544.99,196.2,348.79,Debit Card,Faith,Yes
+ORD-50692,2025-11-11,Davao Region,In-store,Small Business,Electronics,Headset,2.0,1202.6,0.0,2405.2,769.66,1635.54,Bank Transfer,Alex,Yes
+ORD-50693,2025-01-24,Region VI,Marketplace,Individual,Sports & Outdoors,Yoga Mat,2.0,795.41,0.03,1543.1,556.79,986.31,Debit Card,Hana,No
+ORD-50694,2025-06-14,NCR,Corporate Sales,Individual,Home & Living,Storage Box,1.0,317.42,0.03,307.9,133.32,174.58,Bank Transfer,Hana,No
+ORD-50695,2025-04-12,Region III,Marketplace,Small Business,Office Supplies,Stapler,8.0,183.5,0.0,1468.0,543.16,924.84,Credit Card,Hana,No
+ORD-50696,2025-12-11,Region III,In-store,Individual,Electronics,USB Hub,1.0,690.31,0.0,690.31,248.51,441.8,E-wallet,Bea,No
+ORD-50697,2025-11-28,Region VI,Online,Individual,Office Supplies,Ballpen Set,3.0,126.96,0.1,342.79,182.82,159.97,E-wallet,Dana,Yes
+ORD-50698,2025-04-09,NCR,Marketplace,Small Business,Sports & Outdoors,Resistance Band,1.0,293.8,0.0,293.8,132.21,161.59,Debit Card,Alex,No
+ORD-50699,2025-07-30,Region VII,Online,Small Business,Office Supplies,Bond Paper Ream,1.0,264.19,0.0,264.19,66.05,198.14,Credit Card,Hana,No
+ORD-50700,2025-01-05,Davao Region,Marketplace,Individual,Office Supplies,Stapler,3.0,193.86,0.05,552.5,215.18,337.32,Bank Transfer,Eli,No
+ORD-50701,2025-10-05,CALABARZON,Online,Individual,Electronics,Headset,1.0,1172.93,0.0,1172.93,375.34,797.59,Bank Transfer,Dana,No
+ORD-50702,2025-12-15,Region III,Marketplace,Corporate,Electronics,Headset,2.0,1349.82,0.1,2429.68,863.88,1565.8,E-wallet,Eli,Yes
+ORD-50703,2025-07-02,Northern Mindanao,Marketplace,Small Business,Home & Living,Water Bottle,1.0,292.51,0.0,292.51,131.63,160.88,Bank Transfer,Gio,No
+ORD-50704,2025-08-22,Region III,In-store,Individual,Electronics,Webcam,3.0,1677.65,0.0,5032.95,1509.89,3523.06,Credit Card,Gio,No
+ORD-50705,2025-05-20,CALABARZON,Online,Small Business,Sports & Outdoors,Tumbler,1.0,426.96,0.0,426.96,170.78,256.18,E-wallet,Alex,No
+ORD-50706,2025-09-21,Northern Mindanao,Marketplace,Individual,Office Supplies,Ballpen Set,8.0,116.34,0.05,884.18,446.75,437.43,E-wallet,Carlo,No
+ORD-50707,2025-07-15,Region VII,Marketplace,Individual,Office supplies,Ballpen Set,1.0,130.41,0.05,123.89,62.6,61.29,Cash,Carlo,No
+ORD-50708,2025-10-24,Region III,Online,Individual,Home & Living,Organizer,2.0,513.9,0.03,996.97,411.12,585.85,Debit Card,Hana,No
+ORD-50709,2025-09-20,Bicol Region,In-store,Individual,Office Supplies,Bond Paper Ream,4.0,255.95,0.0,1023.8,255.95,767.85,Debit Card,Hana,No
+ORD-50710,2025-11-08,Region III,Marketplace,Individual,Office Supplies,Ballpen Set,2.0,120.69,0.05,229.31,115.86,113.45,Debit Card,Bea,Yes
+ORD-50711,2025-11-11,Region VI,Marketplace,Individual,Home & Living,Storage Box,3.0,313.07,0.0,939.21,394.47,544.74,Debit Card,Carlo,Yes
+ORD-50712,2025-07-13,Region VII,In-store,Small Business,Office Supplies,Notebook,2.0,78.47,0.03,152.23,78.47,73.76,Cash,Hana,No
+ORD-50713,2025-08-27,Region VI,Online,Individual,Office Supplies,Ballpen Set,1.0,114.06,0.03,110.64,54.75,55.89,Debit Card,Faith,No
+ORD-50714,2025-06-09,Bicol Region,In-store,Individual,Office Supplies,Bond Paper Ream,5.0,271.61,0.15,1154.34,339.51,814.83,Cash,Bea,Yes
+ORD-50715,2025-05-03,Region VII,In-store,Individual,Fashion,Backpack,1.0,1114.11,0.05,1058.4,367.66,690.74,Cash,Carlo,No
+ORD-50716,2025-04-19,Region VI,In Store,Individual,Electronics,Headset,1.0,1362.16,0.0,1362.16,435.89,926.27,E-wallet,Dana,No
+ORD-50717,2025-12-14,Region VI,Marketplace,Individual,Home & Living,Water Bottle,6.0,289.84,0.0,1739.04,782.57,956.47,Credit Card,Alex,No
+ORD-50718,2025-08-16,Northern Mindanao,In-store,Individual,Electronics,USB Hub,1.0,657.06,0.05,624.21,236.54,387.67,Bank Transfer,Bea,No
+ORD-50719,2025-10-14,Bicol Region,Marketplace,Small Business,Fashion,Cap,2.0,236.59,0.0,473.18,203.47,269.71,Bank Transfer,Dana,No
+ORD-50720,2025-05-27,Region VI,In-store,Individual,Fashion,Wallet,2.0,512.76,0.0,1025.52,369.19,656.33,Cash,Carlo,No
+ORD-50721,2025-12-31,Northern Mindanao,Marketplace,Individual,Sports & Outdoors,Yoga Mat,4.0,850.14,0.0,3400.56,1190.2,2210.36,Cash,Alex,No
+ORD-50722,2025-04-17,NCR,Corporate Sales,Corporate,Electronics,Headset,2.0,1172.5,0.0,2345.0,750.4,1594.6,Credit Card,Faith,No
+ORD-50723,2025-05-25,NCR,Online,Individual,Office Supplies,Bond Paper Ream,2.0,269.54,0.05,512.13,134.77,377.36,Credit Card,Hana,No
+ORD-50724,2025-07-31,Bicol Region,Online,Individual,Electronics,Webcam,1.0,1856.67,0.0,1856.67,557.0,1299.67,Debit Card,Alex,No
+ORD-50725,2025-06-20,NCR,In-store,Small Business,Office Supplies,Stapler,4.0,192.5,0.0,770.0,284.9,485.1,Debit Card,Dana,No
+ORD-50726,2025-03-02,NCR,In-store,Individual,Office Supplies,Bond Paper Ream,6.0,278.44,0.05,1587.11,417.66,1169.45,Cash,Alex,No
+ORD-50727,2025-05-29,Bicol Region,In-store,Small Business,Sports & Outdoors,Tumbler,10.0,391.94,0.0,3919.4,1567.76,2351.64,E-wallet,Hana,No
+ORD-50728,2025-08-12,Davao Region,Online,Individual,Home & Living,Organizer,1.0,466.07,0.0,466.07,186.43,446.06,E-wallet,Hana,No
+ORD-50729,2025-11-29,Bicol Region,Online,Individual,Office Supplies,Ballpen Set,4.0,127.57,0.03,494.97,244.93,250.04,Bank Transfer,Faith,No
+ORD-50730,2025-01-26,Region III,Online,Small Business,Fashion,Wallet,5.0,530.36,0.0,2651.8,954.65,1697.15,Cash,Hana,No
+ORD-50731,2025-01-05,Region VII,In Store,Corporate,Home & Living,Organizer,3.0,482.31,0.03,1403.52,578.77,824.75,E-wallet,Bea,No
+ORD-50732,2025-07-27,NCR,Online,Individual,Sports & Outdoors,Yoga Mat,10.0,757.33,0.0,7573.3,2650.65,4922.65,Cash,Hana,No
+ORD-50733,2025-11-01,Davao Region,Marketplace,Individual,Electronics,Keyboard,2.0,785.23,0.15,1334.89,549.66,785.23,Credit Card,Dana,Yes
+ORD-50734,2025-09-22,Bicol Region,Marketplace,Individual,Home & Living,Water Bottle,8.0,275.38,0.05,2092.89,991.37,1101.52,Cash,Carlo,No
+ORD-50735,2025-01-29,Region VI,Corporate Sales,Individual,Fashion,Wallet,3.0,573.18,0.05,1633.56,619.03,1014.53,Bank Transfer,Eli,No
+ORD-50736,2025-01-25,NCR,Online,Individual,Home & Living,Organizer,1.0,465.97,0.0,465.97,186.39,279.58,Credit Card,Dana,Yes
+ORD-50737,2025-06-15,CALABARZON,Marketplace,Corporate,Fashion,Backpack,4.0,1097.69,0.03,4259.04,1448.95,2810.09,Credit Card,Eli,No
+ORD-50738,2025-10-16,CALABARZON,In-store,Individual,Electronics,Headset,6.0,1160.87,0.03,6756.26,2228.87,4527.39,Debit Card,Eli,No
+ORD-50739,2025-09-24,Bicol Region,Online,Corporate,Electronics,Wireless Mouse,5.0,443.19,0.1,1994.35,842.06,1152.29,Credit Card,Dana,Yes
+ORD-50740,2025-04-09,NCR,In-store,Individual,Sports & Outdoors,Tumbler,3.0,429.04,0.0,1287.12,514.85,772.27,E-wallet,Carlo,Yes
+ORD-50741,2025-09-25,Bicol Region,Corporate Sales,Small Business,Office Supplies,Stapler,1.0,175.39,0.1,157.85,64.89,92.96,Debit Card,Dana,Yes
+ORD-50742,2025-08-04,Northern Mindanao,Marketplace,Individual,Sports & Outdoors,Yoga Mat,2.0,776.37,0.0,1552.74,543.46,1009.28,Bank Transfer,Faith,No
+ORD-50743,2025-06-29,NCR,Online,Individual,Electronics,USB Hub,3.0,653.54,0.0,1960.62,705.82,1254.8,Credit Card,Faith,No
+ORD-50744,2025-10-05,CALABARZON,Marketplace,Individual,Fashion,Backpack,1.0,1028.3,0.05,976.88,339.34,637.54,Debit Card,Alex,No
+ORD-50745,2025-11-06,Region III,Marketplace,Individual,Home & Living,Desk Lamp,2.0,990.98,0.03,1922.5,673.87,1248.63,Cash,Hana,No
+ORD-50746,2025-09-28,NCR,Online,Small Business,Home & Living,Water Bottle,5.0,279.01,0.05,1325.3,627.77,697.53,Cash,Faith,No
+ORD-50747,2025-08-19,Region VI,Online,Individual,Office Supplies,Stapler,4.0,181.71,0.05,690.5,268.93,421.57,Bank Transfer,Alex,No
+ORD-50748,2025-02-15,Northern Mindanao,Corporate Sales,Small Business,Home & Living,Storage Box,1.0,302.42,0.0,302.42,127.02,175.4,Debit Card,Hana,No
+ORD-50749,2025-11-05,Region VII,Marketplace,Small Business,Home & Living,Storage Box,1.0,337.09,0.0,337.09,141.58,195.51,Bank Transfer,Carlo,No
+ORD-50750,2025-08-20,CALABARZON,Online,Corporate,Fashion,T-Shirt,3.0,336.15,0.1,907.6,403.38,504.22,E-wallet,Carlo,Yes
+ORD-50751,2025-04-26,Region VI,In-store,Individual,Home & Living,Water Bottle,2.0,282.12,0.0,564.24,253.91,310.33,Bank Transfer,Faith,No
+ORD-50752,2025-03-29,NCR,Corporate Sales,Individual,Office Supplies,Ballpen Set,2.0,124.53,0.03,241.59,119.55,122.04,Bank Transfer,Dana,No
+ORD-50753,2025-12-30,NCR,Marketplace,Small Business,Home & Living,Desk Lamp,5.0,953.45,0.0,4767.25,1620.87,3146.38,Debit Card,Alex,Yes
+ORD-50754,2025-10-24,Calabarzon,Corporate Sales,Individual,Home & Living,Water Bottle,3.0,293.4,0.0,880.2,396.09,484.11,Credit Card,,No
+ORD-50755,2025-11-25,Davao Region,In-store,Individual,Electronics,Keyboard,1.0,866.12,0.0,866.12,303.14,562.98,Credit Card,Hana,No
+ORD-50756,2025-04-18,Region VI,Marketplace,Individual,Fashion,Backpack,5.0,1039.66,0.0,5198.3,1715.44,3482.86,E-wallet,Bea,No
+ORD-50757,2025-12-03,CALABARZON,Online,Individual,Electronics,Keyboard,1.0,812.17,0.0,812.17,284.26,527.91,Cash,Alex,No
+ORD-50758,2025-12-21,Region III,Marketplace,Small Business,Fashion,Wallet,2.0,598.94,0.0,1197.88,431.24,766.64,Bank Transfer,Alex,No
+ORD-50759,2025-07-04,Bicol Region,Online,Corporate,Fashion,Wallet,1.0,516.35,0.03,500.86,185.89,314.97,Bank Transfer,Alex,No
+ORD-50760,2025-12-31,Region III,In-store,Individual,Sports & Outdoors,Yoga Mat,4.0,795.85,0.0,3183.4,1114.19,2069.21,Credit Card,Carlo,No
+ORD-50761,2025-06-05,Davao Region,Marketplace,Individual,Office Supplies,Notebook,2.0,78.29,0.0,156.58,78.29,78.29,Bank Transfer,Dana,Yes
+ORD-50762,2025-07-29,Davao Region,Corporate Sales,Individual,Office Supplies,Stapler,6.0,192.26,0.0,1153.56,426.82,726.74,Debit Card,Carlo,No
+ORD-50763,2025-11-07,Region VI,Online,Small Business,Home & Living,Water Bottle,4.0,290.74,0.15,988.52,523.33,465.19,Credit Card,Bea,Yes
+ORD-50764,2025-08-12,Region VII,Online,Individual,Office Supplies,Stapler,2.0,183.25,0.0,366.5,135.6,230.9,Cash,Dana,No
+ORD-50765,2025-07-15,Davao Region,Online,Small business,Home & Living,Storage Box,3.0,296.45,0.03,862.67,373.53,489.14,Debit Card,Gio,No
+ORD-50766,2025-06-03,Bicol Region,Online,Corporate,Home & Living,Water Bottle,4.0,305.47,0.0,1221.88,549.85,672.03,Debit Card,Hana,No
+ORD-50767,2025-01-17,Region VII,Marketplace,Corporate,Office Supplies,Ballpen Set,4.0,129.07,0.0,516.28,247.81,268.47,Debit Card,Faith,No
+ORD-50768,2025-02-04,Region VII,Marketplace,Individual,Office Supplies,Notebook,1.0,83.88,0.0,83.88,41.94,41.94,Cash,Eli,Yes
+ORD-50769,2025-12-09,Bicol Region,Online,Corporate,Electronics,USB Hub,1.0,696.09,0.0,696.09,250.59,445.5,E-wallet,Carlo,No
+ORD-50770,2025-05-01,Region VII,online,Small Business,Electronics,Wireless Mouse,1.0,426.18,0.0,426.18,161.95,264.23,Credit Card,Gio,No
+ORD-50771,2025-05-27,Bicol Region,Online,Individual,Office Supplies,Ballpen Set,3.0,113.97,0.0,341.91,164.12,177.79,E-wallet,Dana,No
+ORD-50772,2025-10-31,Northern Mindanao,Online,Individual,Office Supplies,Notebook,2.0,81.71,0.03,158.52,81.71,76.81,Debit Card,Alex,No
+ORD-50773,2025-11-14,NCR,Marketplace,Corporate,Sports & Outdoors,Yoga Mat,2.0,781.01,0.0,1562.02,546.71,1015.31,E-wallet,Gio,Yes
+ORD-50774,2025-10-28,Bicol Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,247.92,0.0,247.92,61.98,185.94,Bank Transfer,Alex,Yes
+ORD-50775,2025-01-17,Region VI,Marketplace,Individual,Office Supplies,Stapler,2.0,180.08,0.03,349.36,133.26,216.1,Credit Card,Gio,No
+ORD-50776,2025-06-24,Northern Mindanao,Marketplace,Individual,Office Supplies,Notebook,3.0,92.54,0.03,269.29,138.81,130.48,Credit Card,Alex,No
+ORD-50777,2025-11-09,Northern Mindanao,Marketplace,Small Business,Office Supplies,Ballpen Set,1.0,126.15,0.03,122.37,60.55,61.82,Credit Card,Bea,No
+ORD-50778,2025-01-28,Bicol Region,Online,Corporate,Sports & Outdoors,Tumbler,2.0,389.9,0.03,756.41,311.92,444.49,Debit Card,Faith,No
+ORD-50779,2025-08-13,Davao Region,In-store,Individual,Electronics,Keyboard,,902.98,0.0,1805.96,632.09,1173.87,Credit Card,Hana,No
+ORD-50780,2025-02-17,,Online,Corporate,Home & Living,Organizer,1.0,492.48,0.05,467.86,196.99,270.87,Cash,Faith,No
+ORD-50781,2025-10-26,Region VII,In-store,Individual,Office Supplies,Bond Paper Ream,4.0,270.91,0.0,1083.64,270.91,812.73,Debit Card,Alex,No
+ORD-50782,2025-10-27,Northern Mindanao,Marketplace,Small Business,Sports & Outdoors,Tumbler,3.0,392.04,0.0,1176.12,470.45,705.67,Credit Card,Carlo,Yes
+ORD-50783,2025-01-17,Northern Mindanao,Online,Individual,Home & Living,Desk Lamp,6.0,1002.95,0.03,5837.17,2046.02,3791.15,E-wallet,Alex,No
+ORD-50784,2025-12-08,Bicol Region,Online,Individual,Office Supplies,Notebook,1.0,90.33,0.05,85.81,45.16,40.65,Debit Card,Gio,No
+ORD-50785,2025-06-28,Northern Mindanao,In-store,Individual,Home & Living,Storage Box,1.0,316.8,0.0,316.8,133.06,183.74,Debit Card,Faith,No
+ORD-50786,2025-03-05,Northern Mindanao,Online,Small Business,Electronics,Wireless Mouse,10.0,477.61,0.0,4776.1,1814.92,2961.18,Credit Card,Dana,Yes
+ORD-50787,2025-11-07,Region VII,Online,Small Business,Fashion,T-Shirt,2.0,341.45,0.0,682.9,273.16,409.74,Debit Card,Bea,Yes
+ORD-50788,2025-11-30,CALABARZON,In-store,Small Business,Office Supplies,Bond Paper Ream,2.0,276.98,0.0,553.96,138.49,415.47,Cash,Gio,No
+ORD-50789,2025-10-23,Davao Region,Marketplace,Small Business,Office Supplies,Stapler,2.0,191.27,0.0,382.54,141.54,241.0,Debit Card,Gio,Yes
+ORD-50790,2025-05-10,Region VI,Online,Small Business,Electronics,Webcam,1.0,1671.31,0.05,1587.74,501.39,1086.35,Cash,Hana,No
+ORD-50791,2025-09-22,Davao Region,In-store,Small Business,Electronics,Wireless Mouse,1.0,433.76,0.0,-433.76,164.83,268.93,Cash,Gio,Yes
+ORD-50792,2025-08-15,Bicol Region,In-store,Individual,Home & Living,Storage Box,5.0,321.54,0.05,1527.32,675.23,852.09,Cash,Eli,No
+ORD-50793,2025-07-14,Davao Region,Online,Individual,Sports & Outdoors,Yoga Mat,3.0,829.54,0.05,2364.19,871.02,1493.17,Debit Card,Eli,No
+ORD-50794,2025-08-19,NCR,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,1.0,732.34,0.0,732.34,256.32,476.02,Credit Card,Bea,No
+ORD-50795,2025-07-31,Davao Region,Online,Individual,Fashion,T-Shirt,2.0,372.54,0.03,722.73,298.03,424.7,Credit Card,Alex,No
+ORD-50796,2025-02-14,Region VI,Corporate Sales,Individual,Office Supplies,Bond Paper Ream,1.0,277.86,0.05,263.97,69.47,194.5,E-wallet,Alex,No
+ORD-50797,2025-01-16,Davao Region,Online,Individual,Electronics,Keyboard,2.0,805.72,0.05,1530.87,564.0,966.87,Cash,Hana,No
+ORD-50798,2025-12-15,Davao Region,In-store,Corporate,Electronics,Wireless Mouse,3.0,419.67,0.0,1259.01,478.42,780.59,Debit Card,Bea,No
+ORD-50799,2025-01-23,Northern Mindanao,Online,Small Business,Office Supplies,Stapler,1.0,175.99,0.0,175.99,65.12,110.87,Credit Card,Faith,No
+ORD-50800,2025-09-10,NCR,In-store,Individual,Electronics,Webcam,1.0,1711.41,0.03,1660.07,513.42,1146.65,E-wallet,Eli,No
+ORD-50801,2025-05-30,Region VI,Marketplace,Individual,Sports & Outdoors,Resistance Band,6.0,322.96,0.03,1879.63,871.99,1007.64,Cash,Carlo,No
+ORD-50802,2025-09-30,Davao Region,Marketplace,Individual,Electronics,USB Hub,2.0,629.95,0.0,1259.9,453.56,806.34,E-wallet,Alex,Yes
+ORD-50803,2025-04-03,Northern Mindanao,Marketplace,Individual,Home & Living,Desk Lamp,3.0,908.66,0.03,2644.2,926.83,1717.37,Cash,Alex,No
+ORD-50804,2025-08-16,Northern Mindanao,Marketplace,Individual,Fashion,Wallet,2.0,602.69,0.05,1145.11,433.94,711.17,E-wallet,Faith,No
+ORD-50805,2025-05-27,CALABARZON,In-store,Individual,Home & Living,Desk Lamp,2.0,906.64,0.0,1813.28,616.52,1196.76,Debit Card,Alex,No
+ORD-50806,2025-02-09,Northern Mindanao,In-store,Individual,Electronics,USB Hub,2.0,633.06,0.05,1202.81,455.8,747.01,Cash,Faith,No
+ORD-50807,2025-07-18,Region VII,Online,Individual,Office Supplies,Bond Paper Ream,8.0,280.1,0.1,2016.72,560.2,1456.52,E-wallet,Alex,Yes
+ORD-50808,2025-04-26,CALABARZON,Marketplace,Individual,Electronics,Wireless Mouse,8.0,438.6,0.03,3403.54,1333.34,2070.2,Bank Transfer,Gio,No
+ORD-50809,2025-08-26,CALABARZON,Online,Individual,Office Supplies,Ballpen Set,3.0,130.53,0.0,391.59,187.96,203.63,Bank Transfer,Carlo,No
+ORD-50810,2025-10-22,Davao,In-store,Corporate,Office Supplies,Ballpen Set,1.0,111.46,0.0,111.46,53.5,57.96,E-wallet,Alex,No
+ORD-50811,2025-12-08,Region VII,Online,Individual,Electronics,USB Hub,2.0,602.93,0.05,1145.57,434.11,711.46,Debit Card,Alex,No
+ORD-50812,2025-01-13,Davao Region,Online,Individual,Home & Living,Storage Box,3.0,346.05,0.0,1038.15,436.02,602.13,Cash,Faith,No
+ORD-50813,2025-02-27,CALABARZON,In-store,Individual,Sports & Outdoors,Resistance Band,2.0,290.88,0.0,581.76,261.79,319.97,Debit Card,Eli,No
+ORD-50814,2025-05-11,ncr,Online,Corporate,Sports & Outdoors,Tumbler,4.0,418.69,0.03,1624.52,669.9,954.62,E-wallet,Alex,No
+ORD-50815,2025-09-14,NCR,In-store,Individual,Sports & Outdoors,Yoga Mat,5.0,749.27,0.03,3633.96,1311.22,2322.74,E-wallet,Dana,No
+ORD-50816,2025-09-24,Northern Mindanao,Online,Individual,Office Supplies,Ballpen Set,1.0,113.99,0.0,113.99,54.72,59.27,E-wallet,Hana,No
+ORD-50817,2025-12-10,Region III,Marketplace,Individual,Fashion,Backpack,2.0,1048.42,0.05,1992.0,691.96,1300.04,Debit Card,Dana,Yes
+ORD-50818,2025-01-11,CALABARZON,Marketplace,Individual,Fashion,Backpack,8.0,1041.93,0.0,8335.44,2750.7,5584.74,Debit Card,Hana,No
+ORD-50819,2025-07-10,Region VII,Marketplace,Individual,Fashion,Cap,2.0,254.32,0.0,508.64,218.72,289.92,Debit Card,Dana,No
+ORD-50820,2025-08-15,CALABARZON,Marketplace,Individual,Fashion,Backpack,2.0,1178.0,0.0,2356.0,777.48,1578.52,Cash,Alex,No
+ORD-50821,2025-08-16,Northern Mindanao,Corporate Sales,Individual,Sports & Outdoors,Resistance Band,2.0,322.11,0.0,644.22,289.9,354.32,E-wallet,Dana,No
+ORD-50822,2025-08-21,NCR,Marketplace,Individual,Fashion,T-Shirt,2.0,368.85,0.03,715.57,295.08,420.49,Credit Card,Dana,No
+ORD-50823,2025-02-17,Northern Mindanao,Online,Individual,Fashion,T-Shirt,1.0,349.4,0.03,338.92,139.76,199.16,Credit Card,Gio,No
+ORD-50824,2025-10-11,Region VI,Marketplace,Small Business,Fashion,T-Shirt,4.0,325.98,0.0,1303.92,521.57,782.35,Cash,Eli,No
+ORD-50825,2025-11-09,Davao Region,Online,Individual,Sports & Outdoors,Yoga Mat,1.0,847.56,0.0,847.56,296.65,550.91,E-wallet,Faith,No
+ORD-50826,2025-04-09,Region III,Marketplace,Individual,Office Supplies,Notebook,1.0,87.86,0.05,83.47,43.93,39.54,Credit Card,Faith,No
+ORD-50827,2025-11-03,Region III,Online,Small Business,Home & Living,Storage Box,1.0,305.6,0.05,290.32,128.35,161.97,E-wallet,Eli,Yes
+ORD-50828,2025-08-03,Northern Mindanao,In-store,Individual,Electronics,Headset,4.0,1220.78,0.0,4883.12,1562.6,3320.52,E-wallet,Gio,Yes
+ORD-50829,2025-02-04,NCR,Marketplace,Small Business,Office Supplies,Ballpen Set,1.0,114.15,0.05,108.44,54.79,392.82,Credit Card,Bea,No
+ORD-50830,2025-02-23,Region VI,Corporate Sales,Individual,Office Supplies,Stapler,3.0,191.64,0.0,574.92,212.72,362.2,E-wallet,Hana,No
+ORD-50831,2025-06-22,Region III,In-store,Individual,Office Supplies,Bond Paper Ream,3.0,260.19,0.15,663.48,195.14,468.34,Debit Card,Bea,Yes
+ORD-50832,2025-10-04,Region III,Marketplace,Individual,Electronics,USB Hub,6.0,633.01,0.0,3798.06,1367.3,2430.76,Debit Card,Faith,No
+ORD-50833,2025-09-03,Northern Mindanao,Marketplace,Individual,Office Supplies,Ballpen Set,8.0,121.71,0.03,944.47,467.37,477.1,Bank Transfer,Bea,No
+ORD-50834,2025-05-27,Northern Mindanao,Corporate Sales,Small Business,Office Supplies,Stapler,3.0,192.95,0.05,549.91,214.17,335.74,Bank Transfer,Eli,No
+ORD-50835,2025-02-13,NCR,Marketplace,Individual,Electronics,Wireless Mouse,1.0,418.98,0.03,406.41,159.21,247.2,E-wallet,Hana,No
+ORD-50836,2025-06-13,Davao Region,Online,Corporate,Office Supplies,Stapler,1.0,173.99,0.0,173.99,64.38,109.61,Cash,Carlo,No
+ORD-50837,2025-07-17,NCR,Corporate Sales,Individual,Electronics,Keyboard,8.0,816.47,0.05,6205.17,2286.12,3919.05,Debit Card,Eli,No
+ORD-50838,2025-05-14,Region VII,Marketplace,Individual,Home & Living,Organizer,5.0,460.46,0.03,2233.23,920.92,1312.31,Cash,Dana,No
+ORD-50839,2025-05-06,Region III,In-store,Individual,Home & Living,Desk Lamp,5.0,939.38,0.0,4696.9,1596.95,3099.95,E-wallet,Dana,No
+ORD-50840,2025-03-10,Region VI,In-store,Individual,Home & Living,Water Bottle,2.0,287.53,0.05,546.31,258.78,287.53,E-wallet,Eli,No
+ORD-50841,2025-02-25,Region VII,Marketplace,Individual,Home & Living,Organizer,1.0,495.08,0.0,495.08,198.03,297.05,Cash,Faith,No
+ORD-50842,2025-02-27,Northern Mindanao,In-store,Individual,Sports & Outdoors,Resistance Band,5.0,294.26,0.0,1471.3,662.09,809.21,Bank Transfer,Eli,No
+ORD-50843,2025-03-08,Region III,In-store,Individual,Fashion,T-Shirt,2.0,336.43,0.03,652.67,269.14,383.53,Bank Transfer,Faith,No
+ORD-50844,2025-03-06,Northern Mindanao,Marketplace,Individual,Sports & Outdoors,Yoga Mat,5.0,760.48,0.0,3802.4,1330.84,2471.56,E-wallet,Hana,Yes
+ORD-50845,2025-10-29,Region VII,Online,Small Business,Electronics,Headset,1.0,1313.89,0.0,1313.89,420.44,893.45,E-wallet,Hana,No
+ORD-50846,2025-11-09,Davao Region,In-store,Individual,Electronics,Keyboard,2.0,921.35,0.0,1842.7,644.94,1197.76,Cash,Bea,No
+ORD-50847,2025-12-07,Davao Region,Corporate Sales,Small Business,Home & Living,Organizer,4.0,472.41,0.0,1889.64,755.86,1133.78,Credit Card,Eli,No
+ORD-50848,2025-03-12,Bicol Region,Online,Individual,Fashion,T-Shirt,6.0,371.02,0.15,1892.2,890.45,1001.75,Debit Card,Gio,Yes
+ORD-50849,2025-12-26,Northern Mindanao,In-store,Corporate,Office Supplies,Notebook,1.0,86.81,0.05,82.47,43.41,39.06,Debit Card,Carlo,Yes
+ORD-50850,2025-10-14,Region VII,Marketplace,Individual,Sports & Outdoors,Tumbler,10.0,433.81,0.0,4338.1,1735.24,2602.86,Bank Transfer,Gio,Yes
+ORD-50851,2025-03-21,Region III,Corporate Sales,Individual,Office Supplies,Stapler,3.0,178.02,0.0,534.06,197.6,336.46,Credit Card,Dana,No
+ORD-50852,2025-11-12,NCR,Marketplace,Small Business,Fashion,Backpack,2.0,1015.36,0.03,1969.8,670.14,1299.66,Debit Card,Dana,No
+ORD-50853,2025-11-17,Region VI,Corporate Sales,Individual,Electronics,Webcam,3.0,1841.47,0.03,5358.68,1657.32,3701.36,Cash,Hana,No
+ORD-50854,2025-01-25,Northern Mindanao,Market Place,Individual,Electronics,Webcam,2.0,1792.3,0.0,3584.6,1075.38,2509.22,E-wallet,Dana,No
+ORD-50855,2025-07-03,NCR,Marketplace,Corporate,Sports & Outdoors,Tumbler,2.0,433.56,0.0,867.12,346.85,520.27,Cash,Hana,Yes
+ORD-50856,2025-02-19,Region III,Marketplace,Individual,Fashion,Cap,2.0,247.91,0.03,480.95,213.2,267.75,Cash,Alex,No
+ORD-50857,2025-09-01,Northern Mindanao,Corporate Sales,Individual,Fashion,T-Shirt,2.0,335.7,0.1,604.26,268.56,335.7,Cash,Gio,Yes
+ORD-50858,2025-01-31,NCR,In-store,Small Business,Sports & Outdoors,Yoga Mat,3.0,816.43,0.05,2326.83,857.25,1469.58,Credit Card,Gio,No
+ORD-50859,2025-12-21,Davao Region,Corporate Sales,Individual,Sports & Outdoors,Resistance Band,4.0,294.09,0.03,1141.07,529.36,611.71,Bank Transfer,Alex,No
+ORD-50860,2025-11-09,Region VI,Corporate Sales,Individual,Sports & Outdoors,Tumbler,1.0,386.83,0.0,386.83,154.73,232.1,Cash,Dana,No
+ORD-50861,2025-07-11,CALABARZON,Corporate Sales,Small Business,Electronics,Keyboard,1.0,892.52,0.05,847.89,312.38,535.51,Cash,Eli,No
+ORD-50862,2025-06-09,Region VI,In-store,Individual,Electronics,Wireless Mouse,10.0,465.15,0.03,4511.95,1767.57,2744.38,Credit Card,Faith,No
+ORD-50863,2025-04-04,Bicol Region,online,Corporate,Office Supplies,Notebook,2.0,90.96,0.0,181.92,90.96,90.96,Debit Card,Carlo,No
+ORD-50864,2025-12-04,Region VII,In-store,Small Business,Fashion,Cap,2.0,,0.03,519.78,230.42,289.36,Credit Card,Gio,No
+ORD-50865,2025-04-03,Bicol Region,In-store,Individual,Fashion,T-Shirt,2.0,323.58,0.0,647.16,258.86,388.3,Cash,Hana,No
+ORD-50866,2025-02-03,Davao Region,Marketplace,Small Business,Fashion,Backpack,1.0,1141.3,0.0,1141.3,376.63,764.67,Bank Transfer,Carlo,No
+ORD-50867,2025-06-22,Region VI,Online,Individual,Fashion,Cap,3.0,245.48,0.0,736.44,316.67,419.77,Cash,Eli,No
+ORD-50868,2025-04-25,Davao Region,Marketplace,Corporate,Electronics,Webcam,5.0,1742.13,0.05,8275.12,2613.2,5661.92,Bank Transfer,Gio,No
+ORD-50869,2025-03-11,Bicol Region,Online,Individual,Fashion,Backpack,3.0,1162.67,0.0,3488.01,1151.04,2336.97,Credit Card,Carlo,Yes
+ORD-50870,2025-02-12,Region VI,Corporate Sales,Small Business,Office Supplies,Notebook,3.0,83.29,0.03,242.37,124.94,117.43,Cash,Eli,No
+ORD-50871,2025-07-18,CALABARZON,In-store,Small Business,Fashion,T-Shirt,1.0,326.86,0.03,317.05,130.74,186.31,Debit Card,Carlo,No
+ORD-50872,2025-02-13,Bicol Region,Online,Individual,Electronics,USB Hub,2.0,659.01,0.0,1318.02,474.49,843.53,Bank Transfer,Carlo,Yes
+ORD-50873,2025-06-05,CALABARZON,Marketplace,Small Business,Office Supplies,Stapler,1.0,191.92,0.03,186.16,71.01,115.15,Credit Card,Faith,No
+ORD-50874,2025-05-08,CALABARZON,Marketplace,Individual,Sports & Outdoors,Tumbler,3.0,431.45,0.05,1229.63,517.74,711.89,Cash,Carlo,No
+ORD-50875,2025-08-21,Region III,Marketplace,Individual,Sports & Outdoors,Resistance Band,2.0,298.89,0.05,567.89,269.0,298.89,Credit Card,Faith,No
+ORD-50876,2025-03-27,Davao Region,In-store,Individual,Fashion,T-Shirt,3.0,377.97,0.0,1133.91,453.56,680.35,Cash,Eli,No
+ORD-50877,2025-04-22,Bicol Region,Online,Individual,Sports & Outdoors,Resistance Band,8.0,324.49,0.0,2595.92,1168.16,1427.76,Debit Card,Eli,No
+ORD-50878,2025-08-26,NCR,Marketplace,Individual,Fashion,Backpack,1.0,1148.56,0.15,976.28,379.02,597.26,Cash,Bea,Yes
+ORD-50879,2025-04-21,Davao Region,Marketplace,Small Business,Fashion,T-Shirt,1.0,383.22,0.0,383.22,153.29,229.93,Debit Card,Bea,No
+ORD-50880,2025-04-10,Northern Mindanao,In-store,Corporate,Office Supplies,Stapler,1.0,183.05,0.03,177.56,67.73,109.83,E-wallet,Faith,No
+ORD-50881,2025-06-24,Northern Mindanao,Corporate Sales,Small Business,Home & Living,Desk Lamp,1.0,954.63,0.0,954.63,324.57,630.06,Cash,Hana,No
+ORD-50882,2025-12-03,Davao Region,Marketplace,Individual,Electronics,USB Hub,1.0,614.85,0.0,614.85,221.35,393.5,Bank Transfer,Gio,Yes
+ORD-50883,2025-11-25,Region III,Marketplace,Individual,Fashion,Cap,2.0,238.41,0.0,476.82,205.03,271.79,Bank Transfer,Gio,No
+ORD-50884,2025-09-15,Davao Region,Marketplace,Individual,Office Supplies,Notebook,4.0,85.32,0.15,290.09,170.64,119.45,Cash,Alex,Yes
+ORD-50885,2025-07-11,Region III,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,3.0,832.52,0.03,2422.63,874.15,1548.48,Debit Card,Carlo,No
+ORD-50886,2025-11-04,Region VI,Marketplace,Individual,Electronics,Keyboard,2.0,860.27,0.05,1634.51,602.19,1032.32,Debit Card,Bea,No
+ORD-50887,2025-05-13,Bicol Region,In-store,Individual,Electronics,Wireless Mouse,2.0,466.36,0.0,932.72,354.43,578.29,E-wallet,Carlo,No
+ORD-50888,2025-06-21,Region VII,Online,Small Business,Electronics,Webcam,2.0,1795.03,0.0,3590.06,1077.02,2513.04,E-wallet,Eli,Yes
+ORD-50889,2025-04-20,Region III,In-store,Individual,Sports & Outdoors,Resistance Band,5.0,327.72,0.0,1638.6,737.37,901.23,Cash,Eli,No
+ORD-50890,2025-03-29,Northern Mindanao,Marketplace,Corporate,Home & Living,Water Bottle,1.0,273.24,0.03,265.04,122.96,142.08,Cash,Carlo,No
+ORD-50891,2025-11-05,Northern Mindanao,Online,Individual,Home & Living,Organizer,1.0,475.38,0.0,475.38,190.15,285.23,Cash,Alex,No
+ORD-50892,2025-03-27,NCR,In-store,Small Business,Home & Living,Organizer,1.0,536.52,0.0,536.52,214.61,321.91,Credit Card,Carlo,Yes
+ORD-50893,2025-07-01,NCR,In-store,Individual,Sports & Outdoors,Yoga Mat,1.0,768.2,0.0,768.2,268.87,499.33,Bank Transfer,Alex,No
+ORD-50894,2025-06-24,Region III,Online,Small Business,Electronics,Webcam,1.0,1906.89,0.0,1906.89,572.07,1334.82,E-wallet,Faith,No
+ORD-50895,2025-11-17,Davao Region,Marketplace,Individual,Office Supplies,Ballpen Set,3.0,130.17,0.0,390.51,187.44,203.07,Debit Card,Carlo,Yes
+ORD-50896,2025-02-16,CALABARZON,Marketplace,Individual,Fashion,Backpack,1.0,1155.88,0.0,1155.88,381.44,774.44,Credit Card,Eli,No
+ORD-50897,2025-12-25,Region VI,Online,Corporate,Fashion,Wallet,1.0,562.07,0.0,562.07,202.35,359.72,Debit Card,Alex,No
+ORD-50898,2025-01-06,Bicol Region,Marketplace,Individual,Sports & Outdoors,Resistance Band,1.0,296.89,0.0,296.89,133.6,163.29,Cash,Dana,Yes
+ORD-50899,2025-04-01,Region VI,Corporate Sales,Individual,Office Supplies,Ballpen Set,3.0,122.96,0.05,350.44,177.06,173.38,Credit Card,Bea,No
+ORD-50900,2025-04-15,NCR,Corporate Sales,Individual,Home & Living,Organizer,8.0,478.32,0.0,3826.56,1530.62,2295.94,Bank Transfer,Faith,No
+ORD-50901,2025-07-04,Bicol Region,In-store,Small Business,Office Supplies,Ballpen Set,1.0,116.18,0.03,112.69,55.77,56.92,Debit Card,Dana,No
+ORD-50902,2025-02-19,Region VI,Corporate Sales,Small Business,Office Supplies,Bond Paper Ream,4.0,250.0,0.05,950.0,250.0,700.0,Credit Card,Alex,No
+ORD-50903,2025-01-16,Region VII,In-store,Individual,Fashion,Cap,1.0,238.08,0.03,230.94,102.37,128.57,Bank Transfer,Dana,No
+ORD-50904,2025-10-04,NCR,Corporate Sales,Individual,Home & Living,Desk Lamp,2.0,902.39,0.05,1714.54,613.63,1100.91,Credit Card,Eli,No
+ORD-50905,2025-11-02,CALABARZON,Online,Individual,Sports & Outdoors,Tumbler,4.0,402.72,0.1,1449.79,644.35,805.44,Cash,Carlo,Yes
+ORD-50906,2025-07-31,Davao Region,Corporate Sales,Individual,Office Supplies,Ballpen Set,8.0,128.82,0.03,999.64,494.67,504.97,E-wallet,Gio,No
+ORD-50907,2025-07-29,Davao Region,In-store,Individual,Office Supplies,Stapler,5.0,193.15,0.1,869.18,357.33,511.85,E-wallet,Hana,Yes
+ORD-50908,2025-10-29,Region III,In-store,Individual,Fashion,Cap,3.0,271.87,0.03,791.14,350.71,440.43,Cash,Alex,No
+ORD-50909,2025-10-26,Northern Mindanao,Corporate Sales,Small Business,Sports & Outdoors,Tumbler,1.0,,0.03,391.72,161.53,230.19,Credit Card,Carlo,No
+ORD-50910,2025-08-27,Region VI,Online,Individual,Electronics,Wireless Mouse,3.0,485.1,0.0,1455.3,553.01,902.29,Credit Card,Faith,No
+ORD-50911,2025-12-24,Region VII,In-store,Individual,Home & Living,Desk Lamp,2.0,1038.05,0.15,1764.68,705.87,1058.81,Cash,Faith,Yes
+ORD-50912,2025-03-30,Region VII,Online,Small Business,Fashion,Wallet,3.0,594.69,0.15,1516.46,642.27,874.19,Bank Transfer,Alex,Yes
+ORD-50913,2025-12-12,Northern Mindanao,Marketplace,Individual,Electronics,Headset,1.0,1176.86,0.0,1176.86,376.6,800.26,Credit Card,Hana,No
+ORD-50914,2025-11-24,Northern Mindanao,Marketplace,Small Business,Electronics,Wireless Mouse,2.0,473.39,0.05,899.44,359.78,539.66,Bank Transfer,Hana,Yes
+ORD-50915,2025-09-22,Bicol Region,Marketplace,Individual,Home & Living,Water Bottle,3.0,273.97,0.15,698.62,369.86,328.76,Credit Card,Dana,Yes
+ORD-50916,2025-02-24,Region III,Marketplace,Individual,Sports & Outdoors,Tumbler,4.0,424.34,0.03,1646.44,678.94,967.5,Bank Transfer,Hana,No
+ORD-50917,2025-05-20,Region III,Marketplace,Individual,Electronics,USB Hub,6.0,601.11,0.05,3426.33,1298.4,2127.93,Debit Card,Faith,No
+ORD-50918,2025-05-11,Region VI,Marketplace,Corporate,Fashion,T-Shirt,5.0,372.27,0.03,1805.51,744.54,1060.97,Bank Transfer,Faith,No
+ORD-50919,2025-04-15,Region III,In-store,Individual,Electronics,Keyboard,3.0,810.37,0.0,2431.11,850.89,1580.22,Debit Card,Dana,No
+ORD-50920,2025-07-26,Region VII,Marketplace,Corporate,Home & Living,Water Bottle,3.0,279.27,0.0,837.81,377.01,460.8,E-wallet,Bea,No
+ORD-50921,2025-10-10,Davao Region,Online,Individual,Sports & Outdoors,Resistance Band,3.0,287.35,0.03,836.19,387.92,448.27,Cash,Bea,No
+ORD-50922,2025-02-19,Davao Region,In-store,CORPORATE,Home & Living,Storage Box,4.0,334.42,0.0,1337.68,561.83,775.85,Debit Card,Hana,No
+ORD-50923,2025-10-15,Bicol Region,Corporate Sales,Individual,Electronics,Keyboard,2.0,874.68,0.03,1696.88,612.28,1084.6,Debit Card,Alex,No
+ORD-50924,2025-01-23,,Corporate Sales,Individual,Electronics,Wireless Mouse,3.0,422.21,0.0,1266.63,481.32,785.31,Cash,Gio,No
+ORD-50925,2025-08-02,Region VI,Marketplace,Individual,Office Supplies,Stapler,3.0,179.09,0.05,510.41,198.79,311.62,E-wallet,Faith,Yes
+ORD-50926,2025-04-15,NCR,Market Place,Individual,Fashion,Wallet,3.0,574.83,0.05,1638.27,620.82,1017.45,Bank Transfer,Eli,No
+ORD-50927,2025-11-03,Region VII,Corporate Sales,Small Business,Sports & Outdoors,Yoga Mat,2.0,834.6,0.1,1502.28,584.22,918.06,Bank Transfer,Bea,Yes
+ORD-50928,2025-04-12,Davao Region,In-store,Individual,Home & Living,Organizer,1.0,536.49,0.1,482.84,214.6,268.24,,Alex,Yes
+ORD-50929,2025-08-07,Northern Mindanao,In-store,Small Business,Office Supplies,Bond Paper Ream,2.0,258.38,0.03,501.26,129.19,372.07,Bank Transfer,Hana,No
+ORD-50930,2025-03-01,Region VII,Online,Individual,Home & Living,Storage Box,1.0,297.11,0.05,282.25,124.79,157.46,Credit Card,Eli,No
+ORD-50931,2025-12-24,Region III,Marketplace,Corporate,Home & Living,Water Bottle,2.0,299.27,0.1,538.69,269.34,269.35,Credit Card,Alex,Yes
+ORD-50932,2025-11-01,Region VI,In-store,Individual,Home & Living,Storage Box,6.0,300.08,0.03,1746.47,756.2,990.27,Credit Card,Dana,No
+ORD-50933,2025-01-26,Region VII,In-store,Individual,Home & Living,Storage Box,2.0,335.45,0.0,670.9,281.78,389.12,,Carlo,Yes
+ORD-50934,2025-02-16,Davao Region,Online,Individual,Electronics,USB Hub,3.0,612.5,0.0,1837.5,661.5,1176.0,Bank Transfer,Eli,No
+ORD-50935,2025-12-15,Region III,,Individual,Office supplies,Notebook,2.0,86.93,0.1,156.47,86.93,69.54,E-wallet,Bea,Yes
+ORD-50936,2025-09-07,Region VI,Marketplace,Individual,Electronics,Headset,10.0,1289.2,0.0,12892.0,4125.44,8766.56,Cash,Alex,No
+ORD-50937,2025-04-30,Region III,Corporate Sales,Individual,Electronics,Keyboard,1.0,838.11,0.03,812.97,293.34,519.63,Debit Card,Faith,No
+ORD-50938,2025-10-25,Bicol Region,Marketplace,Individual,Electronics,Keyboard,8.0,810.94,0.0,6487.52,2270.63,4216.89,Bank Transfer,Hana,No
+ORD-50939,2025-04-21,CALABARZON,Online,Individual,Office Supplies,Ballpen Set,5.0,111.04,0.03,538.54,266.5,272.04,Cash,Bea,No
+ORD-50940,2025-05-07,Region VII,Online,Individual,Fashion,Wallet,3.0,563.68,0.0,1691.04,608.77,1082.27,Debit Card,Alex,No
+ORD-50941,2025-12-14,Region VI,Corporate Sales,Small business,Home & Living,Water Bottle,1.0,261.19,0.15,222.01,117.54,104.47,Debit Card,Hana,Yes
+ORD-50942,2025-10-28,Region III,In-store,Individual,Fashion,T-Shirt,3.0,359.14,0.03,1045.1,430.97,614.13,Bank Transfer,Bea,No
+ORD-50943,2025-10-04,,,Small Business,Office Supplies,Bond Paper Ream,3.0,281.7,0.0,845.1,211.27,633.83,Bank Transfer,Faith,No
+ORD-50944,2025-08-07,Region III,Online,Individual,Office Supplies,Ballpen Set,5.0,113.63,0.03,551.11,272.71,278.4,Credit Card,Eli,No
+ORD-50945,2025-02-24,Northern Mindanao,Online,Small Business,Electronics,Wireless Mouse,1.0,414.6,0.03,402.16,157.55,244.61,Debit Card,Bea,No
+ORD-50946,2025-03-06,Davao Region,Corporate Sales,Individual,Office Supplies,Notebook,2.0,82.35,0.0,164.7,82.35,82.35,Cash,Faith,No
+ORD-50947,2025-12-15,NCR,Marketplace,Small Business,Fashion,Backpack,2.0,1187.25,0.0,2374.5,783.59,1590.91,Cash,Gio,No
+ORD-50948,2025-05-03,Northern Mindanao,Marketplace,Individual,Office Supplies,Stapler,1.0,182.42,0.05,173.3,67.5,105.8,Debit Card,Bea,No
+ORD-50949,2025-03-12,Region VI,Marketplace,Corporate,Home & Living,Storage Box,5.0,313.3,0.0,1566.5,657.93,908.57,Debit Card,Eli,Yes
+ORD-50950,2025-07-22,Bicol Region,Corporate Sales,Corporate,Electronics,Headset,2.0,1316.33,0.03,2553.68,842.45,1711.23,Bank Transfer,Gio,No
+ORD-50951,2025-06-24,Region VI,In-store,Small Business,Sports & Outdoors,Resistance Band,1.0,300.49,0.05,285.47,135.22,150.25,Credit Card,Dana,Yes
+ORD-50952,2025-09-25,Northern Mindanao,Online,Individual,Office Supplies,Stapler,3.0,195.6,0.0,586.8,217.12,369.68,Debit Card,Bea,No
+ORD-50953,2025-02-09,Davao Region,Marketplace,Individual,Sports & Outdoors,Yoga Mat,1.0,730.9,0.0,730.9,255.81,475.09,Credit Card,Alex,No
+ORD-50954,2025-09-03,Northern Mindanao,In-store,Small Business,Office Supplies,Bond Paper Ream,2.0,248.07,0.0,496.14,124.03,372.11,Credit Card,Bea,No
+ORD-50955,2025-06-15,NCR,Marketplace,Individual,Office Supplies,Ballpen Set,2.0,118.64,0.0,237.28,113.89,123.39,Bank Transfer,Eli,No
+ORD-50956,2025-02-08,NCR,In-store,Individual,Electronics,Wireless Mouse,6.0,427.24,0.0,2563.44,974.11,1589.33,Cash,Hana,No
+ORD-50957,2025-12-28,Bicol Region,In-store,Individual,Electronics,Headset,1.0,1214.77,0.0,1214.77,388.73,826.04,Credit Card,Gio,Yes
+ORD-50958,2025-10-24,Region III,Marketplace,Individual,Fashion,Wallet,5.0,577.49,0.0,2887.45,1039.48,1847.97,Bank Transfer,Alex,No
+ORD-50959,2025-07-01,NCR,Corporate Sales,Small Business,Fashion,Cap,4.0,260.72,0.05,990.74,448.44,542.3,Credit Card,Alex,No
+ORD-50960,2025-10-06,Region III,In-store,Individual,Sports & Outdoors,Tumbler,4.0,393.82,0.0,1575.28,630.11,945.17,Bank Transfer,Gio,Yes
+ORD-50961,2025-01-29,Bicol Region,online,Individual,Home & Living,Desk Lamp,-4.0,948.31,0.03,3679.44,1289.7,2389.74,Credit Card,Carlo,No
+ORD-50962,2025-11-29,Region VII,In-store,Individual,Office Supplies,Stapler,3.0,165.96,0.0,497.88,184.22,313.66,Credit Card,Gio,No
+ORD-50963,2025-06-04,Northern Mindanao,Marketplace,Individual,Fashion,Backpack,2.0,1140.18,0.15,1938.31,752.52,1185.79,E-wallet,Bea,Yes
+ORD-50964,2025-09-04,Davao Region,Corporate Sales,Small Business,Electronics,Keyboard,2.0,787.42,0.15,1338.61,551.19,787.42,E-wallet,Dana,Yes
+ORD-50965,2025-11-27,Region VI,Online,Individual,Sports & Outdoors,Tumbler,8.0,417.51,0.03,3239.88,1336.03,1903.85,Debit Card,Hana,No
+ORD-50966,2025-09-24,Region III,Marketplace,Individual,Sports & Outdoors,Tumbler,2.0,451.82,0.0,903.64,361.46,542.18,Credit Card,Carlo,No
+ORD-50967,2025-05-07,NCR,Marketplace,Small Business,Electronics,USB Hub,2.0,599.72,0.0,1199.44,431.8,767.64,E-wallet,Hana,No
+ORD-50968,2025-05-12,NCR,In-store,Corporate,Office Supplies,Bond Paper Ream,3.0,242.03,0.0,726.09,181.52,544.57,Credit Card,Eli,No
+ORD-50969,2025-12-09,Region VI,In-store,Individual,Electronics,Keyboard,2.0,934.8,0.05,1776.12,654.36,1121.76,E-wallet,Gio,Yes
+ORD-50970,2025-04-07,NCR,Corporate Sales,Corporate,Home & Living,Desk Lamp,1.0,914.49,0.0,914.49,310.93,603.56,Credit Card,Carlo,No
+ORD-50971,2025-10-15,CALABARZON,Online,Individual,Sports & Outdoors,Resistance Band,5.0,329.28,0.0,1646.4,740.88,905.52,Cash,Dana,No
+ORD-50972,2025-04-23,CALABARZON,Corporate Sales,Individual,electronics,Headset,3.0,1305.53,0.05,3720.76,1253.31,2467.45,E-wallet,Bea,No
+ORD-50973,2025-08-16,Northern Mindanao,Marketplace,Individual,Fashion,T-Shirt,2.0,377.3,0.0,754.6,301.84,452.76,Cash,Hana,Yes
+ORD-50974,2025-06-22,Region VII,In-store,Corporate,Sports & Outdoors,Resistance Band,4.0,302.72,0.0,1210.88,544.9,665.98,Bank Transfer,Bea,No
+ORD-50975,2025-12-22,NCR,In-store,Individual,Fashion,Backpack,1.0,1123.83,0.0,1123.83,370.86,752.97,Cash,Dana,No
+ORD-50976,2025-08-22,CALABARZON,Corporate Sales,Individual,Fashion,Wallet,2.0,601.08,0.0,1202.16,432.78,769.38,E-wallet,Dana,No
+ORD-50977,2025-06-30,CALABARZON,In-store,Small Business,Electronics,USB Hub,1.0,705.96,0.05,670.66,254.15,416.51,Bank Transfer,Gio,No
+ORD-50978,2025-06-23,Region III,Marketplace,Small Business,Electronics,Keyboard,2.0,895.37,0.05,1701.2,626.76,1074.44,Cash,Dana,Yes
+ORD-50979,2025-04-30,NCR,Online,Corporate,Office Supplies,Ballpen Set,2.0,112.56,0.0,225.12,108.06,117.06,Cash,Carlo,No
+ORD-50980,2025-08-19,Region III,In-store,Individual,Home & Living,Water Bottle,1.0,278.51,0.15,236.73,125.33,111.4,Bank Transfer,Alex,Yes
+ORD-50981,2025-07-17,NCR,Corporate Sales,Individual,Home & Living,Storage Box,3.0,316.34,0.03,920.55,398.59,521.96,Credit Card,Faith,No
+ORD-50982,2025-04-08,Northern Mindanao,Corporate Sales,Small Business,Home & Living,Storage Box,1.0,349.82,0.0,349.82,146.92,202.9,E-wallet,Eli,No
+ORD-50983,2025-04-13,Region VII,Marketplace,Small Business,Electronics,USB Hub,2.0,612.6,0.0,1225.2,441.07,784.13,Bank Transfer,Carlo,No
+ORD-50984,2025-03-18,Davao Region,Marketplace,Individual,Office Supplies,Bond Paper Ream,1.0,258.88,0.0,258.88,64.72,194.16,Cash,Gio,No
+ORD-50985,2025-07-09,Region VII,Online,Individual,Home & Living,Organizer,4.0,474.67,0.0,1898.68,759.47,1139.21,Credit Card,Hana,No
+ORD-50986,2025-02-02,Davao Region,In-store,Individual,Sports & Outdoors,Resistance Band,4.0,300.44,0.0,1201.76,540.79,660.97,E-wallet,Hana,No
+ORD-50987,2025-09-11,Region VI,Corporate Sales,Individual,Fashion,Wallet,2.0,525.24,0.05,997.96,378.17,619.79,Cash,Bea,No
+ORD-50988,2025-02-14,Davao Region,Corporate Sales,Corporate,Electronics,Headset,8.0,1324.64,0.0,10597.12,3391.08,7206.04,Debit Card,Hana,No
+ORD-50989,2025-06-13,NCR,Online,Individual,Home & Living,Storage Box,2.0,343.1,0.0,686.2,288.2,398.0,E-wallet,Hana,No
+ORD-50990,2025-05-06,Northern Mindanao,In-store,Individual,Fashion,Backpack,4.0,1132.3,0.03,4393.32,1494.64,2898.68,E-wallet,Hana,No
+ORD-50991,2025-05-22,Davao Region,Corporate Sales,Small Business,Office Supplies,Bond Paper Ream,8.0,253.64,0.03,1968.25,507.28,1460.97,Bank Transfer,Faith,No
+ORD-50992,2025-12-09,Bicol Region,Corporate Sales,Individual,Sports & Outdoors,Resistance Band,1.0,282.34,0.0,282.34,127.05,155.29,Debit Card,Bea,No
+ORD-50993,2025-11-26,Region VI,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,3.0,733.09,0.05,2089.31,769.74,1319.57,Debit Card,Dana,Yes
+ORD-50994,2025-06-30,Davao Region,Marketplace,Individual,Office Supplies,Stapler,1.0,194.31,0.0,194.31,71.89,122.42,Cash,Faith,Yes
+ORD-50995,2025-09-08,Northern Mindanao,Online,Individual,Home & Living,Organizer,1.0,523.84,0.0,523.84,209.54,314.3,Debit Card,Hana,No
+ORD-50996,2025-12-04,Region VII,In-store,Individual,Sports & Outdoors,Yoga Mat,4.0,768.76,0.15,2613.78,1076.26,1537.52,Debit Card,Eli,Yes
+ORD-50997,2025-02-23,Region VI,Corporate Sales,Individual,Home & Living,Water Bottle,3.0,281.88,0.03,820.27,380.54,439.73,Credit Card,Eli,No
+ORD-50998,2025-10-26,Region VII,Marketplace,Corporate,Home & Living,Desk Lamp,3.0,905.59,0.03,2635.27,923.7,1711.57,,Hana,No
+ORD-50999,2025-06-17,Region VII,Marketplace,Small Business,Office Supplies,Stapler,2.0,187.98,0.0,375.96,139.11,236.85,Debit Card,Dana,No
+ORD-51000,2025-10-13,CALABARZON,Online,Corporate,Electronics,Headset,1.0,1174.11,0.0,1174.11,375.72,798.39,Bank Transfer,Carlo,No
+ORD-51001,2025-05-14,Northern Mindanao,Marketplace,Small Business,Office Supplies,Bond Paper Ream,2.0,240.06,0.05,456.11,120.03,336.08,Bank Transfer,Eli,No
+ORD-51002,2025-05-01,CALABARZON,Marketplace,Small Business,Fashion,Backpack,1.0,1101.09,0.0,1101.09,363.36,737.73,E-wallet,Faith,No
+ORD-51003,2025-10-08,NCR,Marketplace,Individual,Fashion,T-Shirt,3.0,376.47,0.0,1129.41,451.76,677.65,Debit Card,Eli,No
+ORD-51004,2025-08-27,Region VII,Online,Corporate,Electronics,Headset,2.0,1297.64,0.0,2595.28,830.49,1764.79,E-wallet,Bea,Yes
+ORD-51005,2025-11-05,Bicol Region,Online,Individual,Sports & Outdoors,Yoga Mat,4.0,786.33,0.0,3145.32,1100.86,2044.46,Debit Card,Eli,Yes
+ORD-51006,2025-05-03,CALABARZON,Corporate Sales,Corporate,Sports & Outdoors,Tumbler,2.0,424.76,0.0,849.52,339.81,509.71,Bank Transfer,Gio,Yes
+ORD-51007,2025-07-12,Region III,Online,Individual,Electronics,USB Hub,2.0,678.8,0.05,1289.72,488.74,800.98,E-wallet,Alex,No
+ORD-51008,2025-04-29,Region VII,Marketplace,Individual,Sports & Outdoors,Tumbler,4.0,404.71,0.0,1618.84,647.54,971.3,Debit Card,Eli,No
+ORD-51009,2025-01-28,NCR,Marketplace,Corporate,Electronics,Keyboard,3.0,832.04,0.05,2371.31,873.64,1497.67,Cash,Carlo,No
+ORD-51010,2025-02-23,Davao Region,Marketplace,Individual,Sports & Outdoors,Resistance Band,2.0,319.04,0.05,606.18,287.14,319.04,Bank Transfer,Dana,No
+ORD-51011,2025-04-17,NCR,Marketplace,Corporate,Fashion,Cap,4.0,253.43,0.03,983.31,435.9,547.41,Cash,Bea,No
+ORD-51012,2025-04-15,Calabarzon,Online,Corporate,Office Supplies,Bond Paper Ream,1.0,249.54,0.0,249.54,62.38,187.16,Cash,Faith,No
+ORD-51013,2025-03-14,Bicol Region,Online,Individual,Electronics,USB Hub,5.0,663.36,0.0,3316.8,1194.05,2122.75,E-wallet,Gio,No
+ORD-51014,2025-07-11,Region VII,In-store,Small Business,Electronics,Webcam,2.0,1721.54,0.05,3270.93,1032.92,2238.01,E-wallet,Hana,No
+ORD-51015,2025-01-23,NCR,In-store,Individual,Office Supplies,Stapler,1.0,187.55,0.03,181.92,69.39,112.53,Credit Card,Gio,No
+ORD-51016,2025-03-18,CALABARZON,Marketplace,Corporate,Home & Living,Storage Box,5.0,314.36,0.05,1493.21,660.16,833.05,Bank Transfer,Alex,No
+ORD-51017,2025-01-11,Davao Region,In-store,Individual,Fashion,Wallet,4.0,528.13,0.03,2049.14,760.51,1288.63,Credit Card,Eli,No
+ORD-51018,2025-05-04,NCR,Corporate Sales,Small Business,Office Supplies,Notebook,2.0,79.26,0.05,150.59,79.26,71.33,E-wallet,Hana,No
+ORD-51019,2025-06-22,Region VII,Marketplace,Small Business,Sports & Outdoors,Tumbler,4.0,396.34,0.0,1585.36,634.14,951.22,Cash,Dana,Yes
+ORD-51020,2025-10-21,Davao Region,Marketplace,Small Business,Fashion,T-Shirt,4.0,328.47,0.0,1313.88,525.55,788.33,Bank Transfer,Dana,No
+ORD-51021,2025-03-27,Region VII,Online,Corporate,Fashion,Wallet,6.0,555.4,0.0,3332.4,1199.66,2132.74,E-wallet,Bea,No
+ORD-51022,2025-12-23,Davao Region,Marketplace,Individual,Fashion,Cap,1.0,245.38,0.0,245.38,105.51,139.87,Cash,Faith,No
+ORD-51023,2025-04-23,Region VII,Marketplace,Corporate,Sports & Outdoors,Yoga Mat,2.0,821.11,0.05,1560.11,574.78,985.33,Bank Transfer,Carlo,No
+ORD-51024,2025-09-09,Northern Mindanao,In-store,Corporate,Electronics,Keyboard,4.0,800.58,0.0,3202.32,1120.81,2081.51,Debit Card,Faith,No
+ORD-51025,2025-12-09,Region VII,In-store,Individual,Electronics,USB Hub,4.0,661.1,0.0,2644.4,951.98,1692.42,Debit Card,Alex,Yes
+ORD-51026,2025-07-04,Bicol Region,Marketplace,Individual,Office Supplies,Stapler,4.0,182.96,0.0,731.84,270.78,461.06,Debit Card,Faith,No
+ORD-51027,2025-03-25,CALABARZON,Corporate Sales,Individual,Electronics,Keyboard,2.0,922.55,0.0,1845.1,645.78,1199.32,E-wallet,Carlo,No
+ORD-51028,2025-02-09,CALABARZON,Online,Individual,Electronics,USB Hub,3.0,644.96,0.0,1934.88,696.56,1238.32,E-wallet,Hana,No
+ORD-51029,2025-10-17,Region III,Marketplace,Individual,Home & Living,Organizer,8.0,499.37,0.0,3994.96,1597.98,2396.98,Cash,Alex,No
+ORD-51030,2025-09-21,Northern Mindanao,Online,Individual,Fashion,Cap,1.0,263.06,0.05,249.91,113.12,136.79,E-wallet,Eli,Yes
+ORD-51031,2025-02-14,Davao Region,Online,Individual,Office Supplies,Stapler,2.0,192.45,0.0,384.9,142.41,242.49,Credit Card,Eli,No
+ORD-51032,2025-10-06,Region VI,In-store,Individual,Electronics,Headset,2.0,1209.56,0.05,2298.16,774.12,1524.04,Debit Card,Alex,No
+ORD-51033,2025-07-25,Region VII,In-store,Individual,Fashion,Cap,3.0,240.6,0.0,721.8,310.37,411.43,Bank Transfer,Bea,No
+ORD-51034,2025-04-25,Davao Region,Marketplace,Corporate,Sports & Outdoors,Tumbler,3.0,389.25,0.0,1167.75,467.1,700.65,Credit Card,Eli,No
+ORD-51035,2025-10-29,NCR,Marketplace,Small business,Office Supplies,Bond Paper Ream,4.0,251.13,0.05,954.29,251.13,703.16,Debit Card,Gio,No
+ORD-51036,2025-04-09,Region III,In-store,Individual,Sports & Outdoors,Tumbler,1.0,452.1,0.0,452.1,180.84,271.26,Cash,Carlo,No
+ORD-51037,2025-02-08,Davao Region,In-store,Small Business,Electronics,USB Hub,3.0,659.6,0.0,1978.8,712.37,1266.43,Cash,Bea,No
+ORD-51038,2025-12-31,NCR,In-store,Individual,Electronics,Headset,4.0,1352.75,0.0,5411.0,1731.52,3679.48,Bank Transfer,Carlo,Yes
+ORD-51039,2025-05-22,Bicol Region,Marketplace,Individual,Electronics,Webcam,6.0,1885.24,0.05,10745.87,3393.43,7352.44,Credit Card,Dana,No
+ORD-51040,2025-01-25,Davao Region,Online,Individual,Home & Living,Water Bottle,2.0,272.77,0.0,545.54,245.49,300.05,Credit Card,Dana,No
+ORD-51041,2025-02-18,Bicol Region,Marketplace,Small Business,Home & Living,Desk Lamp,2.0,975.87,0.0,1951.74,663.59,1288.15,E-wallet,Eli,No
+ORD-51042,2025-04-21,Region VII,Marketplace,Small Business,Electronics,USB Hub,3.0,665.35,0.05,1896.25,718.58,1177.67,Cash,Gio,No
+ORD-51043,2025-01-06,Region VII,In-store,Individual,Electronics,Keyboard,2.0,904.05,0.03,1753.86,632.83,1121.03,E-wallet,Bea,No
+ORD-51044,2025-12-08,NCR,Corporate Sales,Individual,Office Supplies,Ballpen Set,2.0,112.61,0.0,225.22,108.11,117.11,E-wallet,Alex,No
+ORD-51045,2025-08-07,Region VI,Online,Individual,Electronics,Wireless Mouse,1.0,486.99,0.05,462.64,185.06,277.58,Credit Card,Dana,No
+ORD-51046,2025-11-02,Region VI,Corporate Sales,Individual,Home & Living,Storage Box,6.0,349.12,0.03,2031.88,879.78,1152.1,E-wallet,Bea,No
+ORD-51047,2025-10-19,Region VII,Marketplace,Individual,Electronics,Wireless Mouse,3.0,493.35,0.0,1480.05,562.42,917.63,E-wallet,Dana,Yes
+ORD-51048,2025-02-04,Region VII,Marketplace,Individual,Office Supplies,Ballpen Set,2.0,124.9,0.0,249.8,119.9,129.9,Cash,Dana,No
+ORD-51049,2025-06-24,CALABARZON,Online,Small Business,Electronics,Headset,4.0,1340.34,0.0,5361.36,1715.64,3645.72,Cash,Dana,Yes
+ORD-51050,2025-08-13,Northern Mindanao,In-store,Small Business,Fashion,T-Shirt,1.0,329.55,0.0,329.55,131.82,197.73,Debit Card,Dana,No
+ORD-51051,2025-12-22,Region III,Corporate Sales,Individual,Office Supplies,Ballpen Set,4.0,124.92,0.1,449.71,239.85,209.86,E-wallet,Alex,Yes
+ORD-51052,2025-08-02,CALABARZON,Online,Individual,Office Supplies,Stapler,1.0,195.62,0.0,195.62,72.38,123.24,Debit Card,Hana,No
+ORD-51053,2025-02-16,Region VII,Online,Individual,Electronics,Webcam,4.0,1826.11,0.05,6939.22,2191.33,4747.89,Cash,Bea,No
+ORD-51054,2025-12-09,Region III,Marketplace,Small Business,Office Supplies,Notebook,1.0,82.23,0.05,78.12,41.12,37.0,Cash,Carlo,No
+ORD-51055,2025-01-18,,Online,Individual,Fashion,Cap,2.0,253.58,0.0,507.16,218.08,289.08,Debit Card,Carlo,No
+ORD-51056,2025-10-29,Bicol Region,In-store,Small Business,Electronics,USB Hub,8.0,628.59,0.0,5028.72,1810.34,3218.38,Credit Card,Faith,No
+ORD-51057,2025-07-09,Region III,Marketplace,Small Business,Office Supplies,Notebook,8.0,83.1,0.0,664.8,332.4,332.4,E-wallet,Carlo,No
+ORD-51058,2025-01-12,Davao Region,Online,Individual,Fashion,Backpack,5.0,1040.04,0.0,5200.2,1716.07,3484.13,Cash,Carlo,No
+ORD-51059,2025-10-17,Region III,Online,Individual,Fashion,T-Shirt,3.0,363.45,0.0,1090.35,436.14,654.21,E-wallet,Eli,No
+ORD-51060,2025-07-30,CALABARZON,Online,Individual,Home & Living,Storage Box,10.0,308.24,0.05,2928.28,1294.61,1633.67,Cash,Bea,No
+ORD-51061,2025-09-22,Northern Mindanao,In-store,Corporate,Home & Living,Water Bottle,8.0,261.12,0.0,2088.96,940.03,1148.93,Debit Card,Carlo,No
+ORD-51062,2025-03-08,Region VI,Corporate Sales,Corporate,Fashion,Wallet,2.0,602.48,0.05,1144.71,433.79,710.92,Bank Transfer,Eli,No
+ORD-51063,2025-03-08,Northern Mindanao,Corporate Sales,Individual,Home & Living,Storage Box,1.0,309.31,0.0,309.31,129.91,179.4,E-wallet,Bea,No
+ORD-51064,2025-12-20,NCR,Marketplace,Individual,Fashion,Wallet,1.0,578.83,0.0,578.83,208.38,370.45,Debit Card,Faith,Yes
+ORD-51065,2025-05-07,Davao Region,In-store,Individual,Office Supplies,Ballpen Set,4.0,112.94,0.0,451.76,216.84,234.92,Debit Card,Bea,No
+ORD-51066,2025-12-06,Region VII,In-store,Individual,Sports & Outdoors,Yoga Mat,2.0,819.91,0.0,1639.82,573.94,1065.88,,Hana,No
+ORD-51067,2025-04-09,Region VII,Marketplace,Individual,Sports & Outdoors,Resistance Band,-1.0,287.84,0.03,279.2,129.53,149.67,Credit Card,Gio,No
+ORD-51068,2025-12-05,NCR,Marketplace,Corporate,Sports & Outdoors,Resistance Band,1.0,305.96,0.0,305.96,137.68,168.28,Credit Card,Hana,Yes
+ORD-51069,2025-04-04,NCR,Online,Small Business,Electronics,USB Hub,1.0,631.89,0.03,612.93,227.48,385.45,Debit Card,,No
+ORD-51070,2025-12-06,CALABARZON,Online,Individual,Office Supplies,Ballpen Set,2.0,118.98,0.1,214.16,114.22,99.94,E-wallet,Dana,Yes
+ORD-51071,2025-04-10,Region III,Online,Small Business,Electronics,Webcam,1.0,1768.34,0.03,1715.29,530.5,1184.79,Bank Transfer,Carlo,No
+ORD-51072,2025-07-18,Davao Region,Corporate Sales,Individual,Home & Living,Water Bottle,1.0,276.69,0.0,276.69,124.51,152.18,Credit Card,Faith,No
+ORD-51073,2025-06-20,Bicol Region,Marketplace,Individual,Sports & Outdoors,Resistance Band,5.0,281.01,0.0,1405.05,632.27,772.78,Debit Card,Hana,Yes
+ORD-51074,2025-11-28,Northern Mindanao,Marketplace,Small Business,Fashion,Cap,5.0,233.41,0.0,1167.05,501.83,665.22,Credit Card,Bea,No
+ORD-51075,2025-08-30,Davao Region,In-store,Individual,Home & Living,Storage Box,3.0,344.86,0.05,982.85,434.52,548.33,Bank Transfer,Gio,No
+ORD-51076,2025-08-10,Region VI,In-store,Individual,Electronics,USB Hub,2.0,660.82,0.0,1321.64,475.79,845.85,Credit Card,Hana,No
+ORD-51077,2025-07-26,NCR,Online,Individual,Office Supplies,Notebook,5.0,91.76,0.0,458.8,229.4,229.4,Credit Card,Alex,No
+ORD-51078,2025-06-10,Bicol Region,Marketplace,Small Business,Sports & Outdoors,Tumbler,2.0,448.19,0.15,761.92,358.55,403.37,Credit Card,Eli,Yes
+ORD-51079,2025-12-28,Region III,Marketplace,Small Business,Home & Living,Storage Box,2.0,338.86,0.03,657.39,284.64,372.75,Bank Transfer,Eli,No
+ORD-51080,2025-01-20,Region VI,Marketplace,Individual,Fashion,Backpack,3.0,1197.21,0.0,3591.63,1185.24,2406.39,Credit Card,Carlo,No
+ORD-51081,2025-07-07,NCR,Online,Small Business,Home & Living,Organizer,4.0,495.73,0.05,1883.77,793.17,1090.6,Credit Card,Eli,Yes
+ORD-51082,2025-06-03,Bicol Region,Marketplace,Individual,Fashion,Cap,4.0,244.0,0.05,927.2,419.68,507.52,Bank Transfer,Hana,No
+ORD-51083,2025-10-23,CALABARZON,Online,Small Business,Home & Living,Organizer,4.0,500.05,0.0,2000.2,800.08,1200.12,E-wallet,Dana,No
+ORD-51084,2025-03-14,Region III,Online,Individual,Sports & Outdoors,Resistance Band,2.0,295.13,0.0,590.26,265.62,324.64,Cash,Dana,Yes
+ORD-51085,2025-01-06,NCR,Marketplace,Individual,Home & Living,Storage Box,4.0,325.92,0.03,1264.57,547.55,717.02,Cash,Carlo,No
+ORD-51086,2025-03-09,Region III,Online,Small Business,Office Supplies,Ballpen Set,1.0,123.07,0.0,123.07,59.07,64.0,Bank Transfer,Eli,Yes
+ORD-51087,2025-04-17,NCR,In-store,Individual,Sports & Outdoors,Resistance Band,2.0,297.09,0.0,594.18,267.38,326.8,Cash,Dana,No
+ORD-51088,2025-07-10,NCR,In-store,Individual,Fashion,Backpack,1.0,1107.55,0.0,1107.55,365.49,742.06,Cash,Bea,Yes
+ORD-51089,2025-01-10,Davao Region,Corporate Sales,Small Business,Office Supplies,Ballpen Set,10.0,114.86,0.0,1148.6,551.33,597.27,Debit Card,Faith,No
+ORD-51090,2025-02-26,Region III,In-store,Small Business,Home & Living,Storage Box,1.0,335.32,0.0,335.32,140.83,194.49,Cash,Eli,No
+ORD-51091,2025-11-13,Region VI,Online,Individual,Home & Living,Water Bottle,1.0,291.21,0.15,247.53,131.04,116.49,Debit Card,Bea,Yes
+ORD-51092,2025-02-06,Region VI,Online,Small Business,Fashion,Wallet,3.0,567.3,0.0,1701.9,612.68,1089.22,Credit Card,Eli,Yes
+ORD-51093,2025-03-30,Region III,Online,Small Business,Electronics,Keyboard,6.0,841.67,0.03,4898.52,1767.51,3131.01,Debit Card,Hana,No
+ORD-51094,2025-02-03,Region VII,In-store,Corporate,Electronics,Webcam,4.0,1772.66,0.05,6736.11,2127.19,4608.92,E-wallet,Bea,No
+ORD-51095,2025-08-18,Northern Mindanao,Corporate Sales,Small Business,Home & Living,Organizer,2.0,487.34,0.03,945.44,389.87,555.57,Cash,Carlo,No
+ORD-51096,2025-02-12,Davao Region,Marketplace,Individual,Electronics,Keyboard,4.0,904.23,0.0,3616.92,1265.92,2351.0,Debit Card,Faith,No
+ORD-51097,2025-08-09,NCR,In-store,Small Business,Electronics,Headset,1.0,1300.81,0.15,1105.69,416.26,689.43,Cash,Eli,Yes
+ORD-51098,2025-10-21,Bicol Region,In-store,Small Business,Home & Living,Organizer,2.0,468.33,0.0,936.66,374.66,562.0,E-wallet,Dana,No
+ORD-51099,2025-02-20,Northern Mindanao,Marketplace,Individual,Home & Living,Storage Box,1.0,348.85,0.0,348.85,146.52,202.33,Credit Card,Hana,No
+ORD-51100,2025-04-12,Northern Mindanao,In-store,Individual,Fashion,Cap,5.0,274.3,0.03,1330.36,589.75,740.61,Credit Card,Alex,No
+ORD-51101,2025-05-25,Region VI,Marketplace,Individual,Electronics,USB Hub,4.0,696.89,0.05,2648.18,1003.52,1644.66,Cash,Eli,No
+ORD-51102,2025-01-23,Region III,In-store,Individual,Office Supplies,Stapler,2.0,189.42,0.0,378.84,140.17,238.67,E-wallet,Faith,No
+ORD-51103,2025-11-15,Region VI,In-store,Individual,Office Supplies,Stapler,2.0,176.02,0.1,316.84,130.25,186.59,Cash,Hana,Yes
+ORD-51104,2025-11-26,Region VI,Online,Individual,Office Supplies,Stapler,4.0,195.08,0.03,756.91,288.72,468.19,Bank Transfer,Faith,No
+ORD-51105,2025-03-05,Northern Mindanao,Marketplace,Individual,Office Supplies,Ballpen Set,2.0,114.85,0.1,206.73,110.26,96.47,Cash,Dana,Yes
+ORD-51106,2025-04-08,Northern Mindanao,Corporate Sales,Small Business,Office Supplies,Bond Paper Ream,1.0,258.26,0.0,258.26,64.56,193.7,Credit Card,Dana,No
+ORD-51107,2025-10-24,NCR,Corporate Sales,Individual,Home & Living,Organizer,4.0,500.62,0.03,1942.41,800.99,1141.42,Cash,Faith,No
+ORD-51108,2025-11-01,Region VI,In-store,Corporate,Office Supplies,Ballpen Set,1.0,112.29,0.0,112.29,53.9,58.39,Credit Card,Dana,Yes
+ORD-51109,2025-09-15,Region III,In-store,Individual,Office Supplies,Bond Paper Ream,2.0,267.76,0.1,481.97,133.88,348.09,Cash,Faith,Yes
+ORD-51110,2025-08-01,Davao Region,Online,Small Business,Sports & Outdoors,Resistance Band,4.0,290.61,0.0,1162.44,523.1,639.34,Cash,Hana,No
+ORD-51111,2025-03-30,Region VII,Online,Individual,Office Supplies,Notebook,2.0,84.04,0.0,168.08,84.04,84.04,Bank Transfer,Dana,No
+ORD-51112,2025-05-18,Davao Region,Corporate Sales,Individual,Fashion,Backpack,10.0,1205.76,0.05,11454.72,3979.01,7475.71,Cash,Alex,Yes
+ORD-51113,2025-03-08,Davao Region,Online,Individual,Home & Living,Water Bottle,8.0,287.56,0.05,2185.46,1035.22,1150.24,Cash,Hana,Yes
+ORD-51114,2025-01-19,Region VI,Corporate Sales,Individual,Electronics,Webcam,3.0,1677.29,0.0,5031.87,1509.56,3522.31,Bank Transfer,Gio,No
+ORD-51115,2025-01-02,NCR,Online,Individual,Home & Living,Desk Lamp,3.0,891.47,0.0,2674.41,909.3,1765.11,Credit Card,Hana,Yes
+ORD-51116,2025-01-12,Bicol Region,In-store,Individual,Electronics,Keyboard,5.0,821.83,0.03,3985.88,1438.2,2547.68,Credit Card,Hana,No
+ORD-51117,2025-03-13,Davao Region,Corporate Sales,Individual,Sports & Outdoors,Yoga Mat,2.0,802.87,0.0,1605.74,562.01,1043.73,Debit Card,Carlo,No
+ORD-51118,2025-06-18,Bicol Region,Online,Individual,Office Supplies,Ballpen Set,6.0,127.66,0.05,727.66,367.66,360.0,Debit Card,Eli,Yes
+ORD-51119,2025-09-29,CALABARZON,Corporate Sales,Individual,Fashion,Cap,2.0,244.71,0.03,474.74,210.45,264.29,Credit Card,Faith,No
+ORD-51120,2025-12-04,NCR,Corporate Sales,Individual,Office Supplies,Notebook,6.0,85.33,0.0,511.98,255.99,255.99,Bank Transfer,Gio,No
+ORD-51121,2025-05-05,Region III,In-store,Small Business,Home & Living,Water Bottle,6.0,282.32,0.0,1693.92,762.26,931.66,E-wallet,Bea,No
+ORD-51122,2025-03-01,Region VII,Corporate Sales,Individual,Electronics,Keyboard,2.0,882.93,0.15,1500.98,618.05,882.93,E-wallet,Dana,Yes
+ORD-51123,2025-04-27,Bicol Region,Marketplace,Individual,Fashion,Cap,1.0,259.43,0.0,259.43,111.55,147.88,Bank Transfer,Hana,No
+ORD-51124,2025-09-30,Region VI,Marketplace,Individual,Electronics,Wireless Mouse,,428.06,0.0,3424.48,1301.3,2123.18,Credit Card,Alex,Yes
+ORD-51125,2025-01-26,Northern Mindanao,Online,Small Business,Fashion,Backpack,4.0,1081.53,0.0,4326.12,1427.62,2898.5,Bank Transfer,Carlo,No
+ORD-51126,2025-04-08,Bicol Region,In-store,Individual,Office Supplies,Bond Paper Ream,5.0,255.9,0.03,1241.12,319.88,921.24,Cash,Eli,No
+ORD-51127,2025-04-17,NCR,Marketplace,Individual,Home & Living,Desk Lamp,2.0,903.63,0.0,1807.26,614.47,1192.79,Bank Transfer,Hana,No
+ORD-51128,2025-10-08,Davao Region,Marketplace,Individual,Electronics,Webcam,6.0,1933.23,0.15,9859.47,3479.81,6379.66,,Dana,Yes
+ORD-51129,2025-07-05,Davao Region,Online,Individual,Electronics,Wireless Mouse,10.0,443.81,0.0,4438.1,1686.48,2751.62,Debit Card,Bea,No
+ORD-51130,2025-04-19,Northern Mindanao,Online,Individual,Fashion,Backpack,4.0,1197.45,0.0,4789.8,1580.63,3209.17,Credit Card,Gio,No
+ORD-51131,2025-04-24,Davao Region,Online,Individual,Office Supplies,Stapler,3.0,195.54,0.15,498.63,217.05,281.58,Debit Card,Gio,Yes
+ORD-51132,2025-03-07,Davao Region,Marketplace,Small Business,Sports & Outdoors,Tumbler,1.0,409.06,0.15,347.7,163.62,184.08,E-wallet,Dana,Yes
+ORD-51133,2025-12-28,Davao Region,Online,Individual,Fashion,Cap,2.0,253.59,0.15,431.1,218.09,213.01,Credit Card,Alex,Yes
+ORD-51134,2025-11-12,Bicol Region,Marketplace,Individual,Electronics,Headset,4.0,1298.66,0.0,5194.64,1662.28,3532.36,Bank Transfer,Hana,No
+ORD-51135,2025-01-26,Davao Region,In-store,Small Business,Fashion,Backpack,10.0,1178.84,0.15,10020.14,3890.17,6129.97,Bank Transfer,Bea,Yes
+ORD-51136,2025-03-07,Region VI,Corporate Sales,Individual,Fashion,Wallet,8.0,574.22,0.0,4593.76,1653.75,2940.01,Cash,Faith,Yes
+ORD-51137,2025-04-17,Davao Region,Marketplace,Individual,Office supplies,Notebook,10.0,91.87,0.0,918.7,459.35,459.35,Credit Card,Bea,No
+ORD-51138,2025-10-21,CALABARZON,In-store,Individual,Sports & Outdoors,Yoga Mat,2.0,777.17,0.03,1507.71,544.02,963.69,Bank Transfer,Alex,No
+ORD-51139,2025-09-27,Region VI,In-store,Individual,Fashion,Wallet,1.0,559.31,0.0,559.31,201.35,357.96,Debit Card,Dana,No
+ORD-51140,2025-01-14,Northern Mindanao,In-store,Individual,Home & Living,Desk Lamp,5.0,995.64,0.0,4978.2,1692.59,3285.61,Cash,Eli,No
+ORD-51141,2025-06-25,Region III,In-store,Individual,Home & Living,Storage Box,2.0,299.64,0.05,569.32,251.7,317.62,Bank Transfer,Carlo,No
+ORD-51142,2025-11-10,CALABARZON,Marketplace,Individual,Electronics,Webcam,2.0,1941.91,0.0,3883.82,1165.15,2718.67,E-wallet,Dana,No
+ORD-51143,2025-03-12,NCR,Online,Small Business,Home & Living,Desk Lamp,1.0,951.1,0.0,951.1,323.37,627.73,Credit Card,Bea,No
+ORD-51144,2025-09-12,Region VII,Marketplace,Small Business,Fashion,Backpack,2.0,1014.19,0.15,1724.12,669.37,1054.75,Bank Transfer,Alex,Yes
+ORD-51145,2025-11-05,CALABARZON,Corporate Sales,Individual,Home & Living,Water Bottle,10.0,264.15,0.1,2377.35,1188.67,1188.68,Cash,Faith,Yes
+ORD-51146,2025-09-12,Northern Mindanao,Marketplace,Individual,Office Supplies,Notebook,8.0,84.58,0.0,676.64,338.32,338.32,E-wallet,Hana,Yes
+ORD-51147,2025-07-26,CALABARZON,Marketplace,Individual,Home & Living,Water Bottle,2.0,303.61,0.03,589.0,273.25,315.75,Debit Card,Gio,No
+ORD-51148,2025-12-20,Northern Mindanao,Marketplace,Small Business,Electronics,Headset,6.0,1212.19,0.0,7273.14,2327.4,4945.74,E-wallet,Hana,Yes
+ORD-51149,2025-11-23,Calabarzon,In-store,Small Business,Fashion,Backpack,5.0,1019.31,0.05,4841.72,1681.86,3159.86,Credit Card,Carlo,No
+ORD-51150,2025-04-06,Bicol Region,Marketplace,Individual,Fashion,Backpack,1.0,1181.96,0.0,1181.96,390.05,791.91,E-wallet,Hana,No
+ORD-51151,2025-04-01,Davao Region,Online,Individual,Fashion,Cap,3.0,247.33,0.0,741.99,319.06,422.93,Bank Transfer,Faith,No
+ORD-51152,2025-05-21,Bicol Region,In-store,Individual,Office Supplies,Notebook,1.0,92.18,0.05,87.57,46.09,41.48,E-wallet,Dana,No
+ORD-51153,2025-12-31,Region III,In-store,Individual,Sports & Outdoors,Yoga Mat,1.0,765.2,0.0,765.2,267.82,497.38,E-wallet,Alex,No
+ORD-51154,2025-10-02,NCR,Online,Individual,Electronics,Headset,3.0,1259.34,0.0,3778.02,1208.97,2569.05,Bank Transfer,Eli,No
+ORD-51155,2025-02-03,Davao Region,In-store,Individual,Office Supplies,Stapler,2.0,188.64,0.1,339.55,139.59,199.96,Debit Card,Carlo,Yes
+ORD-51156,2025-10-03,Region III,In-store,Small Business,Office Supplies,Bond Paper Ream,1.0,254.85,0.0,254.85,63.71,191.14,Debit Card,Eli,No
+ORD-51157,2025-07-02,Region VII,Online,Individual,Office Supplies,Notebook,5.0,83.58,0.05,397.0,208.95,188.05,Debit Card,Bea,No
+ORD-51158,2025-09-10,NCR,Marketplace,Small Business,Home & Living,Desk Lamp,4.0,1035.94,0.05,3936.57,1408.88,2527.69,Debit Card,Hana,Yes
+ORD-51159,2025-03-29,ncr,online,Individual,Home & Living,Storage Box,8.0,307.01,0.0,2456.08,1031.55,1424.53,E-wallet,Faith,No
+ORD-51160,2025-11-19,CALABARZON,Marketplace,Individual,Home & Living,Organizer,4.0,492.81,0.0,1971.24,788.5,1182.74,Bank Transfer,Bea,Yes
+ORD-51161,2025-06-19,,Corporate Sales,Small Business,Home & Living,Desk Lamp,1.0,1025.77,0.0,1025.77,348.76,677.01,Cash,Hana,Yes
+ORD-51162,2025-10-09,Davao Region,Online,Individual,Office Supplies,Notebook,4.0,87.64,0.0,350.56,175.28,175.28,Credit Card,Carlo,Yes
+ORD-51163,2025-04-28,NCR,In-store,Individual,Electronics,Keyboard,1.0,821.71,0.0,821.71,287.6,534.11,Bank Transfer,Alex,No
+ORD-51164,2025-02-09,Bicol Region,,Individual,Electronics,USB Hub,1.0,634.19,0.0,634.19,228.31,405.88,Bank Transfer,Dana,No
+ORD-51165,2025-09-16,Region VII,In-store,Small Business,Electronics,Keyboard,1.0,905.79,0.0,905.79,317.03,588.76,Bank Transfer,Eli,No
+ORD-51166,2025-05-17,Bicol Region,Marketplace,Individual,Home & Living,Water Bottle,1.0,297.31,0.0,297.31,133.79,163.52,Bank Transfer,Dana,No
+ORD-51167,2025-12-08,Region VI,Marketplace,Small Business,Electronics,Webcam,3.0,1662.88,0.0,4988.64,1496.59,3492.05,Cash,Faith,No
+ORD-51168,2025-08-09,CALABARZON,Corporate Sales,Corporate,Fashion,Wallet,2.0,548.22,0.0,1096.44,394.72,701.72,Cash,Hana,No
+ORD-51169,2025-03-01,Davao Region,Online,Corporate,Fashion,Backpack,5.0,1083.79,0.05,5148.0,1788.25,3359.75,Bank Transfer,Carlo,Yes
+ORD-51170,2025-06-25,Bicol Region,Marketplace,Corporate,Office Supplies,Stapler,3.0,169.77,0.0,509.31,188.44,320.87,Debit Card,Eli,No
+ORD-51171,2025-06-23,Region III,In-store,Individual,Office Supplies,Notebook,6.0,90.88,0.15,463.49,272.64,190.85,E-wallet,Faith,Yes
+ORD-51172,2025-01-30,CALABARZON,In-store,Individual,Office Supplies,Bond Paper Ream,4.0,257.35,0.05,977.93,257.35,720.58,Credit Card,Faith,Yes
+ORD-51173,2025-07-07,Region VI,Corporate Sales,Small Business,Electronics,Webcam,4.0,1764.74,0.03,6847.19,2117.69,4729.5,Cash,Bea,No
+ORD-51174,2025-07-08,NCR,In-store,Individual,Sports & Outdoors,Resistance Band,1.0,304.11,0.03,294.99,136.85,158.14,Credit Card,Carlo,No
+ORD-51175,2025-10-04,CALABARZON,Online,Corporate,Office Supplies,Notebook,1.0,87.35,0.0,87.35,43.67,43.68,Cash,Carlo,No
+ORD-51176,2025-09-29,Region VI,In-store,Small Business,Office Supplies,Ballpen Set,3.0,116.0,0.15,295.8,167.04,128.76,E-wallet,Bea,Yes
+ORD-51177,2025-03-08,Northern Mindanao,In-store,Individual,Fashion,Backpack,1.0,1016.82,0.0,1016.82,335.55,681.27,Cash,Faith,Yes
+ORD-51178,2025-03-23,Davao Region,In-store,Individual,Home & Living,Storage Box,2.0,349.45,0.15,594.06,293.54,300.52,Credit Card,Bea,Yes
+ORD-51179,2025-05-16,CALABARZON,Marketplace,Individual,Sports & Outdoors,Resistance Band,2.0,324.81,0.0,649.62,292.33,357.29,Cash,Alex,No
+ORD-51180,2025-03-25,CALABARZON,Marketplace,Small Business,Sports & Outdoors,Tumbler,1.0,447.06,0.15,380.0,178.82,201.18,Debit Card,Eli,Yes
+ORD-51181,2025-06-18,Davao Region,Corporate Sales,Individual,Electronics,Webcam,1.0,1777.75,0.05,1688.86,533.32,1155.54,Debit Card,Dana,No
+ORD-51182,2025-10-25,Region VI,Marketplace,Small Business,Electronics,USB Hub,3.0,698.27,0.05,1990.07,754.13,1235.94,Cash,Gio,No
+ORD-51183,2025-04-09,CALABARZON,Market Place,Individual,Fashion,Wallet,3.0,533.39,0.05,1520.16,576.06,944.1,Bank Transfer,Hana,No
+ORD-51184,2025-08-12,Region VII,Online,Individual,Sports & Outdoors,Tumbler,2.0,444.12,0.05,843.83,355.3,488.53,Debit Card,Alex,No
+ORD-51185,2025-09-05,Region III,Online,Individual,Fashion,Wallet,1.0,521.57,0.0,521.57,187.77,333.8,E-wallet,Eli,No
+ORD-51186,2025-08-11,Davao Region,Online,Small Business,Electronics,Webcam,6.0,1869.93,0.05,10658.6,3365.87,7292.73,E-wallet,Bea,No
+ORD-51187,2025-09-09,Bicol Region,Marketplace,Individual,Electronics,USB Hub,3.0,626.23,0.05,1784.76,676.33,1108.43,Cash,Carlo,No
+ORD-51188,2025-07-14,Region VII,In-store,Individual,Fashion,T-Shirt,3.0,333.78,0.0,1001.34,400.54,600.8,Credit Card,Dana,No
+ORD-51189,2025-01-01,Bicol Region,In-store,Individual,Electronics,Keyboard,3.0,804.96,0.15,2052.65,845.21,1207.44,Bank Transfer,Carlo,Yes
+ORD-51190,2025-03-20,Region VI,Online,Corporate,Office Supplies,Ballpen Set,4.0,128.74,0.0,514.96,247.18,267.78,Credit Card,Carlo,Yes
+ORD-51191,2025-04-02,Bicol Region,In-store,Individual,Fashion,T-Shirt,2.0,359.55,0.15,611.24,287.64,323.6,Credit Card,Faith,Yes
+ORD-51192,2025-07-30,Region III,Corporate Sales,Small Business,Electronics,Webcam,1.0,1865.4,0.05,1772.13,559.62,1212.51,Cash,Dana,No
+ORD-DUP01,2025-06-24,CALABARZON,Online,Small Business,Electronics,Headset,4.0,1340.34,0.0,5361.36,1715.64,3645.72,Cash,Dana,Yes
+ORD-DUP02,2025-09-21,Bicol Region,Online,Small Business,Sports & Outdoors,Yoga Mat,6.0,800.84,0.0,4805.04,1681.76,3123.28,Debit Card,Gio,No
+ORD-DUP03,2025-01-09,Region VI,Online,Individual,Office Supplies,Stapler,6.0,177.39,0.03,1032.41,393.81,638.6,E-wallet,Eli,No
+ORD-DUP04,2025-08-12,Davao Region,Online,Small Business,Office Supplies,Ballpen Set,5.0,123.28,0.0,616.4,295.87,320.53,Bank Transfer,Carlo,No
+ORD-DUP05,2025-08-24,Region VII,Online,Small Business,Home & Living,Desk Lamp,2.0,914.82,0.0,1829.64,622.08,1207.56,Cash,Carlo,No
+ORD-DUP06,2025-06-30,Northern Mindanao,Corporate Sales,Individual,Fashion,Wallet,6.0,525.61,0.05,2995.98,1135.32,1860.66,Bank Transfer,Eli,Yes
+ORD-DUP07,2025-07-31,Region VII,In-store,Individual,Electronics,Keyboard,4.0,912.58,0.0,3650.32,1277.61,2372.71,Bank Transfer,Hana,No
+ORD-DUP08,2025-07-10,Region III,Online,Corporate,Office Supplies,Bond Paper Ream,3.0,249.82,0.0,749.46,187.37,562.09,Debit Card,Bea,No

@@ -1,0 +1,501 @@
+Job_ID,Posting_Date,Region,Industry_Sector,Job_Title,Experience_Level,Education_Required,Employment_Type,Work_Mode,Remote_Eligible,Minimum_Experience,Required_Skills,Monthly_Salary_PHP,Vacancies,Applicants_Count
+JOB0001,2025-06-02,Region VII,Hospitality,Chef,Mid-level,Bachelor's,Part-time,Hybrid,No,None,Problem Solving; Cloud Computing,45500.0,3,60
+JOB0002,2025-06-03,Region IV-A,Business & Finance,Marketing Associate,Mid-level,Vocational,Full-time,On-site,Yes,None,SQL; Project Management; Problem Solving,53500.0,7,98
+JOB0003,2025-12-27,Region VII,Information Technology,Web Developer,Mid-level,Bachelor's,Full-time,Hybrid,Yes,3–5 years,Python; HTML/CSS; Cloud Computing,60500.0,2,73
+JOB0004,2025-10-12,NCR,Logistics,Logistics Coordinator,Entry-level,Bachelor's,Contract,On-site,No,None,SQL; Data Visualization; Communication,40500.0,1,87
+JOB0005,2025-05-10,Region I,Education,Training Specialist,Entry-level,Bachelor's,Full-time,On-site,Yes,1–2 years,HTML/CSS; Cloud Computing; Problem Solving,28000.0,2,36
+JOB0006,2025-03-04,Region VII,Business & Finance,HR Officer,Entry-level,Bachelor's,Full-time,Remote,No,None,Customer Service; Communication,41000.0,4,68
+JOB0007,2025-06-04,NCR,Education,ICT Instructor,Senior,Vocational,Part-time,Hybrid,No,None,Java; Data Visualization,59500.0,3,63
+JOB0008,2025-11-01,Region VII,Engineering,QA Engineer,Mid-level,Master's,Full-time,On-site,Yes,None,Python; Customer Service,51500.0,4,59
+JOB0009,2025-08-17,NCR,Business & Finance,HR Officer,Senior,Master's,Contract,On-site,Yes,1–2 years,Problem Solving; Data Visualization,86000.0,9,54
+JOB0010,2025-07-08,Region XI,Healthcare,Healthcare Assistant,Entry-level,Master's,Full-time,Remote,No,3–5 years,Problem Solving; Customer Service,42500.0,3,21
+JOB0011,2025-05-24,Region VII,Business & Finance,HR Officer,Mid-level,Bachelor's,Full-time,Remote,No,1–2 years,Project Management; Excel; SQL,44000.0,5,81
+JOB0012,2025-11-07,,Manufacturing,Quality Inspector,Senior,Vocational,Part-time,On-site,No,1–2 years,Customer Service; Communication,52000.0,4,120
+JOB0013,2025-02-21,Region VII,Healthcare,Radiology Technician,Entry-level,Bachelor's,Contract,On-site,No,3–5 years,Communication; Excel; Project Management,44000.0,5,68
+JOB0014,2025-08-10,Region III,Hospitality,Customer Service Associate,Senior,Bachelor's,Contract,On-site,Yes,None,SQL; Data Visualization; Excel,52000.0,5,104
+JOB0015,2025-02-09,Region III,Business & Finance,Marketing Associate,Senior,Bachelor's,Contract,On-site,Yes,3–5 years,Communication; Data Visualization; Project Management,60500.0,9,95
+JOB0016,2025-01-10,Region XI,Engineering,Electrical Engineer,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,SQL; Project Management; Communication,40000.0,6,19
+JOB0017,2025-12-27,Region IV-A,Education,Training Specialist,Entry-level,Bachelor's,Internship,Hybrid,No,None,SQL; HTML/CSS,29000.0,2,72
+JOB0018,2025-08-18,Region VI,Information Technology,IT Support Specialist,Mid-level,Master's,Full-time,On-site,Yes,None,HTML/CSS; Cloud Computing,67000.0,5,54
+JOB0019,2025-12-06,Region IV-A,Logistics,Warehouse Supervisor,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Communication; Excel; Project Management,44000.0,1,45
+JOB0020,2025-11-10,NCR,Engineering,Civil Engineer,Mid-level,Bachelor's,Contract,On-site,No,3–5 years,Communication; Data Visualization,66500.0,2,61
+JOB0021,2025-07-01,Region VI,Manufacturing,Production Technician,Mid-level,Vocational,Full-time,On-site,No,3–5 years,HTML/CSS; Customer Service,43500.0,3,56
+JOB0022,2025-08-06,Region VII,Hospitality,Chef,Entry-level,Bachelor's,Contract,On-site,No,None,Excel; Python,31500.0,6,81
+JOB0023,2025-08-18,Region III,Engineering,Electrical Engineer,Senior,Master's,Full-time,Remote,No,1–2 years,HTML/CSS; Problem Solving,73000.0,4,70
+JOB0024,2025-01-11,Region XI,Healthcare,Medical Technologist,Mid-level,Vocational,Part-time,On-site,No,None,Customer Service; Problem Solving; Project Management,42500.0,2,45
+JOB0025,2025-02-14,NCR,Logistics,Warehouse Supervisor,Entry-level,Bachelor's,Part-time,On-site,No,3–5 years,Communication; Problem Solving; Excel,35000.0,4,76
+JOB0026,2025-05-03,Region I,Education,ICT Instructor,Senior,Vocational,Full-time,Hybrid,No,3–5 years,Project Management; Java; Excel,63500.0,3,38
+JOB0027,2025-05-01,Region X,Education,Teacher,Entry-level,High School,Full-time,On-site,No,3–5 years,SQL; Excel,16500.0,2,54
+JOB0028,2025-12-04,Region III,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,On-site,Yes,5+ years,SQL; Java; Communication,46000.0,5,76
+JOB0029,2025-06-02,Region X,Hospitality,Chef,Mid-level,Bachelor's,Full-time,,No,5+ years,Cybersecurity; Cloud Computing; Customer Service,45500.0,4,20
+JOB0030,2025-01-16,Region III,Hospitality,Customer Service Associate,Entry-level,Master's,Contract,On-site,Yes,3–5 years,Communication; Java,38500.0,8,45
+JOB0031,2025-04-11,Region III,Logistics,Warehouse Supervisor,Entry-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Problem Solving; Excel,36000.0,3,64
+JOB0032,2025-09-05,NCR,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,SQL; Communication,46500.0,4,74
+JOB0033,2025-05-08,NCR,Logistics,Supply Chain Analyst,Mid-level,Bachelor's,Full-time,Remote,No,None,SQL; Data Visualization; Excel,37500.0,5,36
+JOB0034,2025-04-01,NCR,Manufacturing,Production Technician,Entry-level,High School,Part-time,Hybrid,No,1–2 years,Data Visualization; SQL; Customer Service,24000.0,1,109
+JOB0035,2025-09-04,NCR,Engineering,Electrical Engineer,Entry-level,Bachelor's,Full-time,Remote,No,1–2 years,Project Management; Java,41500.0,3,88
+JOB0036,2025-06-22,NCR,Education,Training Specialist,Mid-level,Bachelor's,Full-time,Hybrid,Yes,5+ years,Data Visualization; Cybersecurity; Project Management,53000.0,8,105
+JOB0037,2025-06-12,Region VII,Engineering,Electrical Engineer,Senior,Bachelor's,Part-time,On-site,No,None,Excel; Project Management; Problem Solving,62500.0,3,69
+JOB0038,2025-02-15,NCR,Healthcare,Nurse,Mid-level,Master's,Contract,On-site,No,None,Customer Service; Excel; Communication,47000.0,5,30
+JOB0039,2025-09-02,Region VI,Information Technology,IT Support Specialist,Entry-level,Vocational,Part-time,Hybrid,No,None,Cloud Computing; Problem Solving; Communication,41500.0,5,23
+JOB0040,2025-09-04,NCR,Hospitality,Hotel Staff,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Cloud Computing; Project Management,50500.0,4,60
+JOB0041,2025-04-09,Region XI,Information Technology,Cybersecurity Analyst,Mid-level,Bachelor's,Part-time,On-site,Yes,None,Python; Problem Solving; HTML/CSS,70000.0,1,61
+JOB0042,2025-08-03,Region X,Engineering,Civil Engineer,Mid-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Cloud Computing; Communication; Problem Solving,57500.0,6,97
+JOB0043,2025-10-05,Region VII,Hospitality,Hotel Staff,Mid-level,Bachelor's,Full-time,On-site,No,None,Cybersecurity; Python; Customer Service,40000.0,4,59
+JOB0044,2025-09-01,Region IV-A,Information Technology,Web Developer,Entry-level,Bachelor's,Full-time,On-site,Yes,None,Cloud Computing; Communication; HTML/CSS,51000.0,4,85
+JOB0045,2025-08-13,Region VII,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Part-time,Hybrid,Yes,1–2 years,Communication; Problem Solving,66500.0,8,80
+JOB0046,2025-07-26,NCR,Business & Finance,HR Officer,Entry-level,Vocational,Full-time,On-site,Yes,None,Project Management; Customer Service; Data Visualization,35000.0,4,47
+JOB0047,2025-11-09,Region X,Healthcare,Nurse,Entry-level,Bachelor's,Full-time,On-site,No,None,Excel; Problem Solving,40500.0,4,134
+JOB0048,2025-10-05,Region VI,Healthcare,Radiology Technician,Mid-level,Vocational,Full-time,On-site,No,5+ years,Problem Solving; Excel; Project Management,36000.0,1,44
+JOB0049,2025-08-19,Region I,Healthcare,Radiology Technician,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Excel; Customer Service,27500.0,5,94
+JOB0050,2025-07-14,Region III,Business & Finance,HR Officer,Entry-level,Bachelor's,Part-time,Hybrid,Yes,None,Communication; Customer Service,38000.0,2,43
+JOB0051,2025-04-11,Region IV-A,Hospitality,Hotel Staff,Mid-level,Bachelor's,Full-time,Remote,No,None,Project Management; Data Visualization; Python,41500.0,5,80
+JOB0052,2025-04-11,Region IV-A,Hospitality,Hotel Staff,Mid-level,Bachelor's,Full-time,Remote,No,None,Project Management; Data Visualization; Python,41500.0,5,80
+JOB0053,2025-01-19,Region XI,Education,Training Specialist,Entry-level,Bachelor's,Full-time,Remote,Yes,1–2 years,Java; Data Visualization; Cloud Computing,36500.0,5,69
+JOB0054,2025-06-06,NCR,Hospitality,Hotel Staff,Mid-level,Vocational,Contract,On-site,No,1–2 years,HTML/CSS; Cloud Computing; Excel,27500.0,1,76
+JOB0055,2025-02-10,Region X,Business & Finance,HR Officer,Senior,Vocational,Full-time,On-site,No,3–5 years,SQL; Project Management,70000.0,5,86
+JOB0056,2025-03-16,NCR,Information Technology,Data Analyst,Entry-level,Master's,Full-time,Hybrid,Yes,None,Cloud Computing; Java; Communication,57500.0,2,64
+JOB0057,2025-12-21,Region VII,Healthcare,Nurse,Senior,Bachelor's,Full-time,Hybrid,No,None,Communication; Customer Service; Excel,70500.0,4,66
+JOB0058,2025-10-17,Region VII,Information Technology,Software Developer,Mid-level,Vocational,Internship,On-site,Yes,None,HTML/CSS; SQL,59000.0,4,95
+JOB0059,2025-01-10,,Healthcare,Radiology Technician,Senior,Master's,Part-time,Remote,No,5+ years,Communication; Customer Service; Problem Solving,74000.0,5,99
+JOB0060,2025-03-08,NCR,Education,ICT Instructor,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Data Visualization; Cloud Computing; HTML/CSS,45500.0,3,92
+JOB0061,2025-04-11,NCR,Engineering,QA Engineer,Entry-level,Bachelor's,Contract,On-site,No,3–5 years,Communication; Excel; Java,42000.0,1,102
+JOB0062,2025-02-11,NCR,Healthcare,Radiology Technician,Senior,Bachelor's,Contract,On-site,No,None,Project Management; Customer Service,63000.0,5,57
+JOB0063,2025-11-06,NCR,Education,Training Specialist,Senior,Bachelor's,Full-time,Hybrid,Yes,1–2 years,Java; HTML/CSS; Cybersecurity,65000.0,5,65
+JOB0064,2025-06-09,Region III,Healthcare,Medical Technologist,Mid-level,Vocational,Contract,On-site,Yes,None,Problem Solving; Excel; Customer Service,40500.0,2,3
+JOB0065,2025-09-21,NCR,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Internship,On-site,Yes,1–2 years,Customer Service; Communication; Data Visualization,,3,142
+JOB0066,2025-10-11,,Healthcare,Nurse,Senior,,Full-time,On-site,No,3–5 years,Communication; Excel,59500.0,6,53
+JOB0067,2025-07-15,NCR,Logistics,Supply Chain Analyst,Entry-level,Vocational,Contract,On-site,Yes,1–2 years,Communication; SQL,19000.0,6,95
+JOB0068,2025-06-10,Region IV-A,Information Technology,Software Developer,Mid-level,Master's,Full-time,On-site,No,None,Problem Solving; Cloud Computing; Java,57500.0,6,51
+JOB0069,2025-07-01,Region III,Business & Finance,Marketing Associate,Mid-level,Master's,Full-time,On-site,No,None,Data Visualization; Project Management,57500.0,1,148
+JOB0070,2025-05-10,Region XI,Education,Teacher,Mid-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Problem Solving; Java; HTML/CSS,46500.0,11,25
+JOB0071,2025-09-20,Region IV-A,Business & Finance,HR Officer,Entry-level,Bachelor's,Full-time,On-site,No,None,Communication; SQL,39500.0,1,44
+JOB0072,2025-05-06,Region XI,Information Technology,Software Developer,Entry-level,Vocational,Full-time,On-site,No,1–2 years,Java; Problem Solving; Cloud Computing,40000.0,8,80
+JOB0073,2025-11-27,NCR,Logistics,Logistics Coordinator,Entry-level,Vocational,Full-time,Hybrid,No,None,Communication; Customer Service; SQL,36500.0,5,6
+JOB0074,2025-06-15,Region IV-A,Engineering,Civil Engineer,Senior,Bachelor's,Full-time,Remote,No,1–2 years,Python; HTML/CSS; SQL,70000.0,1,101
+JOB0075,2025-04-12,Region IV-A,Engineering,Electrical Engineer,Entry-level,High School,Part-time,On-site,No,5+ years,Project Management; Excel,31000.0,9,81
+JOB0076,2025-08-26,NCR,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Project Management; Excel,32000.0,6,107
+JOB0077,2025-12-25,Region III,Healthcare,Medical Technologist,Mid-level,Vocational,Internship,On-site,No,None,Project Management; Customer Service; Excel,,2,100
+JOB0078,2025-12-01,Region IV-A,Business & Finance,HR Officer,Senior,Master's,Full-time,On-site,No,1–2 years,Project Management; SQL; Customer Service,77000.0,1,72
+JOB0079,2025-07-11,Region XI,Healthcare,Medical Technologist,Entry-level,Bachelor's,Contract,Remote,No,1–2 years,Problem Solving; Customer Service,29000.0,5,82
+JOB0080,2025-05-14,Region I,Healthcare,Radiology Technician,Senior,Vocational,Contract,On-site,No,1–2 years,Problem Solving; Communication,51500.0,3,47
+JOB0081,2025-02-15,Region VI,Education,Teacher,Entry-level,Bachelor's,Contract,Remote,Yes,None,Cloud Computing; Customer Service; SQL,39000.0,2,81
+JOB0082,2025-11-08,Region III,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,On-site,No,None,Problem Solving; Communication,51500.0,1,104
+JOB0083,2025-08-08,NCR,Manufacturing,Quality Inspector,Senior,Bachelor's,Contract,On-site,No,1–2 years,Excel; Customer Service; Java,59000.0,5,78
+JOB0084,2025-04-26,Region XI,Logistics,Warehouse Supervisor,Entry-level,Bachelor's,Full-time,Remote,No,1–2 years,Communication; Project Management; Customer Service,36500.0,5,82
+JOB0085,2025-08-12,Region VI,Healthcare,Healthcare Assistant,Entry-level,Master's,Full-time,Remote,No,5+ years,Excel; Problem Solving; Communication,44500.0,4,28
+JOB0086,2025-06-26,Region I,Information Technology,Cybersecurity Analyst,Entry-level,High School,Full-time,On-site,Yes,None,SQL; Java; Communication,46000.0,8,29
+JOB0087,2025-06-18,Region III,Engineering,Electrical Engineer,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Cybersecurity; Java; Cloud Computing,48500.0,5,114
+JOB0088,2025-07-15,Region X,Information Technology,Cybersecurity Analyst,Mid-level,Master's,Full-time,Remote,No,3–5 years,Java; Python,70000.0,3,39
+JOB0089,2025-06-26,NCR,Business & Finance,Marketing Associate,Mid-level,High School,Full-time,On-site,No,3–5 years,Excel; Customer Service,52000.0,2,33
+JOB0090,2025-10-14,NCR,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,Remote,Yes,None,Problem Solving; Cybersecurity,52000.0,5,34
+JOB0091,2025-06-19,Region XI,Engineering,QA Engineer,Mid-level,Vocational,Internship,On-site,No,None,Python; Project Management; Customer Service,57500.0,7,41
+JOB0092,2025-02-07,Region VI,Manufacturing,Quality Inspector,Entry-level,Bachelor's,Contract,On-site,Yes,None,Java; Problem Solving; Python,25500.0,8,135
+JOB0093,2025-11-15,NCR,Logistics,Warehouse Supervisor,Entry-level,Bachelor's,Full-time,On-site,No,5+ years,Problem Solving; Project Management; Data Visualization,35000.0,4,102
+JOB0094,2025-07-05,NCR,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Internship,On-site,No,None,Data Visualization; Excel; Customer Service,29000.0,3,45
+JOB0095,2025-08-01,NCR,Healthcare,Healthcare Assistant,Entry-level,Vocational,Full-time,Hybrid,No,3–5 years,Problem Solving; Communication; Customer Service,44500.0,6,68
+JOB0096,2025-02-19,NCR,Healthcare,Medical Technologist,Mid-level,Master's,Full-time,On-site,No,1–2 years,Excel; Customer Service; Communication,54000.0,1,71
+JOB0097,2025-08-26,NCR,IT,Radiology Technician,Entry-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Excel; Communication; Problem Solving,39500.0,6,22
+JOB0098,2025-12-18,Region IV-A,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Contract,On-site,No,None,Cybersecurity; Problem Solving; Python,40000.0,4,53
+JOB0099,2025-07-17,Region VI,Hospitality,Hotel Staff,Entry-level,Vocational,Contract,On-site,No,3–5 years,Data Visualization; Problem Solving; Java,32000.0,10,17
+JOB0100,2025-11-26,Region VII,Engineering,Civil Engineer,Entry-level,Vocational,Contract,Hybrid,Yes,3–5 years,Java; HTML/CSS,43000.0,3,115
+JOB0101,2025-07-16,Region VI,Education,Training Specialist,Mid-level,Master's,Part-time,On-site,No,3–5 years,Cybersecurity; Problem Solving; Communication,60500.0,3,3
+JOB0102,2025-07-09,Region XI,Business & Finance,Marketing Associate,Mid-level,Vocational,Full-time,On-site,No,3–5 years,Excel; Problem Solving,48000.0,3,68
+JOB0103,2025-04-06,NCR,Business & Finance,Marketing Associate,Senior,Master's,Full-time,On-site,Yes,3–5 years,Data Visualization; Problem Solving,64500.0,6,95
+JOB0104,2025-10-12,Region IV-A,Business & Finance,Accountant,Entry-level,Vocational,Full-time,Hybrid,Yes,1–2 years,SQL; Communication,43500.0,7,89
+JOB0105,2025-01-04,Region IV-A,Engineering,QA Engineer,Entry-level,Master's,Contract,Remote,No,None,Problem Solving; Excel,49500.0,2,115
+JOB0106,2025-09-16,Region XI,Hospitality,Hotel Staff,Mid-level,Master's,Contract,On-site,No,None,Customer Service; Excel,57000.0,9,23
+JOB0107,2025-04-24,Region III,Business & Finance,Accountant,Mid-level,Bachelor's,Part-time,On-site,Yes,1–2 years,Communication; SQL; Problem Solving,43500.0,3,106
+JOB0108,2025-04-01,Region IV-A,Information Technology,Web Developer,Mid-level,Bachelor's,Contract,Remote,No,3–5 years,Problem Solving; Python,65000.0,2,92
+JOB0109,2025-07-22,Region IV-A,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Contract,,Yes,1–2 years,Problem Solving; Data Visualization; Project Management,49500.0,8,122
+JOB0110,2025-02-16,Region XI,Healthcare,Healthcare Assistant,Mid-level,Master's,Full-time,Hybrid,Yes,None,Customer Service; Problem Solving,47500.0,4,40
+JOB0111,2025-10-20,Region IV-A,Information Technology,Software Developer,Senior,Vocational,Part-time,On-site,Yes,None,Communication; HTML/CSS,79500.0,1,112
+JOB0112,2025-11-18,NCR,Healthcare,Nurse,Mid-level,Vocational,Contract,On-site,No,1–2 years,Communication; Excel,48500.0,1,93
+JOB0113,2025-06-26,Region I,Information Technology,IT Support Specialist,Mid-level,Master's,Full-time,Hybrid,Yes,1–2 years,Data Visualization; Python; Cloud Computing,73500.0,6,86
+JOB0114,2025-11-07,Region X,Business & Finance,Financial Analyst,Senior,Bachelor's,Contract,Hybrid,No,1–2 years,SQL; Communication,69000.0,5,100
+JOB0115,2025-07-27,Region XI,Information Technology,Web Developer,Mid-level,High School,Part-time,On-site,Yes,1–2 years,Cybersecurity; Cloud Computing,61000.0,1,40
+JOB0116,2025-05-04,Region IV-A,Information Technology,Software Developer,Entry-level,Vocational,Full-time,On-site,No,1–2 years,Cloud Computing; SQL; Java,46500.0,4,112
+JOB0117,2025-10-02,Region X,Education,ICT Instructor,Entry-level,Master's,Part-time,Hybrid,No,None,SQL; Cybersecurity,39500.0,3,104
+JOB0118,2025-04-25,Region III,Education,ICT Instructor,Entry-level,Bachelor's,Full-time,On-site,No,None,Communication; Customer Service; HTML/CSS,23500.0,6,16
+JOB0119,2025-08-13,Region IV-A,Healthcare,Radiology Technician,Entry-level,Bachelor's,Full-time,On-site,Yes,3–5 years,Project Management; Excel; Communication,30500.0,5,99
+JOB0120,2025-12-14,Region VI,Education,ICT Instructor,Entry-level,Bachelor's,Contract,On-site,Yes,None,Communication; HTML/CSS,31500.0,4,104
+JOB0121,2025-07-11,Region IV-A,Information Technology,Cybersecurity Analyst,Senior,Bachelor's,Contract,Hybrid,No,None,Cybersecurity; Data Visualization,64500.0,6,36
+JOB0122,2025-01-22,Region III,Information Technology,Cybersecurity Analyst,Entry-level,Master's,Part-time,On-site,Yes,1–2 years,SQL; Problem Solving,57000.0,1,37
+JOB0123,2025-08-05,Region III,Information Technology,Web Developer,Entry-level,Master's,Full-time,Hybrid,No,None,Java; SQL; Data Visualization,48000.0,7,67
+JOB0124,2025-08-19,Region VI,Manufacturing,Quality Inspector,Entry-level,Vocational,Full-time,Remote,No,1–2 years,Project Management; Communication; Python,22500.0,4,37
+JOB0125,2025-05-10,Region XI,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,On-site,No,None,Python; HTML/CSS; Cloud Computing,43000.0,2,74
+JOB0126,2025-04-21,Region III,Engineering,Electrical Engineer,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Java; Excel,46000.0,2,28
+JOB0127,2025-04-18,Region III,Logistics,Warehouse Supervisor,Mid-level,Bachelor's,Part-time,,No,None,Communication; Problem Solving; Project Management,39000.0,7,121
+JOB0128,2025-11-25,Region XI,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Problem Solving,45500.0,3,78
+JOB0129,2025-08-09,NCR,Engineering,Civil Engineer,Senior,Bachelor's,Full-time,On-site,No,None,Communication; HTML/CSS; Java,72000.0,3,28
+JOB0130,2025-08-20,NCR,Business & Finance,Accountant,Entry-level,Vocational,Full-time,Remote,No,None,Customer Service; Communication,28000.0,7,62
+JOB0131,2025-03-06,Region IV-A,Healthcare,Healthcare Assistant,Entry-level,Vocational,Part-time,Hybrid,No,1–2 years,Excel; Project Management,26000.0,1,47
+JOB0132,2025-09-05,Region I,Information Technology,Cybersecurity Analyst,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Cloud Computing; Data Visualization; HTML/CSS,68500.0,4,96
+JOB0133,2025-09-10,Region I,Education,Training Specialist,Entry-level,Vocational,Contract,Remote,Yes,3–5 years,Customer Service; Project Management,39500.0,4,44
+JOB0134,2025-05-06,Region IV-A,Information Technology,Cybersecurity Analyst,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,SQL; Python; Problem Solving,60000.0,3,62
+JOB0135,2025-06-18,Region VII,Logistics,Warehouse Supervisor,Senior,Bachelor's,Full-time,Hybrid,No,1–2 years,Communication; Data Visualization,56000.0,2,64
+JOB0136,2025-01-19,Region III,Healthcare,Nurse,Senior,Vocational,Full-time,Remote,No,1–2 years,Excel; Communication; Project Management,68000.0,5,59
+JOB0137,2025-07-27,Region X,Information Technology,Data Analyst,Mid-level,Bachelor's,Contract,On-site,Yes,None,HTML/CSS; SQL,62000.0,4,33
+JOB0138,2025-09-02,Region III,Business & Finance,Financial Analyst,Mid-level,Master's,Contract,Hybrid,No,3–5 years,Problem Solving; Data Visualization,58000.0,3,89
+JOB0139,2025-05-25,NCR,Healthcare,Nurse,Entry-level,Bachelor's,Contract,Remote,No,1–2 years,Project Management; Communication,42000.0,6,59
+JOB0140,2025-01-21,Region I,Information Technology,Data Analyst,Senior,High School,Contract,Hybrid,No,None,Problem Solving; Java,57500.0,1,75
+JOB0141,2025-12-01,Region VI,Engineering,QA Engineer,Senior,Master's,Full-time,On-site,No,None,Python; Communication,76500.0,4,104
+JOB0142,2025-10-07,NCR,Information Technology,Cybersecurity Analyst,Senior,Bachelor's,Full-time,On-site,Yes,1–2 years,Java; Communication; Cybersecurity,80500.0,1,55
+JOB0143,2025-01-04,Region X,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Full-time,,No,1–2 years,Communication; Excel,52500.0,1,62
+JOB0144,2025-04-24,Region IV-A,Education,Teacher,Entry-level,Vocational,Full-time,Hybrid,Yes,None,Excel; Customer Service; Java,38000.0,2,52
+JOB0145,2025-10-09,NCR,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Full-time,Remote ,No,5+ years,Cloud Computing; Data Visualization; SQL,59000.0,3,91
+JOB0146,2025-06-01,Region I,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Contract,Remote,No,None,SQL; HTML/CSS,54500.0,1,73
+JOB0147,2025-10-04,NCR,Information Technology,Cybersecurity Analyst,Entry-level,Vocational,Full-time,On-site,Yes,1–2 years,Cybersecurity; SQL; Data Visualization,55000.0,4,68
+JOB0148,2025-02-09,Region IV-A,Hospitality,Hotel Staff,Entry-level,High School,Full-time,Remote,No,1–2 years,SQL; Excel; Cybersecurity,23000.0,7,90
+JOB0149,2025-05-24,Region III,Education,Teacher,Mid-level,Vocational,Full-time,On-site,Yes,1–2 years,Communication; Cloud Computing,41000.0,3,83
+JOB0150,2025-06-17,Region VI,Manufacturing,Quality Inspector,Entry-level,,Contract,Hybrid,No,3–5 years,Customer Service; Data Visualization,23500.0,3,60
+JOB0151,2025-09-08,Region I,Healthcare,Healthcare Assistant,Mid-level,High School,Full-time,Remote,No,3–5 years,Project Management; Excel; Customer Service,38500.0,1,92
+JOB0152,2025-09-16,Region VI,Education,ICT Instructor,Entry-level,Bachelor's,Part-time,On-site,No,1–2 years,Cybersecurity; SQL; Project Management,31500.0,3,124
+JOB0153,2025-06-25,Region III,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Part-time,On-site,No,None,Cloud Computing; Data Visualization,64000.0,4,33
+JOB0154,2025-08-12,NCR,Hospitality,Hotel Staff,Entry-level,Master's,Full-time,On-site,No,3–5 years,Problem Solving; Project Management,29500.0,7,60
+JOB0155,2025-08-05,Region XI,Information Technology,Cybersecurity Analyst,Mid-level,Master's,Contract,On-site,No,5+ years,Java; HTML/CSS,70500.0,3,86
+JOB0156,2025-06-01,NCR,Hospitality,Hotel Staff,Mid-level,Vocational,Part-time,On-site,No,None,Project Management; Cloud Computing,40000.0,8,129
+JOB0157,2025-02-15,Region I,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Full-time,On-site,No,None,Excel; Customer Service; Problem Solving,47000.0,1,55
+JOB0158,2025-09-03,Region XI,Engineering,Civil Engineer,Mid-level,Bachelor's,Part-time,Hybrid,No,5+ years,Excel; Data Visualization,43000.0,3,50
+JOB0159,2025-05-04,NCR,Engineering,QA Engineer,Senior,High School,Full-time,Hybrid,No,3–5 years,Customer Service; Data Visualization; Java,59000.0,6,90
+JOB0160,2025-09-08,Region X,Education,ICT Instructor,Entry-level,Bachelor's,Contract,On-site,No,None,Excel; Cloud Computing,44000.0,3,87
+JOB0161,2025-04-22,Region III,Healthcare,Medical Technologist,Mid-level,Master's,Contract,Remote,No,1–2 years,Project Management; Customer Service,56000.0,3,121
+JOB0162,2025-03-26,NCR,Hospitality,Hotel Staff,Entry-level,High School,Contract,Hybrid,No,None,Java; Problem Solving; Python,31000.0,8,92
+JOB0163,2025-10-24,Region I,Information Technology,Web Developer,Mid-level,Bachelor's,Full-time,On-site,Yes,None,HTML/CSS; Data Visualization; Cybersecurity,63500.0,4,68
+JOB0164,2025-02-26,Region XI,Hospitality,Chef,Senior,High School,Full-time,On-site,No,1–2 years,Cybersecurity; SQL,34500.0,6,27
+JOB0165,2025-06-20,Region IV-A,Manufacturing,Quality Inspector,Mid-level,Vocational,Full-time,Remote,No,None,Excel; SQL,40000.0,3,3
+JOB0166,2025-04-15,Region X,Logistics,Logistics Coordinator,Mid-level,Master's,Full-time,Remote,No,None,Customer Service; Problem Solving; Communication,60000.0,4,57
+JOB0167,2025-01-21,Region IV-A,Healthcare,Nurse,Entry-level,Bachelor's,Part-time,Remote,No,1–2 years,Problem Solving; Communication; Project Management,25000.0,4,34
+JOB0168,2025-09-10,NCR,Healthcare,Nurse,Mid-level,Vocational,Full-time,On-site,No,3–5 years,Problem Solving; Excel; Project Management,41500.0,4,90
+JOB0169,2025-11-07,NCR,Education,ICT Instructor,Mid-level,Bachelor's,Full-time,On-site,Yes,5+ years,Problem Solving; HTML/CSS; Cybersecurity,46000.0,5,131
+JOB0170,2025-02-23,Region III,Healthcare,Nurse,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Customer Service; Project Management; Communication,44500.0,1,47
+JOB0171,2025-02-21,NCR,Business & Finance,HR Officer,Mid-level,Bachelor's,Full-time,On-site,Yes,None,Project Management; Problem Solving,62500.0,3,49
+JOB0172,2025-03-18,Region IV-A,Education,Teacher,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Excel,33500.0,5,81
+JOB0173,2025-08-15,Region IV-A,Information Technology,Data Analyst,Entry-level,Bachelor's,Full-time,Hybrid,Yes,5+ years,HTML/CSS; Problem Solving; Communication,41000.0,2,85
+JOB0174,2025-12-26,Region III,Information Technology,Software Developer,Entry-level,Bachelor's,Full-time,Remote,No,None,SQL; Data Visualization; Cybersecurity,57000.0,4,71
+JOB0175,2025-05-17,Region VII,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Full-time,On-site,No,5+ years,Excel; Communication,41000.0,3,84
+JOB0176,2025-04-20,Region III,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Part-time,Remote,No,1–2 years,Communication; Python,47000.0,3,74
+JOB0177,2025-09-19,Region VI,Healthcare,Nurse,Entry-level,Vocational,Contract,Hybrid,No,5+ years,Excel; Problem Solving,32500.0,8,110
+JOB0178,2025-01-01,NCR,Engineering,QA Engineer,Entry-level,Bachelor's,Full-time,Remote ,No,None,Problem Solving; Data Visualization,44500.0,3,27
+JOB0179,2025-12-06,Region I,Information Technology,Data Analyst,Entry-level,Vocational,Full-time,Remote,No,3–5 years,Problem Solving; Python,37000.0,1,9
+JOB0180,2025-07-06,Region IV-A,Business & Finance,HR Officer,Entry-level,Master's,Full-time,Hybrid,No,3–5 years,Excel; SQL; Customer Service,,4,81
+JOB0181,2025-07-15,NCR,Engineering,QA Engineer,Senior,Bachelor's,Part-time,Remote,No,3–5 years,Java; Data Visualization,72500.0,4,78
+JOB0182,2025-07-09,NCR,Information Technology,IT Support Specialist,Mid-level,Master's,Full-time,On-site,No,3–5 years,SQL; Cloud Computing; Cybersecurity,58000.0,4,26
+JOB0183,2025-09-26,NCR,Information Technology,Web Developer,Senior,Bachelor's,Part-time,On-site,Yes,1–2 years,Communication; Data Visualization; Python,70000.0,3,89
+JOB0184,2025-08-14,Region XI,Engineering,Civil Engineer,Entry-level,Vocational,Contract,Remote,No,None,Communication; HTML/CSS,33500.0,2,51
+JOB0185,2025-09-24,Region III,Engineering,Electrical Engineer,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Communication; Data Visualization,51000.0,3,25
+JOB0186,2025-11-23,Region IV-A,Education,Training Specialist,Entry-level,Master's,Full-time,On-site,No,5+ years,Python; Java; HTML/CSS,38500.0,11,141
+JOB0187,2025-11-23,Region XI,Education,ICT Instructor,Entry-level,Bachelor's,Internship,Remote,Yes,5+ years,HTML/CSS; Communication,34500.0,5,40
+JOB0188,2025-11-27,Region I,Business & Finance,Accountant,Entry-level,Vocational,Contract,On-site,No,3–5 years,Excel; Project Management,46500.0,4,108
+JOB0189,2025-06-14,NCR,Hospitality,Hotel Staff,Mid-level,Vocational,Full-time,Hybrid,No,None,Problem Solving; HTML/CSS; Project Management,33000.0,3,99
+JOB0190,2025-05-01,NCR,Information Technology,IT Support Specialist,Senior,Bachelor's,Full-time,On-site,Yes,None,SQL; Java,70500.0,5,73
+JOB0191,2025-02-26,Region IV-A,Engineering,Electrical Engineer,Entry-level,Master's,Full-time,On-site,No,1–2 years,Cloud Computing; Excel,49500.0,7,104
+JOB0192,2025-09-19,Region IV-A,Education,ICT Instructor,Entry-level,Bachelor's,Part-time,Hybrid,No,1–2 years,Project Management; Java; Cybersecurity,42500.0,5,78
+JOB0193,2025-08-17,NCR,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Full-time,Hybrid,No,1–2 years,SQL; Communication,35500.0,6,54
+JOB0194,2025-11-08,Region XI,Engineering,Civil Engineer,Mid-level,Bachelor's,Part-time,Remote,No,1–2 years,Java; Project Management,60000.0,3,56
+JOB0195,2025-04-09,Region X,Engineering,Civil Engineer,Entry-level,Master's,Internship,On-site,No,None,Communication; Java,52000.0,2,85
+JOB0196,2025-04-01,Region III,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Contract,Hybrid,Yes,5+ years,HTML/CSS; Problem Solving; Cloud Computing,59000.0,2,72
+JOB0197,2025-03-16,Region VII,Information Technology,Cybersecurity Analyst,Mid-level,Master's,Contract,Hybrid,No,None,Problem Solving; Cybersecurity,68000.0,2,72
+JOB0198,2025-03-15,NCR,Healthcare,Medical Technologist,Mid-level,Vocational,Full-time,Remote,No,1–2 years,Customer Service; Project Management,42500.0,7,72
+JOB0199,2025-05-13,Region VI,Education,Teacher,Senior,,Contract,Remote,No,None,Problem Solving; Python; SQL,72000.0,2,39
+JOB0200,2025-09-15,Region III,Healthcare,Medical Technologist,Mid-level,Master's,Full-time,On-site,No,None,Customer Service; Problem Solving; Excel,62000.0,2,58
+JOB0201,2025-06-24,NCR,Healthcare,Radiology Technician,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Customer Service; Excel; Communication,38500.0,2,80
+JOB0202,2025-02-25,Region IV-A,Hospitality,Hotel Staff,Entry-level,Vocational,Contract,On-site,No,1–2 years,Cybersecurity; SQL; Problem Solving,26500.0,8,75
+JOB0203,2025-10-19,Region X,Hospitality,Chef,Entry-level,Bachelor's,Full-time,Hybrid,Yes,None,Cybersecurity; Java; SQL,30500.0,8,71
+JOB0204,2025-02-02,Region X,Hospitality,Chef,Entry-level,High School,Full-time,On-site,Yes,None,HTML/CSS; Cybersecurity,27500.0,3,79
+JOB0205,2025-12-26,NCR,Business & Finance,HR Officer,Senior,Bachelor's,Full-time,On-site,No,3–5 years,SQL; Project Management; Customer Service,72500.0,1,91
+JOB0206,2025-01-24,Region X,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Contract,On-site,No,5+ years,Project Management; Data Visualization; Excel,46500.0,14,4
+JOB0207,2025-11-20,Region I,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Problem Solving; Customer Service,43000.0,13,92
+JOB0208,2025-11-20,Region I,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Problem Solving; Customer Service,43000.0,13,92
+JOB0209,2025-02-08,Region IV-A,Hospitality,Customer Service Associate,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Cybersecurity; Cloud Computing; SQL,32500.0,7,52
+JOB0210,2025-09-19,Region IV-A,Information Technology,Software Developer,Entry-level,Bachelor's,Contract,Hybrid,Yes,3–5 years,HTML/CSS; Communication; Data Visualization,47000.0,4,106
+JOB0211,2025-10-09,Region I,Healthcare,Radiology Technician,Senior,Bachelor's,Full-time,On-site,No,5+ years,Excel; Customer Service; Project Management,71500.0,1,71
+JOB0212,2025-07-23,NCR,Information Technology,Data Analyst,Entry-level,Bachelor's,Part-time,Hybrid,No,3–5 years,Problem Solving; Communication; Python,46000.0,9,23
+JOB0213,2025-08-26,NCR,Manufacturing,Quality Inspector,Entry-level,Master's,Part-time,On-site,No,None,Python; Data Visualization; Cybersecurity,31000.0,5,107
+JOB0214,2025-03-01,NCR,Education,Training Specialist,Entry-level,Vocational,Full-time,Remote,No,None,HTML/CSS; Cloud Computing,38000.0,1,112
+JOB0215,2025-06-07,NCR,Information Technology,Web Developer,Mid-level,Bachelor's,Full-time,On-site,Yes,3–5 years,Cloud Computing; Java; Data Visualization,70500.0,2,49
+JOB0216,2025-07-26,NCR,Information Technology,Software Developer,Entry-level,Bachelor's,Full-time,On-site,No,None,Python; Problem Solving,49000.0,5,22
+JOB0217,2025-06-16,Region III,Engineering,Civil Engineer,Entry-level,Bachelor's,Full-time,On-site,No,None,Cloud Computing; SQL,45000.0,3,32
+JOB0218,2025-01-08,Region III,Information Technology,Data Analyst,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Python; Java; Data Visualization,60500.0,12,56
+JOB0219,2025-03-03,Region VI,Healthcare,Medical Technologist,Mid-level,Bachelor's,Full-time,On-site,No,None,Problem Solving; Customer Service,57000.0,8,26
+JOB0220,2025-11-01,Region X,Information Technology,Cybersecurity Analyst,Entry-level,Vocational,Part-time,On-site,No,None,Problem Solving; Communication,48500.0,1,89
+JOB0221,2025-09-15,Region IV-A,Logistics,Warehouse Supervisor,Senior,Vocational,Part-time,On-site,No,3–5 years,Data Visualization; Communication; Customer Service,50500.0,6,67
+JOB0222,2025-12-04,NCR,Information Technology,Software Developer,Mid-level,Bachelor's,Full-time,Remote,Yes,3–5 years,Data Visualization; Cybersecurity,56000.0,1,3
+JOB0223,2025-07-05,Region VI,Business & Finance,Accountant,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Customer Service; Communication,43500.0,2,61
+JOB0224,2025-10-02,Region III,Information Technology,Web Developer,Senior,Master's,Full-time,On-site,Yes,3–5 years,Java; HTML/CSS; Data Visualization,80000.0,5,135
+JOB0225,2025-12-06,Region VII,Education,Training Specialist,Entry-level,Master's,Full-time,Hybrid,Yes,5+ years,Project Management; Cybersecurity; Python,37000.0,3,49
+JOB0226,2025-06-01,NCR,Engineering,QA Engineer,Senior,Bachelor's,Full-time,Remote,No,1–2 years,Java; Problem Solving,64000.0,6,58
+JOB0227,2025-03-24,Region III,Information Technology,Web Developer,Entry-level,Bachelor's,Full-time,On-site,No,5+ years,Cybersecurity; Java; Problem Solving,50500.0,5,68
+JOB0228,2025-09-04,Region XI,Education,ICT Instructor,Senior,High School,Full-time,On-site,No,1–2 years,Python; SQL,42500.0,6,44
+JOB0229,2025-05-21,Region I,Information Technology,Cybersecurity Analyst,Mid-level,Vocational,Internship,On-site,No,1–2 years,Cybersecurity; SQL,58500.0,5,45
+JOB0230,2025-03-10,Region IV-A,Education,Training Specialist,Entry-level,High School,Full-time,On-site,No,1–2 years,Excel; Project Management,27500.0,2,46
+JOB0231,2025-11-15,Region IV-A,Manufacturing,Machine Operator,Entry-level,Bachelor's,Full-time,Remote,No,1–2 years,Cybersecurity; Customer Service,34500.0,3,23
+JOB0232,2025-08-01,Region VII,Hospitality,Customer Service Associate,Entry-level,Bachelor's,Full-time,Remote,No,None,Cloud Computing; SQL; Customer Service,30500.0,11,109
+JOB0233,2025-04-14,NCR,Engineering,Civil Engineer,Entry-level,Vocational,Full-time,Remote,No,5+ years,Data Visualization; Java; SQL,39500.0,4,4
+JOB0234,2025-11-09,Region III,Information Technology,Web Developer,Entry-level,Bachelor's,Part-time,On-site,No,None,Data Visualization; Python,36500.0,6,107
+JOB0235,2025-03-26,NCR,Engineering,QA Engineer,Entry-level,Master's,Full-time,Remote,No,None,Customer Service; Project Management,61000.0,6,49
+JOB0236,2025-08-12,NCR,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Contract,On-site,No,1–2 years,Problem Solving; Data Visualization; Excel,34000.0,2,85
+JOB0237,2025-10-04,Region I,Healthcare,Nurse,Entry-level,Master's,Full-time,On-site,No,1–2 years,Communication; Customer Service; Problem Solving,45000.0,6,125
+JOB0238,2025-09-06,NCR,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Excel; Communication,36500.0,4,82
+JOB0239,2025-04-07,Region I,Business & Finance,Accountant,Mid-level,Master's,Full-time,Remote,Yes,1–2 years,Customer Service; Excel; Problem Solving,58000.0,2,47
+JOB0240,2025-03-23,Region VII,Healthcare,Nurse,Entry-level,Bachelor's,Internship,On-site,No,None,Project Management; Excel,42500.0,6,28
+JOB0241,2025-03-18,Region I,Engineering,QA Engineer,Entry-level,Master's,Internship,On-site,No,5+ years,Data Visualization; Excel,50500.0,10,57
+JOB0242,2025-12-26,Region IV-A,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Contract,On-site,No,1–2 years,Project Management; Problem Solving; Communication,46500.0,7,17
+JOB0243,2025-08-20,Region I,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,On-site,Yes,None,Python; SQL; HTML/CSS,39000.0,1,31
+JOB0244,2025-01-24,Region IV-A,Information Technology,Data Analyst,Entry-level,High School,Internship,Hybrid,No,1–2 years,Communication; Data Visualization; SQL,43000.0,3,67
+JOB0245,2025-04-02,Region VII,Information Technology,Web Developer,Entry-level,Bachelor's,Part-time,On-site,Yes,None,Cybersecurity; Python; Java,45500.0,9,33
+JOB0246,2025-07-27,Region XI,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Java; Cybersecurity; Data Visualization,47000.0,6,59
+JOB0247,2025-05-20,NCR,Information Technology,Data Analyst,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Data Visualization; Cybersecurity,63500.0,4,56
+JOB0248,2025-12-05,NCR,Engineering,QA Engineer,Entry-level,Bachelor's,Full-time,Remote,No,None,Java; Cybersecurity; HTML/CSS,30000.0,2,53
+JOB0249,2025-07-24,Region XI,Logistics,Logistics Coordinator,Entry-level,Master's,Full-time,Hybrid,No,1–2 years,Excel; Communication,48000.0,6,32
+JOB0250,2025-08-05,Region III,Information Technology,Web Developer,Entry-level,Bachelor's,Full-time,Remote,No,None,Python; Cloud Computing,47500.0,2,56
+JOB0251,2025-08-07,Region I,Education,Training Specialist,Entry-level,Bachelor's,Full-time,On-site,No,None,Customer Service; Data Visualization; HTML/CSS,44000.0,6,92
+JOB0252,2025-05-02,Region IV-A,Information Technology,Cybersecurity Analyst,Senior,Bachelor's,Part-time,Hybrid,Yes,1–2 years,Cloud Computing; HTML/CSS; Problem Solving,73500.0,3,93
+JOB0253,2025-05-08,Region X,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Part-time,Hybrid,No,1–2 years,Customer Service; Excel; Communication,56500.0,3,41
+JOB0254,2025-06-06,Region X,IT,Teacher,Entry-level,Vocational,Full-time,On-site,No,None,Communication; HTML/CSS,27500.0,3,19
+JOB0255,2025-10-25,NCR,Education,Teacher,Entry-level,Vocational,Full-time,On-site,No,1–2 years,Communication; Customer Service; HTML/CSS,25000.0,1,3
+JOB0256,2025-01-13,NCR,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Excel; Data Visualization,33500.0,5,55
+JOB0257,2025-01-22,Region XI,Education,ICT Instructor,Mid-level,Vocational,Full-time,Remote,No,None,Cloud Computing; Python,43500.0,8,89
+JOB0258,2025-02-16,Region III,Healthcare,Radiology Technician,Senior,Bachelor's,Full-time,Hybrid,No,None,Customer Service; Communication; Problem Solving,63000.0,7,52
+JOB0259,2025-08-12,Region IV-A,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,Hybrid,No,None,Java; Cybersecurity,41000.0,3,24
+JOB0260,2025-07-15,Region XI,Logistics,Warehouse Supervisor,Entry-level,Vocational,Full-time,Hybrid,No,1–2 years,SQL; Problem Solving; Project Management,29500.0,5,80
+JOB0261,2025-06-17,NCR,Engineering,Electrical Engineer,Senior,Bachelor's,Full-time,On-site,No,3–5 years,Problem Solving; Project Management; Data Visualization,67500.0,5,55
+JOB0262,2025-11-24,NCR,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Full-time,On-site,Yes,5+ years,Customer Service; Problem Solving,,7,26
+JOB0263,2025-08-03,NCR,Business & Finance,Accountant,Senior,Master's,Full-time,On-site,Yes,1–2 years,Data Visualization; Communication,62000.0,9,87
+JOB0264,2025-10-14,NCR,Education,ICT Instructor,Entry-level,Bachelor's,Full-time,On-site,Yes,None,Cloud Computing; Java; SQL,30000.0,4,41
+JOB0265,2025-02-05,NCR,Hospitality,Chef,Entry-level,Master's,Contract,On-site,No,None,Customer Service; Communication; Cloud Computing,43500.0,1,34
+JOB0266,2025-12-20,Region IV-A,Logistics,Supply Chain Analyst,Entry-level,Vocational,Full-time,On-site,No,None,Data Visualization; Excel; Customer Service,18000.0,4,135
+JOB0267,2025-11-13,Region IV-A,Healthcare,Radiology Technician,Mid-level,Bachelor's,Full-time,Remote,No,5+ years,Excel; Customer Service; Communication,54500.0,5,54
+JOB0268,2025-03-18,Region IV-A,Healthcare,Medical Technologist,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Customer Service; Excel,52500.0,8,85
+JOB0269,2025-02-10,Region VI,Education,Training Specialist,Mid-level,High School,Full-time,On-site,No,1–2 years,Communication; Data Visualization; Customer Service,35000.0,2,83
+JOB0270,2025-02-03,Region VII,Healthcare,Healthcare Assistant,Mid-level,Bachelor's,Full-time,On-site,No,None,Customer Service; Project Management,57000.0,3,55
+JOB0271,2025-07-09,NCR,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Contract,On-site,No,1–2 years,Cloud Computing; SQL,54500.0,3,75
+JOB0272,2025-12-05,Region XI,Information Technology,Web Developer,Mid-level,High School,Contract,Remote,Yes,3–5 years,HTML/CSS; Python; Data Visualization,44500.0,1,76
+JOB0273,2025-06-03,Region IV-A,Information Technology,Software Developer,Senior,Bachelor's,Full-time,On-site,Yes,None,Problem Solving; HTML/CSS; Data Visualization,71000.0,9,60
+JOB0274,2025-10-16,Region III,Manufacturing,Machine Operator,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Java; Data Visualization; Project Management,34500.0,5,37
+JOB0275,2025-04-02,Region VII,Manufacturing,Quality Inspector,Entry-level,Vocational,Full-time,On-site,No,None,HTML/CSS; Excel,18500.0,2,68
+JOB0276,2025-04-12,Region I,Engineering,Civil Engineer,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,SQL; Customer Service; Excel,54500.0,4,89
+JOB0277,2025-12-27,Region I,Healthcare,Radiology Technician,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Customer Service; Communication,57000.0,2,132
+JOB0278,2025-12-20,NCR,Manufacturing,Machine Operator,Entry-level,Bachelor's,Part-time,On-site,No,None,SQL; Cloud Computing; Cybersecurity,35500.0,12,78
+JOB0279,2025-11-01,NCR,Information Technology,Software Developer,Senior,Bachelor's,Full-time,On-site,Yes,None,SQL; Data Visualization; Python,73000.0,10,101
+JOB0280,2025-10-22,NCR,Logistics,Logistics Coordinator,Mid-level,Bachelor's,Contract,Hybrid,No,1–2 years,Customer Service; Problem Solving; Data Visualization,49500.0,2,91
+JOB0281,2025-09-10,Region VII,Engineering,Electrical Engineer,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Cybersecurity; HTML/CSS; Java,79500.0,8,74
+JOB0282,2025-08-21,Region IV-A,Logistics,Supply Chain Analyst,Senior,Master's,Contract,Hybrid,No,5+ years,Customer Service; Problem Solving,69500.0,3,41
+JOB0283,2025-07-21,Region I,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Internship,On-site,Yes,None,SQL; Cloud Computing,39000.0,1,3
+JOB0284,2025-12-01,Region VI,Business & Finance,HR Officer,Mid-level,Bachelor's,Full-time,On-site,No,None,Problem Solving; Customer Service; Project Management,56500.0,3,3
+JOB0285,2025-11-26,Region VI,Engineering,Civil Engineer,Mid-level,Bachelor's,Internship,Remote,No,3–5 years,Problem Solving; Communication,61500.0,5,96
+JOB0286,2025-03-15,Region X,Business & Finance,Marketing Associate,Mid-level,Vocational,Full-time,Remote,No,1–2 years,Communication; Project Management; Data Visualization,51000.0,9,48
+JOB0287,2025-01-18,Region I,Healthcare,Medical Technologist,Mid-level,Master's,Full-time,Hybrid,No,None,Communication; Excel; Project Management,60500.0,6,89
+JOB0288,2025-12-01,Region IV-A,Education,ICT Instructor,Senior,Vocational,Contract,On-site,No,None,HTML/CSS; Excel; SQL,52000.0,3,80
+JOB0289,2025-05-23,,Business & Finance,HR Officer,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Excel; Problem Solving; Communication,66500.0,5,39
+JOB0290,2025-09-10,Region VI,Education,Training Specialist,Entry-level,Vocational,Full-time,Remote,No,1–2 years,Excel; Customer Service,17000.0,3,63
+JOB0291,2025-08-06,Region VII,Information Technology,IT Support Specialist,Entry-level,Master's,Part-time,Hybrid,No,1–2 years,Cloud Computing; Cybersecurity,61500.0,1,12
+JOB0292,2025-06-04,Region VI,Information Technology,IT Support Specialist,Entry-level,Master's,Contract,On-site,Yes,None,Cybersecurity; Java; SQL,53500.0,10,122
+JOB0293,2025-11-21,Region IV-A,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,Remote,Yes,5+ years,SQL; Cloud Computing,46500.0,7,98
+JOB0294,2025-03-24,Region IV-A,Information Technology,Web Developer,Mid-level,High School,Contract,Hybrid,Yes,3–5 years,Python; SQL,49500.0,2,63
+JOB0295,2025-08-27,Region X,Education,Training Specialist,Entry-level,Master's,Part-time,On-site,No,1–2 years,Excel; HTML/CSS; Problem Solving,49500.0,8,52
+JOB0296,2025-09-26,NCR,Education,ICT Instructor,Entry-level,Bachelor's,Internship,On-site,No,None,HTML/CSS; SQL; Data Visualization,38000.0,8,113
+JOB0297,2025-06-18,Region VII,Business & Finance,HR Officer,Mid-level,Vocational,Full-time,On-site,Yes,None,SQL; Project Management; Communication,47000.0,4,72
+JOB0298,2025-02-19,Region III,Information Technology,Web Developer,Entry-level,Bachelor's,Part-time,On-site,No,1–2 years,Cloud Computing; Problem Solving; Data Visualization,45500.0,2,63
+JOB0299,2025-01-15,NCR,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Full-time,On-site,Yes,3–5 years,Communication; Project Management; SQL,53000.0,10,63
+JOB0300,2025-06-06,Region III,Information Technology,Cybersecurity Analyst,Senior,,Full-time,Hybrid,Yes,3–5 years,SQL; Cloud Computing,79000.0,5,57
+JOB0301,2025-06-08,Region IV-A,Information Technology,Data Analyst,Mid-level,High School,Full-time,Hybrid,Yes,1–2 years,HTML/CSS; Communication; Java,50000.0,6,62
+JOB0302,2025-09-06,Region VI,Business & Finance,Marketing Associate,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Customer Service; Problem Solving,44000.0,4,77
+JOB0303,2025-09-11,Region I,Healthcare,Radiology Technician,Entry-level,Vocational,Contract,Remote,No,1–2 years,Customer Service; Project Management,30500.0,6,75
+JOB0304,2025-08-27,Region IV-A,Hospitality,Customer Service Associate,Entry-level,Bachelor's,Contract,Remote,No,5+ years,SQL; Java; Communication,34000.0,2,54
+JOB0305,2025-11-09,Region VII,Information Technology,Cybersecurity Analyst,Senior,Vocational,Full-time,On-site,No,5+ years,SQL; Java,69000.0,9,73
+JOB0306,2025-08-25,Region X,Hospitality,Customer Service Associate,Senior,Vocational,Contract,On-site,No,None,Project Management; HTML/CSS; Problem Solving,53000.0,1,22
+JOB0307,2025-05-23,NCR,Information Technology,Cybersecurity Analyst,Mid-level,Master's,Contract,Remote,No,1–2 years,SQL; Problem Solving; HTML/CSS,61500.0,2,73
+JOB0308,2025-04-22,Region VII,Business & Finance,Accountant,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Project Management; Customer Service,67000.0,3,25
+JOB0309,2025-10-19,Region X,Business & Finance,Marketing Associate,Mid-level,Bachelor's,Full-time,Hybrid,No,None,SQL; Project Management,50500.0,6,39
+JOB0310,2025-10-23,Region IV-A,Manufacturing,Quality Inspector,Mid-level,Bachelor's,Full-time,On-site,No,None,Excel; Project Management,43500.0,5,75
+JOB0311,2025-03-05,,Business & Finance,Financial Analyst,Senior,High School,Full-time,Hybrid,No,3–5 years,SQL; Communication,55500.0,3,142
+JOB0312,2025-06-03,Region XI,Education,Teacher,Mid-level,Bachelor's,Contract,Hybrid,Yes,3–5 years,Cybersecurity; SQL; Problem Solving,54000.0,8,70
+JOB0313,2025-04-27,Region III,Engineering,Electrical Engineer,Mid-level,High School,Full-time,Remote,No,3–5 years,Cloud Computing; Project Management,49000.0,1,68
+JOB0314,2025-10-09,Region VI,Healthcare,Radiology Technician,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Customer Service; Excel; Project Management,27500.0,2,102
+JOB0315,2025-08-19,Region III,Engineering,Civil Engineer,Entry-level,Bachelor's,Contract,Hybrid,Yes,1–2 years,Cloud Computing; Java,49500.0,4,3
+JOB0316,2025-12-25,Region VI,Hospitality,Hotel Staff,Senior,Bachelor's,Full-time,On-site,No,None,Problem Solving; Java; Cloud Computing,44000.0,6,61
+JOB0317,2025-10-07,Region VII,Healthcare,Nurse,Entry-level,Bachelor's,Contract,Remote,No,1–2 years,Customer Service; Excel; Problem Solving,37500.0,3,61
+JOB0318,2025-07-19,Region I,Engineering,Electrical Engineer,Senior,Bachelor's,Full-time,Hybrid,No,3–5 years,Excel; Data Visualization,64000.0,1,46
+JOB0319,2025-06-23,Region XI,Healthcare,Nurse,Entry-level,Bachelor's,Full-time,On-site,No,None,Communication; Customer Service,41500.0,4,89
+JOB0320,2025-11-13,NCR,Education,Training Specialist,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Excel; SQL; Problem Solving,48500.0,3,63
+JOB0321,2025-04-18,Region XI,Healthcare,Radiology Technician,Entry-level,Vocational,Full-time,On-site,No,1–2 years,Customer Service; Excel,30000.0,2,109
+JOB0322,2025-10-10,Region VI,Information Technology,Data Analyst,Entry-level,High School,Internship,On-site,Yes,1–2 years,Data Visualization; Communication; Cloud Computing,31500.0,2,75
+JOB0323,2025-07-24,Region VI,IT,Nurse,Entry-level,High School,Part-time,Hybrid,No,1–2 years,Customer Service; Communication,22000.0,3,67
+JOB0324,2025-10-03,Region X,Logistics,Logistics Coordinator,Entry-level,High School,Part-time,On-site,No,3–5 years,Customer Service; Problem Solving; Excel,25500.0,6,82
+JOB0325,2025-04-19,Region III,Hospitality,Chef,Mid-level,Vocational,Contract,,No,1–2 years,Communication; Python,43000.0,2,47
+JOB0326,2025-11-24,NCR,Engineering,Civil Engineer,Mid-level,Master's,Contract,Hybrid,No,None,Project Management; SQL; Cybersecurity,62000.0,7,42
+JOB0327,2025-08-11,NCR,Engineering,Civil Engineer,Mid-level,Vocational,Full-time,On-site,No,3–5 years,Cybersecurity; Customer Service; Python,53000.0,4,74
+JOB0328,2025-08-25,NCR,Engineering,QA Engineer,Senior,Bachelor's,Part-time,On-site,No,None,SQL; Data Visualization,78000.0,10,44
+JOB0329,2025-06-13,Region XI,Information Technology,IT Support Specialist,Mid-level,Vocational,Full-time,Hybrid,Yes,None,Data Visualization; SQL; Problem Solving,53500.0,5,3
+JOB0330,2025-10-17,NCR,Information Technology,Software Developer,Mid-level,Bachelor's,Full-time,On-site,Yes,None,Java; HTML/CSS; Python,65000.0,2,51
+JOB0331,2025-11-26,Region I,Healthcare,Radiology Technician,Entry-level,High School,Full-time,On-site,No,3–5 years,Customer Service; Project Management; Excel,25000.0,10,72
+JOB0332,2025-04-03,Region I,Hospitality,Hotel Staff,Entry-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Data Visualization; Project Management; Java,32500.0,4,87
+JOB0333,2025-04-04,Region III,Education,Training Specialist,Mid-level,Master's,Contract,On-site,No,1–2 years,Communication; Cloud Computing,55500.0,3,47
+JOB0334,2025-06-19,Region VI,Healthcare,Medical Technologist,Senior,Vocational,Part-time,On-site,No,None,Customer Service; Problem Solving; Communication,68000.0,7,100
+JOB0335,2025-10-12,Region IV-A,Healthcare,Radiology Technician,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Problem Solving,37500.0,5,66
+JOB0336,2025-12-22,Region IV-A,Engineering,Civil Engineer,Mid-level,High School,Full-time,Remote,No,1–2 years,HTML/CSS; SQL; Problem Solving,52000.0,3,54
+JOB0337,2025-06-15,Region VI,Healthcare,Medical Technologist,Entry-level,Vocational,Full-time,On-site,No,5+ years,Problem Solving; Customer Service; Communication,41000.0,6,77
+JOB0338,2025-09-02,Region IV-A,Education,Training Specialist,Mid-level,High School,Full-time,Hybrid,Yes,None,Communication; Problem Solving; HTML/CSS,43500.0,2,48
+JOB0339,2025-10-07,Region XI,Engineering,Civil Engineer,Senior,Vocational,Full-time,On-site,No,1–2 years,Cybersecurity; Project Management,57000.0,5,112
+JOB0340,2025-10-21,Region IV-A,Hospitality,Hotel Staff,Senior,Bachelor's,Full-time,Hybrid,No,3–5 years,Problem Solving; Project Management; Data Visualization,51500.0,3,53
+JOB0341,2025-05-02,Region I,Engineering,Civil Engineer,Entry-level,Bachelor's,Full-time,Hybrid,No,None,Cybersecurity; Project Management; SQL,36000.0,2,86
+JOB0342,2025-05-19,Region VII,Business & Finance,Financial Analyst,Entry-level,Vocational,Internship,Remote,No,5+ years,Data Visualization; Project Management,47500.0,5,68
+JOB0343,2025-08-07,Region XI,Hospitality,Chef,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Data Visualization; Customer Service,23000.0,2,87
+JOB0344,2025-04-19,Region III,Healthcare,Medical Technologist,Entry-level,Bachelor's,Contract,Hybrid,No,None,Excel; Communication; Problem Solving,38000.0,11,151
+JOB0345,2025-09-20,Region IV-A,Business & Finance,Financial Analyst,Entry-level,Master's,Full-time,Hybrid,No,1–2 years,Data Visualization; Excel,48500.0,3,77
+JOB0346,2025-02-22,Region X,Education,ICT Instructor,Entry-level,Vocational,Internship,Hybrid,No,None,Cloud Computing; Project Management; Communication,28500.0,7,93
+JOB0347,2025-02-19,NCR,Healthcare,Radiology Technician,Entry-level,Bachelor's,Part-time,On-site,No,1–2 years,Excel; Project Management,27500.0,4,113
+JOB0348,2025-05-02,NCR,Engineering,Electrical Engineer,Entry-level,Bachelor's,Part-time,On-site,No,3–5 years,Data Visualization; SQL,48000.0,1,52
+JOB0349,2025-08-08,Region VI,Healthcare,Medical Technologist,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; Problem Solving; Customer Service,51500.0,6,17
+JOB0350,2025-10-24,Region VII,Manufacturing,Production Technician,Mid-level,Bachelor's,Contract,On-site,No,1–2 years,Java; Excel,37500.0,2,48
+JOB0351,2025-03-25,Region X,Manufacturing,Machine Operator,Mid-level,Master's,Contract,On-site,No,None,SQL; Project Management; HTML/CSS,37500.0,1,97
+JOB0352,2025-01-07,Region VI,Logistics,Warehouse Supervisor,Senior,Vocational,Full-time,On-site,No,3–5 years,Data Visualization; Communication,52500.0,2,83
+JOB0353,2025-08-26,Region I,Healthcare,Radiology Technician,Senior,Bachelor's,Contract,Remote,No,1–2 years,Project Management; Excel,60000.0,9,32
+JOB0354,2025-07-16,Region IV-A,Engineering,Electrical Engineer,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; Python,59000.0,2,110
+JOB0355,2025-12-20,Region I,Business & Finance,Marketing Associate,Senior,Master's,Contract,On-site,No,None,SQL; Project Management,86000.0,6,96
+JOB0356,2025-06-19,Region III,Information Technology,Data Analyst,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,HTML/CSS; Cybersecurity,72000.0,2,86
+JOB0357,2025-05-16,NCR,Information Technology,Cybersecurity Analyst,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,SQL; HTML/CSS,65000.0,2,22
+JOB0358,2025-02-22,Region VII,Education,ICT Instructor,Senior,Bachelor's,Contract,On-site,No,None,Problem Solving; SQL; HTML/CSS,47500.0,10,54
+JOB0359,2025-10-18,Region III,Manufacturing,Machine Operator,Mid-level,Master's,Contract,Hybrid,No,None,Python; Java; Data Visualization,61500.0,9,77
+JOB0360,2025-11-25,NCR,Business & Finance,Financial Analyst,Mid-level,Vocational,Full-time,On-site,No,5+ years,Communication; Data Visualization; Excel,48000.0,4,124
+JOB0361,2025-07-22,Region VII,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Customer Service; Excel; Problem Solving,45500.0,1,8
+JOB0362,2025-06-23,Region VI,Logistics,Warehouse Supervisor,Entry-level,Bachelor's,Part-time,Hybrid,No,1–2 years,Excel; Customer Service,32000.0,1,65
+JOB0363,2025-10-09,Region XI,Hospitality,Hotel Staff,Entry-level,Master's,Full-time,On-site,No,None,Customer Service; Cloud Computing,30500.0,5,64
+JOB0364,2025-05-13,Region III,Business & Finance,Marketing Associate,Mid-level,Bachelor's,Full-time,On-site,Yes,None,Customer Service; Communication; SQL,56000.0,3,147
+JOB0365,2025-05-23,Region IV-A,Business & Finance,HR Officer,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Excel; SQL,37000.0,5,36
+JOB0366,2025-09-16,NCR,Business & Finance,HR Officer,Mid-level,Bachelor's,Contract,On-site,Yes,None,Communication; Data Visualization; Project Management,50000.0,6,86
+JOB0367,2025-06-22,NCR,Information Technology,Web Developer,Entry-level,Bachelor's,Part-time,On-site,Yes,1–2 years,SQL; Cybersecurity,46000.0,15,67
+JOB0368,2025-10-03,Region X,Information Technology,IT Support Specialist,Mid-level,Bachelor's,Part-time,On-site,Yes,5+ years,Communication; Problem Solving,53500.0,5,57
+JOB0369,2025-06-16,Region IV-A,Engineering,Civil Engineer,Mid-level,Master's,Full-time,Hybrid,No,1–2 years,HTML/CSS; Excel,52500.0,6,56
+JOB0370,2025-08-20,Region X,Hospitality,Chef,Entry-level,Vocational,Full-time,On-site,No,1–2 years,HTML/CSS; Customer Service,29500.0,4,86
+JOB0371,2025-04-05,NCR,Information Technology,IT Support Specialist,Mid-level,Master's,Full-time,On-site,Yes,5+ years,Cloud Computing; Communication; SQL,67500.0,3,50
+JOB0372,2025-09-12,NCR,Manufacturing,Production Technician,Entry-level,Master's,Internship,Hybrid,No,None,Python; Problem Solving; Communication,30500.0,7,100
+JOB0373,2025-04-05,Region X,Manufacturing,Production Technician,Senior,Bachelor's,Part-time,On-site,Yes,1–2 years,Python; Customer Service; Cloud Computing,56500.0,5,84
+JOB0374,2025-07-21,Region VII,Manufacturing,Production Technician,Mid-level,Vocational,Contract,On-site,Yes,3–5 years,SQL; Data Visualization,35000.0,6,68
+JOB0375,2025-07-24,Region VII,Information Technology,Software Developer,Mid-level,Vocational,Full-time,On-site,No,None,Python; Communication,52500.0,1,113
+JOB0376,2025-08-17,Region VII,Engineering,Civil Engineer,Entry-level,Bachelor's,Full-time,Hybrid,No,1–2 years,SQL; Communication,48500.0,2,108
+JOB0377,2025-12-11,Region III,Information Technology,Web Developer,Mid-level,Vocational,Full-time,Remote,Yes,1–2 years,HTML/CSS; Python; Problem Solving,52500.0,5,136
+JOB0378,2025-01-12,NCR,Education,Teacher,Entry-level,Bachelor's,Full-time,Remote,No,3–5 years,Python; Problem Solving,34500.0,5,43
+JOB0379,2025-07-21,Region VII,Business & Finance,HR Officer,Entry-level,Bachelor's,Internship,On-site,No,None,SQL; Customer Service,46500.0,1,57
+JOB0380,2025-10-04,Region IV-A,Information Technology,Data Analyst,Senior,Bachelor's,Full-time,Remote,Yes,None,SQL; Python,81000.0,3,51
+JOB0381,2025-07-08,Region III,Education,Teacher,Mid-level,Bachelor's,Contract,Hybrid,No,None,Python; Problem Solving,27500.0,2,123
+JOB0382,2025-03-06,Region I,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Internship,On-site,Yes,1–2 years,Problem Solving; Java,36500.0,1,65
+JOB0383,2025-04-07,NCR,Engineering,Electrical Engineer,Mid-level,Bachelor's,Full-time,On-site,No,None,Python; Communication; Cybersecurity,50000.0,7,111
+JOB0384,2025-03-04,Region VII,Healthcare,Nurse,Entry-level,Vocational,Full-time,On-site,Yes,5+ years,Communication; Problem Solving,18500.0,8,3
+JOB0385,2025-10-13,NCR,Healthcare,Nurse,Entry-level,Master's,Full-time,Remote ,No,None,Project Management; Communication; Customer Service,43500.0,1,39
+JOB0386,2025-05-16,Region X,Education,Training Specialist,Entry-level,Bachelor's,Part-time,Remote,No,3–5 years,Data Visualization; SQL,26500.0,2,98
+JOB0387,2025-12-04,Region VII,Information Technology,Web Developer,Mid-level,Master's,Part-time,Hybrid,No,None,Problem Solving; HTML/CSS; Data Visualization,69500.0,3,113
+JOB0388,2025-07-27,Region X,Logistics,Warehouse Supervisor,Mid-level,Vocational,Full-time,On-site,No,1–2 years,SQL; Data Visualization; Customer Service,45500.0,3,85
+JOB0389,2025-07-09,NCR,Manufacturing,Production Technician,Entry-level,Bachelor's,Contract,Remote,No,None,SQL; Data Visualization,31500.0,2,76
+JOB0390,2025-12-20,Region IV-A,Business & Finance,Marketing Associate,Entry-level,Vocational,Full-time,On-site,No,None,Excel; Communication; Project Management,34000.0,4,118
+JOB0391,2025-05-20,Region X,Information Technology,Cybersecurity Analyst,Entry-level,Vocational,Contract,Remote,No,1–2 years,Problem Solving; Python; SQL,47000.0,2,91
+JOB0392,2025-10-08,Region VII,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Java; HTML/CSS; SQL,46500.0,3,54
+JOB0393,2025-02-02,Region VI,Information Technology,Data Analyst,Entry-level,Master's,Contract,On-site,Yes,3–5 years,Cloud Computing; Problem Solving,59500.0,14,75
+JOB0394,2025-08-19,Region I,Business & Finance,Financial Analyst,Entry-level,High School,Contract,On-site,No,3–5 years,Project Management; Data Visualization; SQL,30500.0,1,65
+JOB0395,2025-09-08,Region I,Education,Training Specialist,Entry-level,Bachelor's,Contract,Hybrid,No,1–2 years,Excel; Data Visualization,26500.0,3,109
+JOB0396,2025-07-01,NCR,Business & Finance,Accountant,Mid-level,Bachelor's,Part-time,Hybrid,Yes,None,Customer Service; Data Visualization; Communication,52000.0,6,42
+JOB0397,2025-10-07,Region III,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Contract,On-site,Yes,1–2 years,Excel; Problem Solving; Project Management,47500.0,4,45
+JOB0398,2025-08-22,Region I,Healthcare,Radiology Technician,Entry-level,High School,Full-time,On-site,No,1–2 years,Excel; Communication,27000.0,7,43
+JOB0399,2025-03-27,Region XI,Healthcare,Nurse,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; Excel; Problem Solving,33500.0,3,68
+JOB0400,2025-03-27,Region XI,Healthcare,Nurse,Entry-level,Bachelor's,Full-time,Remote ,No,3–5 years,Project Management; Excel; Problem Solving,33500.0,3,68
+JOB0401,2025-06-16,NCR,Information Technology,Web Developer,Mid-level,Master's,Full-time,Hybrid,Yes,None,Communication; Java; Cloud Computing,65000.0,2,98
+JOB0402,2025-07-06,Region VI,Business & Finance,Marketing Associate,Entry-level,Master's,Full-time,On-site,Yes,1–2 years,Excel; Problem Solving; Data Visualization,43500.0,4,58
+JOB0403,2025-11-17,NCR,Healthcare,Healthcare Assistant,Entry-level,Bachelor's,Part-time,Remote,No,1–2 years,Project Management; Excel; Customer Service,38000.0,5,46
+JOB0404,2025-10-04,Region VI,Healthcare,Radiology Technician,Senior,Vocational,Part-time,Hybrid,No,1–2 years,Excel; Communication; Problem Solving,61500.0,9,71
+JOB0405,2025-08-17,Region X,Education,ICT Instructor,Entry-level,Bachelor's,Contract,Hybrid,Yes,5+ years,Java; Cybersecurity,35500.0,10,45
+JOB0406,2025-05-01,NCR,Information Technology,Data Analyst,Mid-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Python,59000.0,6,83
+JOB0407,2025-03-17,Region III,Business & Finance,Accountant,Mid-level,Master's,Full-time,On-site,No,1–2 years,Project Management; SQL; Communication,66500.0,1,51
+JOB0408,2025-03-09,Region IV-A,Business & Finance,Financial Analyst,Senior,Bachelor's,Full-time,On-site,Yes,5+ years,Data Visualization; Customer Service; Project Management,65500.0,6,79
+JOB0409,2025-02-24,Region XI,Information Technology,Web Developer,Mid-level,Master's,Full-time,On-site,Yes,1–2 years,Java; Problem Solving,66500.0,2,78
+JOB0410,2025-06-05,Region III,Information Technology,Data Analyst,Entry-level,Bachelor's,Part-time,On-site,No,1–2 years,Problem Solving; Cybersecurity; SQL,40500.0,5,105
+JOB0411,2025-12-26,Region IV-A,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Customer Service; Project Management,51500.0,7,56
+JOB0412,2025-07-05,NCR,Engineering,Civil Engineer,Mid-level,Master's,Contract,On-site,Yes,1–2 years,Customer Service; Problem Solving; Data Visualization,53500.0,4,66
+JOB0413,2025-09-01,Region I,Engineering,Electrical Engineer,Mid-level,Master's,Full-time,Remote,No,1–2 years,Cybersecurity; Data Visualization; Customer Service,68500.0,5,51
+JOB0414,2025-04-02,Region VI,Education,Training Specialist,Entry-level,Bachelor's,Contract,On-site,No,3–5 years,Python; Cybersecurity,36000.0,3,46
+JOB0415,2025-05-24,Region VII,Education,Teacher,Entry-level,Vocational,Full-time,Hybrid,No,1–2 years,SQL; Cybersecurity,32000.0,3,92
+JOB0416,2025-05-24,Region I,Hospitality,Customer Service Associate,Mid-level,Bachelor's,Full-time,Hybrid,No,None,Customer Service; Cybersecurity; Communication,51000.0,2,119
+JOB0417,2025-02-07,Region I,Education,Teacher,Entry-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Project Management; Java,32000.0,6,68
+JOB0418,2025-06-16,Region III,Manufacturing,Machine Operator,Senior,Master's,Full-time,On-site,No,None,Communication; Python; Java,63000.0,6,75
+JOB0419,2025-05-20,Region X,Business & Finance,HR Officer,Entry-level,Bachelor's,Full-time,On-site,No,None,Problem Solving; Communication,46500.0,2,82
+JOB0420,2025-06-21,Region VII,Business & Finance,Accountant,Entry-level,Bachelor's,Full-time,On-site,No,None,Customer Service; Communication,34500.0,5,75
+JOB0421,2025-06-27,NCR,Education,Training Specialist,Entry-level,High School,Full-time,On-site,No,1–2 years,Project Management; SQL,21500.0,2,89
+JOB0422,2025-08-03,Region VII,Hospitality,Customer Service Associate,Mid-level,Bachelor's,Part-time,Hybrid,No,None,Data Visualization; Customer Service,41500.0,2,83
+JOB0423,2025-10-06,Region VII,Information Technology,Cybersecurity Analyst,Entry-level,Bachelor's,Full-time,Hybrid,Yes,3–5 years,Communication; Cloud Computing; HTML/CSS,53500.0,1,78
+JOB0424,2025-08-08,Region VI,Logistics,Warehouse Supervisor,Senior,Bachelor's,Contract,On-site,No,3–5 years,SQL; Project Management,64000.0,1,80
+JOB0425,2025-03-26,Region X,Education,ICT Instructor,Mid-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Data Visualization; Cloud Computing; Communication,46000.0,3,62
+JOB0426,2025-05-18,Region IV-A,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Project Management; Communication,27000.0,4,57
+JOB0427,2025-06-24,NCR,Engineering,Civil Engineer,Senior,Master's,Part-time,Remote,No,1–2 years,SQL; Customer Service; Problem Solving,79000.0,7,66
+JOB0428,2025-04-25,Region X,Hospitality,Hotel Staff,Entry-level,Bachelor's,Full-time,Remote,No,3–5 years,Data Visualization; Project Management; Communication,40500.0,4,110
+JOB0429,2025-04-18,NCR,Manufacturing,Machine Operator,Entry-level,Vocational,Contract,On-site,No,1–2 years,Cybersecurity; Communication; Data Visualization,29000.0,1,38
+JOB0430,2025-12-18,Region VII,Hospitality,Chef,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Data Visualization; Project Management,61500.0,8,21
+JOB0431,2025-04-07,Region IV-A,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Part-time,Hybrid,No,1–2 years,HTML/CSS; SQL,39000.0,5,42
+JOB0432,2025-09-01,Region X,Information Technology,Web Developer,Senior,Vocational,Full-time,Remote,Yes,3–5 years,Problem Solving; SQL; Cloud Computing,65000.0,6,25
+JOB0433,2025-02-05,Region III,Education,ICT Instructor,Mid-level,Vocational,Contract,Hybrid,No,3–5 years,Excel; Cloud Computing,41000.0,7,5
+JOB0434,2025-10-09,Region IV-A,Healthcare,Radiology Technician,Senior,Vocational,Full-time,Hybrid,No,None,Problem Solving; Customer Service; Communication,51500.0,2,79
+JOB0435,2025-09-03,Region XI,Business & Finance,Financial Analyst,Entry-level,Bachelor's,Contract,On-site,No,3–5 years,Communication; Problem Solving; SQL,31000.0,1,73
+JOB0436,2025-08-17,NCR,Engineering,Civil Engineer,Entry-level,Master's,Full-time,Hybrid,No,3–5 years,Project Management; HTML/CSS,50500.0,14,101
+JOB0437,2025-06-22,NCR,Education,Training Specialist,Senior,Bachelor's,Internship,On-site,No,None,Data Visualization; Problem Solving; Excel,65000.0,10,86
+JOB0438,2025-07-12,Region X,Healthcare,Healthcare Assistant,Entry-level,Bachelor's,Part-time,Remote,No,None,Project Management; Communication,41000.0,8,58
+JOB0439,2025-04-05,Region IV-A,Engineering,QA Engineer,Mid-level,Vocational,Full-time,On-site,No,1–2 years,Cloud Computing; Communication; Cybersecurity,49500.0,4,67
+JOB0440,2025-10-03,Region VI,Business & Finance,Marketing Associate,Mid-level,Vocational,Full-time,On-site,No,1–2 years,Problem Solving; Excel; Customer Service,39500.0,14,54
+JOB0441,2025-09-01,Region X,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,HTML/CSS; Cybersecurity,44500.0,1,53
+JOB0442,2025-04-20,Region III,Information Technology,Software Developer,Entry-level,Master's,Full-time,On-site,No,None,Python; Java; Data Visualization,64500.0,3,85
+JOB0443,2025-08-20,Region X,Engineering,Electrical Engineer,Mid-level,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; SQL,58500.0,2,73
+JOB0444,2025-09-13,Region IV-A,Manufacturing,Production Technician,Entry-level,Bachelor's,Contract,Remote,No,3–5 years,Python; SQL; Communication,25000.0,3,65
+JOB0445,2025-07-25,NCR,Engineering,Electrical Engineer,Entry-level,Bachelor's,Contract,Remote,No,None,Cloud Computing; Java; Customer Service,40000.0,5,108
+JOB0446,2025-12-18,Region VI,Logistics,Supply Chain Analyst,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Project Management,36000.0,4,104
+JOB0447,2025-12-19,Region XI,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; Communication; Problem Solving,27000.0,6,55
+JOB0448,2025-05-17,NCR,Manufacturing,Quality Inspector,Senior,High School,Full-time,On-site,No,None,Problem Solving; Project Management; HTML/CSS,58500.0,1,61
+JOB0449,2025-03-11,NCR,Information Technology,IT Support Specialist,Mid-level,Master's,Contract,On-site,Yes,3–5 years,Data Visualization; Cybersecurity,64000.0,13,56
+JOB0450,2025-03-17,NCR,Information Technology,Web Developer,Mid-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Problem Solving; SQL,56000.0,8,64
+JOB0451,2025-09-06,Region VII,Business & Finance,HR Officer,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Problem Solving; SQL,68000.0,5,74
+JOB0452,2025-09-21,NCR,Business & Finance,HR Officer,Entry-level,Vocational,Contract,Hybrid,No,5+ years,Communication; Customer Service,34000.0,2,71
+JOB0453,2025-07-08,NCR,Business & Finance,Financial Analyst,Mid-level,,Full-time,Remote,No,None,Data Visualization; Problem Solving,52500.0,6,41
+JOB0454,2025-03-08,Region IV-A,Healthcare,Medical Technologist,Senior,High School,Full-time,Hybrid,No,1–2 years,Communication; Problem Solving; Project Management,55500.0,5,124
+JOB0455,2025-03-04,Region X,Engineering,Civil Engineer,Senior,Bachelor's,Full-time,Hybrid,No,None,Customer Service; Communication; Cloud Computing,71500.0,5,51
+JOB0456,2025-03-06,Region I,Healthcare,Healthcare Assistant,Senior,Bachelor's,Full-time,On-site,No,1–2 years,Communication; Project Management,55500.0,7,6
+JOB0457,2025-07-03,Region III,Business & Finance,HR Officer,Mid-level,Master's,Internship,Hybrid,Yes,None,Data Visualization; Problem Solving; Communication,59500.0,7,144
+JOB0458,2025-08-15,Region IV-A,Information Technology,Software Developer,Entry-level,Bachelor's,Full-time,Remote,Yes,5+ years,HTML/CSS; Problem Solving,53500.0,10,58
+JOB0459,2025-11-11,Region VI,Logistics,Supply Chain Analyst,Senior,Vocational,Full-time,On-site,No,3–5 years,Problem Solving; Data Visualization; Customer Service,56000.0,5,97
+JOB0460,2025-01-22,Region III,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,Remote,No,3–5 years,Project Management; Communication; Customer Service,35000.0,3,104
+JOB0461,2025-10-23,Region VII,Education,Teacher,Entry-level,Vocational,Full-time,On-site,Yes,None,Problem Solving; Excel,25500.0,1,94
+JOB0462,2025-08-09,Region III,Education,Teacher,Senior,Master's,Full-time,On-site,No,3–5 years,Python; Problem Solving; Project Management,74000.0,5,32
+JOB0463,2025-06-13,Region VI,Hospitality,Customer Service Associate,Mid-level,High School,Internship,On-site,No,1–2 years,Customer Service; Excel; Cybersecurity,27000.0,4,96
+JOB0464,2025-12-23,NCR,Information Technology,Web Developer,Entry-level,Bachelor's,Full-time,On-site,No,None,Python; Cloud Computing,34000.0,7,3
+JOB0465,2025-09-09,NCR,Logistics,Warehouse Supervisor,Mid-level,Master's,Full-time,On-site,No,1–2 years,Project Management; SQL; Excel,57000.0,3,63
+JOB0466,2025-06-24,NCR,Engineering,Electrical Engineer,Mid-level,Bachelor's,Contract,Hybrid,No,3–5 years,Data Visualization; Cybersecurity,56000.0,9,20
+JOB0467,2025-04-01,NCR,Information Technology,Data Analyst,Senior,Bachelor's,Contract,On-site,No,1–2 years,HTML/CSS; Python; Data Visualization,61000.0,4,58
+JOB0468,2025-04-19,Region VII,Manufacturing,Machine Operator,Senior,Bachelor's,Internship,Remote,No,1–2 years,SQL; Cloud Computing,66000.0,3,100
+JOB0469,2025-03-05,Region XI,Business & Finance,HR Officer,Mid-level,Master's,Full-time,On-site,No,None,Project Management; Customer Service,67000.0,4,32
+JOB0470,2025-04-10,Region VI,Information Technology,IT Support Specialist,Entry-level,Bachelor's,Full-time,On-site,Yes,1–2 years,Problem Solving; SQL,38000.0,1,47
+JOB0471,2025-10-03,Region X,Hospitality,Customer Service Associate,Senior,Bachelor's,Contract,On-site,No,1–2 years,Problem Solving; Java; Cybersecurity,47000.0,2,58
+JOB0472,2025-05-24,Region VI,Information Technology,Data Analyst,Entry-level,Bachelor's,Full-time,Remote,Yes,1–2 years,SQL; HTML/CSS; Python,37500.0,3,111
+JOB0473,2025-04-08,Region XI,Information Technology,Cybersecurity Analyst,Mid-level,Bachelor's,Full-time,Hybrid,No,1–2 years,Cloud Computing; Data Visualization,,1,22
+JOB0474,2025-08-12,Region III,Education,ICT Instructor,Mid-level,Master's,Contract,Hybrid,No,3–5 years,Customer Service; Data Visualization; Cloud Computing,48000.0,5,77
+JOB0475,2025-05-23,NCR,Information Technology,Cybersecurity Analyst,Mid-level,Master's,Internship,Hybrid,Yes,None,Problem Solving; Data Visualization,62000.0,5,44
+JOB0476,2025-07-16,Region X,Business & Finance,Financial Analyst,Entry-level,Vocational,Internship,On-site,No,5+ years,SQL; Project Management; Communication,40000.0,7,88
+JOB0477,2025-03-24,NCR,Information Technology,Software Developer,Mid-level,Vocational,Full-time,Remote,No,1–2 years,Cloud Computing; HTML/CSS,53000.0,5,57
+JOB0478,2025-01-10,NCR,Information Technology,Software Developer,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Data Visualization; Problem Solving; Cybersecurity,45000.0,1,47
+JOB0479,2025-09-22,NCR,Education,ICT Instructor,Mid-level,Master's,Full-time,On-site,No,1–2 years,Python; Java; Customer Service,53500.0,3,74
+JOB0480,2025-09-14,Region III,Information Technology,Data Analyst,Senior,Master's,Contract,On-site,No,1–2 years,SQL; Cloud Computing,78500.0,1,86
+JOB0481,2025-03-13,NCR,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,Remote,No,None,Project Management; Communication; Customer Service,53000.0,7,30
+JOB0482,2025-06-25,Region VI,Business & Finance,Accountant,Mid-level,Master's,Full-time,Hybrid,No,None,Excel; Communication,52000.0,4,66
+JOB0483,2025-06-15,NCR,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,Hybrid,Yes,1–2 years,Problem Solving; Communication; Excel,35000.0,2,73
+JOB0484,2025-10-27,Region VII,Healthcare,Nurse,Mid-level,Vocational,Full-time,On-site,No,3–5 years,Customer Service; Communication; Project Management,42500.0,2,36
+JOB0485,2025-04-05,Region I,Engineering,Civil Engineer,Senior,Vocational,Full-time,On-site,No,None,Communication; Cloud Computing; Project Management,78500.0,4,89
+JOB0486,2025-09-15,NCR,Information Technology,Data Analyst,Mid-level,Bachelor's,Full-time,Hybrid,Yes,3–5 years,Java; Cloud Computing,54000.0,15,79
+JOB0487,2025-04-24,Region I,Engineering,Civil Engineer,Entry-level,Bachelor's,Full-time,On-site,No,None,Project Management; HTML/CSS; Customer Service,44500.0,2,112
+JOB0488,2025-08-23,Region XI,Information Technology,IT Support Specialist,Mid-level,Vocational,Part-time,Hybrid,No,None,SQL; Python,66000.0,3,106
+JOB0489,2025-04-05,Region VI,Healthcare,Healthcare Assistant,Entry-level,Bachelor's,Full-time,On-site,No,None,Problem Solving; Excel; Project Management,27500.0,13,56
+JOB0490,2025-10-13,Region IV-A,Education,Training Specialist,Entry-level,Bachelor's,Full-time,Remote,No,1–2 years,Python; Data Visualization; Cybersecurity,28000.0,15,59
+JOB0491,2025-02-04,Region VI,Hospitality,Customer Service Associate,Entry-level,Master's,Contract,Hybrid,No,1–2 years,Excel; Communication; Project Management,21000.0,3,68
+JOB0492,2025-07-06,Region XI,Business & Finance,Financial Analyst,Entry-level,Vocational,Full-time,On-site,No,5+ years,Problem Solving; Data Visualization; Communication,32500.0,4,61
+JOB0493,2025-06-07,Region VI,Engineering,Civil Engineer,Entry-level,Vocational,Part-time,On-site,No,None,Customer Service; SQL,36000.0,5,101
+JOB0494,2025-12-05,Region XI,Healthcare,Medical Technologist,Entry-level,Bachelor's,Full-time,On-site,No,None,Excel; Communication; Problem Solving,44500.0,9,99
+JOB0495,2025-08-15,Region XI,Business & Finance,Financial Analyst,Senior,Bachelor's,Full-time,On-site,No,3–5 years,Project Management; Communication; Excel,66500.0,13,93
+JOB0496,2025-09-18,NCR,Manufacturing,Production Technician,Entry-level,Bachelor's,Full-time,Hybrid,No,3–5 years,Customer Service; Cloud Computing,27500.0,3,53
+JOB0497,2025-03-22,Region VI,Education,Training Specialist,Mid-level,Bachelor's,Internship,Remote,No,None,Java; Communication; SQL,58000.0,3,104
+JOB0498,2025-09-18,NCR,Manufacturing,Production Technician,Entry-level,Bachelor's,Full-time,On-site,No,1–2 years,Communication; SQL,24000.0,1,55
+JOB0499,2025-02-03,Region X,Healthcare,Radiology Technician,Senior,Bachelor's,Part-time,On-site,No,None,Communication; Problem Solving,69000.0,2,89
+JOB0500,2025-10-08,NCR,Business & Finance,Marketing Associate,Entry-level,Vocational,Part-time,Hybrid,Yes,None,Excel; SQL; Data Visualization,47500.0,3,43

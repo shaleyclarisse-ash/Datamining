@@ -1,0 +1,501 @@
+Transaction_ID,Date,Branch,Sales_Channel,Product,Category,Quantity,Unit_Price_PHP,Gross_Sales_PHP,Discount_PHP,Net_Sales_PHP,Estimated_Cost_PHP,Payment_Method,Promotion
+TXN0001,2025-11-24,Padada,Walk-in,Chicken Tenders,Food,1.0,123.75,123.75,0.0,123.75,75.67,Maya,None
+TXN0002,2025-01-17,Padada,Online Delivery,Chicken Burger,Food,1.0,102.03,102.03,10.2,91.83,57.74,GCash,Student Discount
+TXN0003,2025-08-18,Hagonoy,Online Delivery,BBQ Chicken Meal,Meals,1.0,189.85,189.85,15.19,174.66,87.62,Debit Card,Bundle Promo
+TXN0004,2025-03-21,Bansalan,Pickup,Mac and Cheese,Sides,4.0,95.83,383.32,0.0,383.32,170.63,Debit Card,None
+TXN0005,2025-01-23,Padada,Online Delivery,Soft Drink,Beverages,2.0,39.6,79.2,0.0,79.2,44.63,GCash,None
+TXN0006,2025-12-27,Digos City,Online Delivery,Chicken Tenders,Food,1.0,168.58,168.58,8.43,160.15,108.29,Debit Card,Weekend Promo
+TXN0007,2025-08-21,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,143.87,143.87,11.51,132.36,86.68,GCash,Bundle Promo
+TXN0008,2025-10-01,Padada,Walk-in,Mac and Cheese,Sides,1.0,97.97,97.97,4.9,93.07,57.45,Debit Card,Weekend Promo
+TXN0009,2025-01-29,Padada,Pickup,Mac and Cheese,Sides,3.0,119.25,357.75,0.0,357.75,156.41,Debit Card,None
+TXN0010,2025-04-19,Padada,Pickup,Soft Drink,Beverages,2.0,31.88,63.76,0.0,63.76,30.87,Debit Card,None
+TXN0011,2025-10-27,Padada,Online Delivery,Iced Tea,Beverages,4.0,32.99,131.96,0.0,131.96,89.65,Cash,None
+TXN0012,2025-01-25,Hagonoy,Pickup,Chicken Tenders,Food,1.0,170.29,170.29,0.0,170.29,74.33,Maya,None
+TXN0013,2025-09-28,Bansalan,Pickup,Cajun Rice Meal,Meals,5.0,139.82,699.1,0.0,699.1,454.45,Debit Card,None
+TXN0014,2025-02-27,Bansalan,Pickup,Cajun Rice Meal,Meals,1.0,126.22,126.22,6.31,119.91,81.76,GCash,Weekend Promo
+TXN0015,2025-09-17,Matanao,Online Delivery,Chicken Tenders,Food,3.0,125.86,377.58,37.76,339.82,218.37,GCash,Student Discount
+TXN0016,2025-10-04,Bansalan,Walk-in,Chocolate Sundae,Dessert,5.0,48.72,243.6,0.0,243.6,161.16,Cash,None
+TXN0017,2025-05-04,Padada,Walk-in,BBQ Chicken Meal,Meals,4.0,180.23,720.92,57.67,663.25,486.1,GCash,Bundle Promo
+TXN0018,2025-12-04,,Pickup,Soft Drink,Beverages,4.0,27.48,109.92,10.99,98.93,63.5,GCash,Student Discount
+TXN0019,2025-06-09,Digos City,Walk-in,Iced Tea,Beverages,5.0,38.0,190.0,0.0,190.0,105.37,GCash,None
+TXN0020,2025-02-02,Digos City,Walk-in,Fettuccine Carbonara,Meals,2.0,135.11,270.22,0.0,270.22,118.48,Cash,None
+TXN0021,2025-01-17,Matanao,Pickup,Fettuccine Carbonara,Meals,1.0,135.66,135.66,10.85,124.81,64.53,Maya,Bundle Promo
+TXN0022,2025-05-05,Hagonoy,Online Delivery,Soft Drink,Beverages,3.0,27.86,83.58,0.0,83.58,44.47,Maya,None
+TXN0023,2025-01-28,Matanao,Walk-in,Chicken Tenders,Food,1.0,164.54,164.54,13.16,151.38,73.78,Maya,Bundle Promo
+TXN0024,2025-03-13,Padada,Walk-in,Iced Tea,Beverages,1.0,34.25,34.25,2.74,31.51,15.06,Cash,Bundle Promo
+TXN0025,2025-11-30,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,3.0,66.79,200.37,16.03,184.34,92.82,GCash,Bundle Promo
+TXN0026,2025-07-25,Hagonoy,Online Delivery,Chicken Burger,Food,1.0,89.12,89.12,0.0,89.12,58.9,Maya,None
+TXN0027,2025-12-23,Digos City,Pickup,Chocolate Sundae,Dessert,2.0,53.6,107.2,0.0,107.2,51.09,Cash,None
+TXN0028,2025-06-10,Digos City,Pickup,Chicken Burger,Food,1.0,115.7,115.7,5.79,109.91,64.57,Cash,Weekend Promo
+TXN0029,2025-04-06,Padada,Walk-in,Chicken Tenders,Food,3.0,176.56,529.68,0.0,529.68,352.14,Cash,None
+TXN0030,2025-11-14,Matanao,Pickup,Chicken Tenders,Food,1.0,151.53,151.53,15.15,136.38,100.47,Debit Card,Student Discount
+TXN0031,2025-05-03,Digos City,Walk-in,Cajun Rice Meal,Meals,2.0,137.73,275.46,0.0,275.46,182.23,Maya,None
+TXN0032,2025-11-15,digos city,Walk-in,BBQ Chicken Meal,Meals,5.0,166.63,833.15,83.31,749.84,378.62,GCash,Student Discount
+TXN0033,2025-07-09,Padada,Walk-in,Cajun Rice Meal,Meals,1.0,149.02,149.02,11.92,137.1,86.29,Debit Card,Bundle Promo
+TXN0034,2025-12-06,Matanao,Online Delivery,Chicken Tenders,Food,4.0,122.8,491.2,24.56,466.64,301.12,Debit Card,Weekend Promo
+TXN0035,2025-11-06,Hagonoy,Online Delivery,Mac and Cheese,Sides,2.0,89.18,178.36,17.84,160.52,87.15,Cash,Student Discount
+TXN0036,2025-02-17,Bansalan,Walk-in,Iced Tea,Beverages,3.0,25.88,77.64,0.0,77.64,35.25,Maya,None
+TXN0037,2025-10-10,Matanao,Pickup,Iced Tea,Beverages,2.0,27.24,54.48,2.72,51.76,32.67,Cash,Weekend Promo
+TXN0038,2025-07-09,Digos City,Online Delivery,BBQ Chicken Meal,Meals,2.0,159.09,318.18,0.0,318.18,163.8,GCash,None
+TXN0039,2025-12-16,Padada,Pickup,Mac and Cheese,Sides,2.0,96.68,193.36,19.34,174.02,125.19,GCash,Student Discount
+TXN0040,2025-05-02,Bansalan,Online Delivery,Fries,Sides,5.0,70.67,353.35,17.67,335.68,150.68,GCash,Weekend Promo
+TXN0041,2025-05-17,Matanao,Online Delivery,Fries,Sides,3.0,51.83,155.49,0.0,155.49,84.33,Debit Card,None
+TXN0042,2025-06-06,Digos City,Online Delivery,Mac and Cheese,Sides,1.0,112.0,112.0,0.0,112.0,55.15,Debit Card,None
+TXN0043,2025-11-25,Digos City,Online Delivery,Chocolate Sundae,Dessert,1.0,68.43,68.43,6.84,61.59,45.45,GCash,Student Discount
+TXN0044,2025-10-25,Padada,Pickup,Cajun Rice Meal,Meals,2.0,125.07,250.14,20.01,230.13,125.46,Cash,Bundle Promo
+TXN0045,2025-07-17,Padada,Pickup,BBQ Chicken Meal,Meals,1.0,132.11,132.11,0.0,132.11,73.34,GCash,None
+TXN0046,2025-07-06,Digos City,Pickup,Iced Tea,Beverages,2.0,43.42,86.84,8.68,78.16,51.45,Debit Card,Student Discount
+TXN0047,2025-09-17,Matanao,Online Delivery,Cajun Rice Meal,Meals,2.0,118.57,237.14,18.97,218.17,133.78,Maya,Bundle Promo
+TXN0048,2025-12-13,Matanao,Online Delivery,Fries,Sides,2.0,52.87,105.74,8.46,97.28,52.77,Debit Card,Bundle Promo
+TXN0049,2025-08-27,Matanao,Pickup,Soft Drink,Beverages,1.0,28.21,28.21,0.0,28.21,18.46,Cash,None
+TXN0050,2025-05-26,Matanao,Pickup,Chocolate Sundae,Dessert,2.0,57.58,115.16,0.0,115.16,76.87,Debit Card,None
+TXN0051,2025-04-26,Digos City,Online Delivery,Mac and Cheese,Sides,1.0,91.24,91.24,0.0,91.24,58.48,Maya,None
+TXN0052,2025-11-19,Digos City,Walk-in,BBQ Chicken Meal,Meals,1.0,177.74,177.74,17.77,159.97,85.93,Maya,Student Discount
+TXN0053,2025-04-23,Digos City,Online Delivery,Fries,Sides,3.0,65.62,196.86,0.0,196.86,111.21,GCash,None
+TXN0054,2025-08-26,Padada,Pickup,Chocolate Sundae,Dessert,5.0,56.86,284.3,14.22,270.08,185.3,Maya,Weekend Promo
+TXN0055,2025-10-08,Matanao,Pickup,Soft Drink,Beverages,4.0,36.15,144.6,0.0,144.6,70.48,Debit Card,None
+TXN0056,2025-09-24,Bansalan,Online Delivery,Soft Drink,Beverages,2.0,29.12,58.24,0.0,58.24,28.79,Debit Card,None
+TXN0057,2025-10-04,Hagonoy,Online Delivery,Chicken Tenders,Food,1.0,133.47,133.47,0.0,133.47,63.48,Debit Card,None
+TXN0058,2025-10-05,Digos City,Pickup,Soft Drink,Beverages,1.0,37.49,37.49,0.0,37.49,23.25,Maya,None
+TXN0059,2025-09-02,Hagonoy,Pickup,Chicken Burger,Food,4.0,105.72,422.88,0.0,422.88,275.64,GCash,None
+TXN0060,2025-09-07,Hagonoy,Pickup,Mac and Cheese,Sides,1.0,80.45,80.45,0.0,80.45,47.99,GCash,None
+TXN0061,2025-08-28,Digos City,Walk-in,Fries,Sides,5.0,58.5,292.5,14.62,277.88,167.86,Maya,Weekend Promo
+TXN0062,2025-03-11,Bansalan,Online Delivery,Soft Drink,Beverages,1.0,28.9,28.9,0.0,28.9,15.55,Debit Card,None
+TXN0063,2025-08-04,Bansalan,Walk-in,Cajun Rice Meal,Meals,3.0,127.22,381.66,30.53,351.13,165.47,Cash,Bundle Promo
+TXN0064,2025-11-30,Matanao,Online Delivery,Chicken Burger,Food,3.0,100.16,300.48,0.0,300.48,138.11,Cash,None
+TXN0065,2025-10-16,Digos City,Walk-in,Mac and Cheese,Sides,1.0,91.81,91.81,0.0,91.81,53.02,Debit Card,None
+TXN0066,2025-02-25,Hagonoy,Pickup,BBQ Chicken Meal,Meals,1.0,150.84,150.84,12.07,138.77,100.93,GCash,Bundle Promo
+TXN0067,2025-02-08,Padada,Walk-in,BBQ Chicken Meal,Meals,3.0,146.0,438.0,35.04,402.96,218.3,Cash,Bundle Promo
+TXN0068,2025-06-27,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,1.0,50.12,50.12,5.01,45.11,25.5,Cash,Student Discount
+TXN0069,2025-08-10,Bansalan,Pickup,Fettuccine Carbonara,Meals,2.0,168.51,337.02,0.0,337.02,205.85,Maya,None
+TXN0070,2025-08-27,Digos City,Online Delivery,Iced Tea,Beverages,3.0,36.85,110.55,0.0,110.55,53.49,Maya,None
+TXN0071,2025-05-05,Bansalan,Walk-in,Soft Drink,Beverages,2.0,35.02,70.04,0.0,70.04,38.42,Maya,None
+TXN0072,2025-04-19,Padada,Walk-in,Fettuccine Carbonara,Meals,3.0,138.58,415.74,41.57,374.17,269.74,GCash,Student Discount
+TXN0073,2025-02-13,Hagonoy,Online Delivery,Mac and Cheese,Sides,2.0,103.43,206.86,16.55,190.31,124.02,Cash,Bundle Promo
+TXN0074,2025-02-17,Hagonoy,Pickup,Cajun Rice Meal,Meals,1.0,140.51,140.51,0.0,140.51,80.26,Debit Card,None
+TXN0075,2025-08-06,Digos City,Pickup,Chocolate Sundae,Dessert,1.0,60.09,60.09,0.0,60.09,29.17,GCash,None
+TXN0076,2025-06-11,Hagonoy,Online Delivery,Chicken Tenders,Food,3.0,184.58,553.74,44.3,509.44,260.15,Debit Card,Bundle Promo
+TXN0077,2025-02-21,Matanao,Online Delivery,Mac and Cheese,Sides,1.0,97.04,97.04,0.0,97.04,58.62,Cash,None
+TXN0078,2025-01-28,Digos City,Walk-in,Chocolate Sundae,Dessert,1.0,67.32,67.32,6.73,60.59,41.45,Debit Card,Student Discount
+TXN0079,2025-08-29,Hagonoy,Walk-in,Soft Drink,Beverages,1.0,27.77,27.77,0.0,27.77,18.46,Cash,None
+TXN0080,2025-07-25,Padada,Online Delivery,Soft Drink,Beverages,1.0,34.44,34.44,0.0,34.44,15.8,Cash,None
+TXN0081,2025-05-08,Padada,Online Delivery,Chicken Tenders,Food,2.0,136.46,272.92,27.29,245.63,158.51,Maya,Student Discount
+TXN0082,2025-08-15,Padada,Pickup,Cajun Rice Meal,Meals,3.0,158.4,475.2,0.0,475.2,276.31,Cash,None
+TXN0083,2025-04-17,Matanao,Walk-in,Mac and Cheese,Sides,1.0,83.06,83.06,0.0,83.06,46.81,Maya,None
+TXN0084,2025-08-19,Hagonoy,Walk-in,BBQ Chicken Meal,Meals,1.0,131.28,131.28,0.0,131.28,64.79,GCash,None
+TXN0085,2025-05-16,Matanao,Online Delivery,BBQ Chicken Meal,Meals,2.0,194.36,388.72,0.0,388.72,218.3,GCash,None
+TXN0086,2025-02-06,Bansalan,Online Delivery,Chicken Burger,Food,1.0,106.23,106.23,8.5,97.73,60.34,Cash,Bundle Promo
+TXN0087,2025-08-28,Digos City,Pickup,Cajun Rice Meal,Meals,2.0,155.56,311.12,31.11,280.01,170.61,Cash,Student Discount
+TXN0088,2025-08-10,Padada,Pickup,Fettuccine Carbonara,Meals,2.0,125.39,250.78,12.54,238.24,159.83,Cash,Weekend Promo
+TXN0089,2025-12-11,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,2.0,144.79,289.58,0.0,289.58,160.7,,None
+TXN0090,2025-10-27,Bansalan,Online Delivery,Iced Tea,Beverages,2.0,34.83,69.66,0.0,69.66,35.56,Cash,None
+TXN0091,2025-03-24,Padada,Walk-in,Fettuccine Carbonara,Meals,1.0,153.68,153.68,12.29,141.39,80.55,Maya,Bundle Promo
+TXN0092,2025-02-15,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,186.91,186.91,0.0,186.91,103.51,Maya,None
+TXN0093,2025-07-31,Digos City,Walk-in,Chicken Burger,Food,1.0,109.26,109.26,8.74,100.52,63.66,Debit Card,Bundle Promo
+TXN0094,2025-10-09,Padada,Walk-in,Fries,Sides,4.0,54.28,217.12,17.37,199.75,98.05,GCash,Bundle Promo
+TXN0095,2025-06-09,Digos City,Online Delivery,Chocolate Sundae,Dessert,1.0,51.24,51.24,0.0,51.24,32.73,Cash,None
+TXN0096,2025-11-28,Hagonoy,Online Delivery,Fries,Sides,2.0,66.53,133.06,13.31,119.75,65.34,GCash,Student Discount
+TXN0097,2025-08-22,Matanao,Walk-in,Chocolate Sundae,Dessert,1.0,44.72,44.72,4.47,40.25,27.46,Debit Card,Student Discount
+TXN0098,2025-08-01,Bansalan,Pickup,Fettuccine Carbonara,Meals,4.0,154.54,618.16,49.45,568.71,305.09,Maya,Bundle Promo
+TXN0099,2025-03-18,Hagonoy,Online Delivery,Soft Drink,Beverages,2.0,30.18,60.36,6.04,54.32,33.88,GCash,Student Discount
+TXN0100,2025-12-24,Hagonoy,Pickup,Mac and Cheese,Sides,2.0,90.68,181.36,14.51,166.85,78.23,Maya,Bundle Promo
+TXN0101,2025-07-17,Digos City,Online Delivery,Fries,Sides,2.0,36.63,73.26,7.33,65.93,42.01,Cash,Student Discount
+TXN0102,2025-09-27,Hagonoy,Online Delivery,Soft Drink,Beverages,1.0,31.15,31.15,3.12,28.03,14.33,Debit Card,Student Discount
+TXN0103,2025-11-16,Bansalan,online delivery,Iced Tea,Beverages,2.0,42.05,84.1,6.73,77.37,43.63,Maya,Bundle Promo
+TXN0104,2025-10-05,Digos City,Online Delivery,Chicken Burger,Food,2.0,124.35,248.7,12.44,236.26,168.95,Cash,Weekend Promo
+TXN0105,2025-11-21,Digos City,Online Delivery,Chicken Tenders,Food,1.0,161.46,161.46,8.07,153.39,69.74,Debit Card,Weekend Promo
+TXN0106,2025-07-11,Matanao,Walk-in,Iced Tea,Beverages,1.0,35.62,35.62,3.56,32.06,22.3,Cash,Student Discount
+TXN0107,2025-11-09,Bansalan,Online Delivery,Iced Tea,Beverages,2.0,34.95,69.9,6.99,62.91,33.58,Debit Card,Student Discount
+TXN0108,2025-12-08,Digos City,Online Delivery,Chicken Burger,Food,4.0,115.05,460.2,0.0,460.2,258.69,Debit Card,None
+TXN0109,2025-10-28,Matanao,Online Delivery,Cajun Rice Meal,Meals,2.0,124.46,248.92,0.0,248.92,159.25,Maya,None
+TXN0110,2025-02-24,Digos City,Pickup,Mac and Cheese,Sides,1.0,96.95,96.95,0.0,96.95,58.35,Maya,None
+TXN0111,2025-05-21,Padada,Pickup,Chicken Burger,Food,2.0,127.4,254.8,20.38,234.42,110.27,Maya,Bundle Promo
+TXN0112,2025-05-27,Matanao,Pickup,Mac and Cheese,Sides,2.0,96.62,193.24,19.32,173.92,112.36,Cash,Student Discount
+TXN0113,2025-11-18,Digos City,Online Delivery,Chicken Burger,Food,1.0,113.69,113.69,11.37,102.32,69.4,Debit Card,Student Discount
+TXN0114,2025-08-01,Padada,Online Delivery,Fries,Sides,1.0,69.61,69.61,5.57,64.04,35.86,GCash,Bundle Promo
+TXN0115,2025-05-12,Hagonoy,Walk-in,Soft Drink,Beverages,5.0,29.43,147.15,11.77,135.38,92.57,GCash,Bundle Promo
+TXN0116,2025-04-26,Padada,Walk-in,Iced Tea,Beverages,6.0,32.32,193.92,15.51,178.41,82.15,Maya,Bundle Promo
+TXN0117,2025-07-08,Matanao,Online Delivery,Cajun Rice Meal,Meals,2.0,148.35,296.7,14.84,281.86,132.97,Cash,Weekend Promo
+TXN0118,2025-11-14,Hagonoy,Pickup,Chocolate Sundae,Dessert,1.0,57.3,57.3,5.73,51.57,33.53,Debit Card,Student Discount
+TXN0119,2025-11-29,Digos City,Walk-in,Iced Tea,Beverages,1.0,43.93,43.93,0.0,43.93,24.08,GCash,None
+TXN0120,2025-07-18,Padada,Pickup,Soft Drink,Beverages,1.0,39.24,39.24,3.14,36.1,21.99,GCash,Bundle Promo
+TXN0121,2025-08-01,Bansalan,Walk-in,Chicken Tenders,Food,3.0,154.41,463.23,23.16,440.07,228.25,Maya,Weekend Promo
+TXN0122,2025-08-16,Bansalan,Walk-in,Mac and Cheese,Sides,3.0,128.05,384.15,0.0,384.15,251.4,Maya,None
+TXN0123,2025-05-22,Matanao,Pickup,Mac and Cheese,Sides,5.0,126.45,632.25,50.58,581.67,280.61,Cash,Bundle Promo
+TXN0124,2025-01-26,Padada,Walk-in,Fettuccine Carbonara,Meals,1.0,174.09,174.09,0.0,174.09,110.68,GCash,None
+TXN0125,2025-04-30,Matanao,Walk-in,Fettuccine Carbonara,Meals,3.0,174.21,522.63,52.26,470.37,257.18,Debit Card,Student Discount
+TXN0126,2025-03-31,Matanao,Pickup,Chicken Tenders,Food,2.0,101.32,202.64,0.0,202.64,126.73,Debit Card,None
+TXN0127,2025-01-09,Digos City,Online Delivery,Fries,Sides,1.0,40.58,40.58,0.0,40.58,18.24,Maya,None
+TXN0128,2025-07-05,Padada,Online Delivery,Chocolate Sundae,Dessert,2.0,54.12,108.24,5.41,102.83,46.68,Maya,Weekend Promo
+TXN0129,2025-11-26,Hagonoy,Pickup,Chicken Burger,Food,1.0,115.82,115.82,0.0,115.82,69.3,Maya,None
+TXN0130,2025-02-07,Padada,Pickup,Chicken Tenders,Food,1.0,112.35,112.35,0.0,112.35,65.42,Debit Card,None
+TXN0131,2025-07-15,Digos City,Pickup,BBQ Chicken Meal,Meals,2.0,160.76,321.52,32.15,289.37,143.33,GCash,Student Discount
+TXN0132,2025-08-09,Digos City,Online Delivery,Soft Drink,Beverages,4.0,30.08,120.32,0.0,120.32,63.55,Maya,None
+TXN0133,2025-06-10,Digos City,Walk-in,Cajun Rice Meal,Meals,1.0,108.16,108.16,5.41,102.75,47.32,Maya,Weekend Promo
+TXN0134,2025-02-19,Bansalan,Pickup,Fettuccine Carbonara,Meals,3.0,157.95,473.85,47.39,426.46,268.21,Cash,Student Discount
+TXN0135,2025-07-30,Digos City,Online Delivery,Fettuccine Carbonara,Meals,3.0,184.88,554.64,0.0,554.64,365.02,Debit Card,None
+TXN0136,2025-06-30,Digos City,Online Delivery,Chicken Tenders,Food,2.0,118.15,236.3,23.63,212.67,113.02,Debit Card,Student Discount
+TXN0137,2025-02-28,Padada,Pickup,Cajun Rice Meal,Meals,2.0,147.43,294.86,23.59,271.27,198.55,Cash,Bundle Promo
+TXN0138,2025-11-08,Digos City,Walk-in,Cajun Rice Meal,Meals,1.0,141.16,141.16,0.0,141.16,71.76,GCash,None
+TXN0139,2025-10-17,Padada,Walk-in,Iced Tea,Beverages,1.0,39.82,39.82,1.99,37.83,17.67,Maya,Weekend Promo
+TXN0140,2025-08-03,Padada,Walk-in,Soft Drink,Beverages,1.0,29.67,29.67,0.0,29.67,19.72,Cash,None
+TXN0141,2025-03-21,Hagonoy,Online Delivery,Fries,Sides,3.0,37.19,111.57,0.0,111.57,59.71,Maya,None
+TXN0142,2025-08-01,Padada,Online Delivery,Cajun Rice Meal,Meals,1.0,129.74,129.74,0.0,129.74,58.23,Debit Card,None
+TXN0143,2025-01-24,Matanao,Walk-in,Mac and Cheese,Sides,1.0,108.97,108.97,0.0,108.97,54.31,Debit Card,None
+TXN0144,2025-05-29,Padada,Pickup,Fettuccine Carbonara,Meals,1.0,153.82,153.82,0.0,153.82,69.77,GCash,None
+TXN0145,2025-09-14,Digos City,Online Delivery,Chocolate Sundae,Dessert,3.0,41.16,123.48,9.88,113.6,53.22,Cash,Bundle Promo
+TXN0146,2025-06-10,Hagonoy,Walk-in,,Meals,1.0,157.31,157.31,15.73,141.58,77.91,Debit Card,Student Discount
+TXN0147,2025-03-29,Matanao,Online Delivery,BBQ Chicken Meal,Meals,2.0,193.38,386.76,0.0,386.76,247.36,Maya,None
+TXN0148,2025-09-26,Matanao,Walk-in,Chicken Tenders,Food,1.0,126.92,126.92,0.0,126.92,64.3,Cash,None
+TXN0149,2025-09-29,Matanao,Walk-in,Chocolate Sundae,Dessert,1.0,62.29,62.29,0.0,62.29,41.68,Cash,None
+TXN0150,2025-03-16,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,2.0,108.17,216.34,17.31,199.03,95.1,Maya,Bundle Promo
+TXN0151,2025-12-15,Bansalan,Walk-in,BBQ Chicken Meal,Meals,2.0,198.06,396.12,0.0,396.12,266.37,Maya,None
+TXN0152,2025-02-04,Padada,Walk-in,Soft Drink,Beverages,1.0,29.54,29.54,0.0,29.54,12.84,Debit Card,None
+TXN0153,2025-08-25,Digos City,Pickup,Soft Drink,Beverages,1.0,30.53,30.53,0.0,30.53,17.94,Maya,None
+TXN0154,2025-08-25,Padada,Pickup,BBQ Chicken Meal,Meals,2.0,184.43,368.86,18.44,350.42,198.05,GCash,Weekend Promo
+TXN0155,2025-06-14,Bansalan,Pickup,BBQ Chicken Meal,Meals,2.0,196.04,392.08,0.0,392.08,247.34,Cash,None
+TXN0156,2025-09-16,Padada,Walk-in,Fries,Sides,1.0,66.14,66.14,3.31,62.83,36.79,Debit Card,Weekend Promo
+TXN0157,2025-07-10,Bansalan,Walk-in,Cajun Rice Meal,Meals,1.0,145.47,145.47,11.64,133.83,63.08,Debit Card,Bundle Promo
+TXN0158,2025-02-18,Padada,Walk-in,Chocolate Sundae,Dessert,2.0,47.52,95.04,7.6,87.44,56.14,Debit Card,Bundle Promo
+TXN0159,2025-02-11,Hagonoy,Walk-in,BBQ Chicken Meal,Meals,2.0,193.17,386.34,0.0,386.34,228.16,Cash,None
+TXN0160,2025-06-08,Padada,Walk-in,Chocolate Sundae,Dessert,1.0,63.4,63.4,5.07,58.33,40.29,Maya,Bundle Promo
+TXN0161,2025-09-18,Hagonoy,Walk-in,Fettuccine Carbonara,Meals,1.0,140.62,140.62,7.03,133.59,71.55,GCash,Weekend Promo
+TXN0162,2025-03-12,Padada,Walk-in,Fries,Sides,1.0,72.15,72.15,0.0,72.15,44.76,Debit Card,None
+TXN0163,2025-11-13,Padada,Walk-in,Fries,Sides,2.0,41.79,83.58,0.0,83.58,50.16,Maya,None
+TXN0164,2025-01-23,Hagonoy,Walk-in,Iced Tea,Beverages,1.0,39.39,39.39,1.97,37.42,22.8,GCash,Weekend Promo
+TXN0165,2025-06-08,Hagonoy,Online Delivery,Soft Drink,Beverages,4.0,30.52,122.08,6.1,115.98,82.52,Maya,Weekend Promo
+TXN0166,2025-09-15,Bansalan,Walk-in,Chocolate Sundae,Dessert,1.0,43.86,43.86,0.0,43.86,25.32,Maya,None
+TXN0167,2025-07-10,Digos City,Walk-in,Chocolate Sundae,Dessert,4.0,60.34,241.36,24.14,217.22,109.2,Debit Card,Student Discount
+TXN0168,2025-08-19,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,1.0,52.12,52.12,2.61,49.51,24.9,Cash,Weekend Promo
+TXN0169,2025-08-01,Matanao,Walk-in,Chicken Burger,Food,1.0,109.94,109.94,0.0,109.94,48.51,Debit Card,None
+TXN0170,2025-02-20,Matanao,Pickup,Fettuccine Carbonara,Meals,3.0,128.63,385.89,0.0,385.89,245.32,Maya,None
+TXN0171,2025-08-18,Padada,Pickup,BBQ Chicken Meal,Meals,1.0,134.55,134.55,0.0,134.55,85.72,Maya,None
+TXN0172,2025-02-26,Padada,Online Delivery,Cajun Rice Meal,Meals,1.0,106.31,106.31,0.0,106.31,62.31,Cash,None
+TXN0173,2025-02-26,Matanao,Online Delivery,Soft Drink,Beverages,2.0,25.25,50.5,5.05,45.45,24.39,Maya,Student Discount
+TXN0174,2025-01-01,Padada,Online Delivery,BBQ Chicken Meal,Meals,1.0,168.95,168.95,0.0,168.95,100.31,Cash,None
+TXN0175,2025-09-27,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,3.0,55.62,166.86,0.0,166.86,90.48,Debit Card,None
+TXN0176,2025-01-09,Padada,Pickup,Fettuccine Carbonara,Meals,3.0,143.14,429.42,34.35,395.07,250.5,Debit Card,Bundle Promo
+TXN0177,2025-03-10,Hagonoy,Pickup,Chicken Burger,Food,1.0,107.96,107.96,10.8,97.16,68.65,Maya,Student Discount
+TXN0178,2025-11-20,Bansalan,Walk-in,Fries,Sides,3.0,37.78,113.34,9.07,104.27,61.09,Cash,Bundle Promo
+TXN0179,2025-04-13,Bansalan,Walk-in,Chicken Burger,Food,1.0,117.86,117.86,5.89,111.97,66.14,GCash,Weekend Promo
+TXN0180,2025-05-27,Bansalan,Online Delivery,Fettuccine Carbonara,Meals,3.0,122.35,367.05,36.71,330.34,180.23,Maya,Student Discount
+TXN0181,2025-08-14,Padada,Online Delivery,Iced Tea,Beverages,1.0,28.74,28.74,2.3,26.44,14.82,Cash,Bundle Promo
+TXN0182,2025-08-06,Digos City,Walk-in,Chicken Tenders,Food,1.0,188.56,188.56,0.0,188.56,93.6,Debit Card,None
+TXN0183,2025-12-05,Bansalan,Online Delivery,Cajun Rice Meal,Meals,1.0,135.16,135.16,0.0,135.16,81.01,Cash,None
+TXN0184,2025-06-30,Digos City,Pickup,BBQ Chicken Meal,Meals,5.0,148.22,741.1,37.05,704.05,493.91,Maya,Weekend Promo
+TXN0185,2025-07-06,Hagonoy,Walk-in,Chocolate Sundae,Dessert,4.0,43.8,175.2,0.0,175.2,112.24,GCash,None
+TXN0186,2025-02-04,Padada,Walk-in,Mac and Cheese,Sides,3.0,97.32,291.96,0.0,291.96,165.68,Maya,None
+TXN0187,2025-07-09,Bansalan,Pickup,Fettuccine Carbonara,Meals,1.0,124.38,124.38,0.0,124.38,64.11,Debit Card,None
+TXN0188,2025-05-08,Digos City,Online Delivery,Chicken Tenders,Food,1.0,115.74,115.74,11.57,104.17,76.1,Debit Card,Student Discount
+TXN0189,2025-12-27,Digos City,Walk-in,Soft Drink,Beverages,2.0,29.28,58.56,2.93,55.63,32.07,Cash,Weekend Promo
+TXN0190,2025-08-20,Bansalan,Pickup,Fries,Sides,4.0,54.58,218.32,0.0,218.32,130.4,Debit Card,None
+TXN0191,2025-12-30,Matanao,Online Delivery,Chicken Tenders,Food,2.0,125.13,250.26,0.0,250.26,115.36,GCash,None
+TXN0192,2025-03-04,Padada,Online Delivery,Mac and Cheese,Sides,3.0,90.84,272.52,27.25,245.27,140.03,Maya,Student Discount
+TXN0193,2025-10-10,Hagonoy,Pickup,Fries,Sides,2.0,38.79,77.58,0.0,77.58,52.75,Maya,None
+TXN0194,2025-07-29,Padada,Online Delivery,BBQ Chicken Meal,Meals,1.0,197.07,197.07,19.71,177.36,105.83,GCash,Student Discount
+TXN0195,2025-10-10,Digos City,Walk-in,BBQ Chicken Meal,Meals,1.0,196.64,196.64,0.0,196.64,129.15,GCash,None
+TXN0196,2025-06-05,Padada,Online Delivery,Fries,Sides,1.0,76.13,76.13,0.0,76.13,50.73,Cash,None
+TXN0197,2025-05-09,Padada,Walk-in,Mac and Cheese,Sides,2.0,106.54,213.08,0.0,213.08,106.27,GCash,None
+TXN0198,2025-10-31,Padada,Walk-in,BBQ Chicken Meal,Meals,1.0,175.11,175.11,14.01,161.1,101.1,Cash,Bundle Promo
+TXN0199,2025-02-11,Padada,Online Delivery,Chicken Burger,Food,4.0,132.18,528.72,0.0,528.72,251.04,Cash,None
+TXN0200,2025-09-12,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,1.0,67.7,67.7,6.77,60.93,42.6,Maya,Student Discount
+TXN0201,2025-02-07,Matanao,Online Delivery,Chicken Burger,Food,1.0,112.27,112.27,0.0,112.27,57.08,Debit Card,None
+TXN0202,2025-06-26,Hagonoy,Walk-in,Iced Tea,Beverages,1.0,32.41,32.41,3.24,29.17,16.3,Debit Card,Student Discount
+TXN0203,2025-08-19,Hagonoy,Walk-in,Mac and Cheese,Sides,1.0,81.53,81.53,4.08,77.45,52.56,GCash,Weekend Promo
+TXN0204,2025-06-17,Hagonoy,Online Delivery,BBQ Chicken Meal,Meals,2.0,142.29,284.58,0.0,284.58,193.22,Debit Card,None
+TXN0205,2025-09-12,Padada,Online Delivery,Chicken Burger,Food,1.0,111.02,111.02,0.0,111.02,53.58,Cash,None
+TXN0206,2025-01-26,Digos City,Online Delivery,Cajun Rice Meal,Meals,3.0,139.35,418.05,0.0,418.05,176.47,GCash,None
+TXN0207,2025-05-16,Matanao,Online Delivery,Fettuccine Carbonara,Meals,3.0,144.62,433.86,0.0,433.86,246.55,Debit Card,None
+TXN0208,2025-02-07,Padada,Walk-in,Iced Tea,Beverages,2.0,40.29,80.58,0.0,80.58,54.57,GCash,None
+TXN0209,2025-02-19,Matanao,Walk-in,Iced Tea,Beverages,1.0,44.74,44.74,4.47,40.27,23.04,Maya,Student Discount
+TXN0210,2025-09-14,Matanao,Pickup,Chicken Burger,Food,1.0,128.96,128.96,10.32,118.64,71.58,GCash,Bundle Promo
+TXN0211,2025-06-17,Padada,Online Delivery,BBQ Chicken Meal,Meals,1.0,156.51,156.51,15.65,140.86,100.02,Maya,Student Discount
+TXN0212,2025-12-29,Hagonoy,Pickup,BBQ Chicken Meal,Meals,,186.1,186.1,0.0,186.1,110.76,Debit Card,None
+TXN0213,2025-12-19,Padada,Pickup,Chicken Burger,Food,2.0,103.87,207.74,20.77,186.97,139.75,GCash,Student Discount
+TXN0214,2025-01-27,Hagonoy,Walk-in,BBQ Chicken Meal,Meals,2.0,165.7,331.4,26.51,304.89,205.93,GCash,Bundle Promo
+TXN0215,2025-01-17,Matanao,Online Delivery,BBQ Chicken Meal,Meals,4.0,136.69,546.76,0.0,546.76,274.23,GCash,None
+TXN0216,2025-07-30,Digos City,Pickup,Chocolate Sundae,Dessert,3.0,66.62,199.86,15.99,183.87,122.18,GCash,Bundle Promo
+TXN0217,2025-09-23,Matanao,Online Delivery,Mac and Cheese,Sides,2.0,128.91,257.82,0.0,257.82,133.54,Debit Card,None
+TXN0218,2025-10-07,Bansalan,Pickup,Fettuccine Carbonara,Meals,2.0,179.74,359.48,28.76,330.72,226.09,Maya,Bundle Promo
+TXN0219,2025-04-09,Bansalan,Pickup,Mac and Cheese,Sides,1.0,93.92,93.92,4.7,89.22,63.43,GCash,Weekend Promo
+TXN0220,2025-12-20,Bansalan,Walk-in,Soft Drink,Beverages,1.0,33.41,33.41,1.67,31.74,20.3,Maya,Weekend Promo
+TXN0221,2025-07-22,Digos City,Online Delivery,Fettuccine Carbonara,Meals,4.0,175.32,701.28,0.0,701.28,346.98,Maya,None
+TXN0222,2025-12-02,Padada,Pickup,Cajun Rice Meal,Meals,3.0,111.84,335.52,26.84,308.68,164.57,Debit Card,Bundle Promo
+TXN0223,2025-03-12,Padada,Walk-in,Chicken Tenders,Food,2.0,151.81,303.62,0.0,303.62,180.4,GCash,None
+TXN0224,2025-01-27,Digos City,Pickup,Chicken Tenders,Food,1.0,163.56,163.56,0.0,163.56,101.47,GCash,None
+TXN0225,2025-07-28,Digos City,Walk-in,Soft Drink,Beverages,2.0,27.99,55.98,2.8,53.18,28.19,GCash,Weekend Promo
+TXN0226,2025-10-01,Digos City,Online Delivery,Chicken Burger,Food,4.0,98.8,395.2,19.76,375.44,184.05,Maya,Weekend Promo
+TXN0227,2025-04-06,Bansalan,Online Delivery,Cajun Rice Meal,Meals,3.0,116.9,350.7,35.07,315.63,231.95,Maya,Student Discount
+TXN0228,2025-11-25,Bansalan,Walk-in,Chocolate Sundae,Dessert,2.0,65.68,131.36,0.0,131.36,72.39,Cash,None
+TXN0229,2025-06-19,Bansalan,Online Delivery,Fries,Sides,2.0,63.52,127.04,10.16,116.88,53.82,GCash,Bundle Promo
+TXN0230,2025-03-31,Digos City,Online Delivery,BBQ Chicken Meal,Meals,3.0,191.79,575.37,46.03,529.34,318.74,Cash,Bundle Promo
+TXN0231,2025-04-05,Bansalan,Online Delivery,Fries,Sides,2.0,35.3,70.6,0.0,70.6,37.85,Debit Card,None
+TXN0232,2025-10-26,Hagonoy,Online Delivery,BBQ Chicken Meal,Meals,2.0,154.17,308.34,0.0,308.34,183.04,GCash,None
+TXN0233,2025-07-27,Bansalan,Online Delivery,Chocolate Sundae,Dessert,5.0,62.1,310.5,24.84,285.66,181.97,GCash,Bundle Promo
+TXN0234,2025-04-23,Padada,Online Delivery,Fries,Sides,2.0,55.02,110.04,5.5,104.54,56.91,GCash,Weekend Promo
+TXN0235,2025-05-07,Digos City,Pickup,BBQ Chicken Meal,Meals,3.0,134.73,404.19,0.0,404.19,243.72,Cash,None
+TXN0236,2025-02-01,Padada,Online Delivery,Chocolate Sundae,Dessert,4.0,56.18,224.72,0.0,224.72,113.55,Cash,None
+TXN0237,2025-12-15,Digos City,Online Delivery,Mac and Cheese,Sides,2.0,103.44,206.88,10.34,196.54,110.85,GCash,Weekend Promo
+TXN0238,2025-09-20,Digos City,Online Delivery,Iced Tea,Beverages,1.0,36.18,36.18,2.89,33.29,18.09,Debit Card,Bundle Promo
+TXN0239,2025-01-02,Digos City,Walk-in,Mac and Cheese,Sides,2.0,81.26,162.52,0.0,162.52,70.95,Maya,None
+TXN0240,2025-01-17,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,1.0,145.14,145.14,11.61,133.53,97.88,Maya,Bundle Promo
+TXN0241,2025-08-18,Bansalan,Walk-in,Iced Tea,Beverages,1.0,38.65,38.65,3.09,35.56,21.65,GCash,Bundle Promo
+TXN0242,2025-10-03,Digos City,Online Delivery,Iced Tea,Beverages,2.0,39.56,79.12,0.0,79.12,33.3,Maya,None
+TXN0243,2025-12-11,Matanao,Online Delivery,Chocolate Sundae,Dessert,1.0,50.38,50.38,0.0,50.38,27.19,GCash,None
+TXN0244,2025-02-27,Digos City,Walk-in,Chicken Burger,Food,3.0,112.48,337.44,27.0,310.44,219.26,GCash,Bundle Promo
+TXN0245,2025-02-04,Matanao,Pickup,Chicken Tenders,Food,2.0,139.18,278.36,22.27,256.09,180.04,Cash,Bundle Promo
+TXN0246,2025-07-25,Padada,Online Delivery,Soft Drink,Beverages,1.0,28.26,28.26,2.26,26.0,12.28,GCash,Bundle Promo
+TXN0247,2025-10-22,Matanao,Pickup,Fettuccine Carbonara,Meals,2.0,173.08,346.16,27.69,318.47,166.71,GCash,Bundle Promo
+TXN0248,2025-07-31,Matanao,Pickup,Cajun Rice Meal,Meals,1.0,132.4,132.4,13.24,119.16,80.92,Maya,Student Discount
+TXN0249,2025-10-12,Bansalan,Pickup,Soft Drink,Beverages,1.0,39.12,39.12,3.13,35.99,24.42,Maya,Bundle Promo
+TXN0250,2025-07-29,Matanao,Online Delivery,Fries,Sides,1.0,43.09,43.09,4.31,38.78,20.8,GCash,Student Discount
+TXN0251,2025-08-26,Matanao,Online Delivery,Chicken Burger,Food,2.0,143.2,286.4,28.64,257.76,130.27,GCash,Student Discount
+TXN0252,2025-06-19,Matanao,Walk-in,Chicken Tenders,Food,4.0,175.24,700.96,0.0,700.96,426.46,Debit Card,None
+TXN0253,2025-07-13,Padada,Walk-in,BBQ Chicken Meal,Meals,2.0,142.17,284.34,22.75,261.59,172.97,Maya,Bundle Promo
+TXN0254,2025-04-17,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,182.63,182.63,0.0,182.63,85.73,Maya,None
+TXN0255,2025-05-05,Bansalan,Online Delivery,BBQ Chicken Meal,Meals,2.0,156.76,313.52,0.0,313.52,157.89,Maya,None
+TXN0256,2025-10-01,Hagonoy,Online Delivery,Fettuccine Carbonara,Meals,1.0,144.18,144.18,7.21,136.97,78.02,GCash,Weekend Promo
+TXN0257,2025-07-09,Bansalan,Pickup,Fettuccine Carbonara,Meals,1.0,158.38,158.38,0.0,158.38,72.53,Maya,None
+TXN0258,2025-06-01,Bansalan,Online Delivery,Fries,Sides,1.0,51.71,51.71,4.14,47.57,28.43,Maya,Bundle Promo
+TXN0259,2025-11-25,Padada,Online Delivery,Soft Drink,Beverages,1.0,35.99,35.99,0.0,35.99,16.43,GCash,None
+TXN0260,2025-10-05,Hagonoy,Walk-in,Chicken Burger,Food,2.0,141.93,283.86,22.71,261.15,175.63,GCash,Bundle Promo
+TXN0261,2025-02-04,Padada,Online Delivery,Fries,Sides,1.0,57.25,57.25,0.0,57.25,33.24,Maya,None
+TXN0262,2025-01-09,Padada,Online Delivery,Chicken Burger,Food,2.0,112.03,224.06,0.0,224.06,136.18,Cash,None
+TXN0263,2025-09-15,Matanao,Walk-in,Iced Tea,Beverages,3.0,43.2,129.6,0.0,129.6,57.68,GCash,None
+TXN0264,2025-11-14,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,1.0,49.63,49.63,3.97,45.66,21.86,GCash,Bundle Promo
+TXN0265,2025-12-23,Digos City,Walk-in,Mac and Cheese,Sides,1.0,120.4,120.4,0.0,120.4,81.61,Maya,None
+TXN0266,2025-07-14,Hagonoy,Online Delivery,Iced Tea,Beverages,2.0,26.12,52.24,0.0,52.24,24.27,Debit Card,None
+TXN0267,2025-10-17,Padada,Online Delivery,Chicken Tenders,Food,4.0,181.72,726.88,0.0,726.88,475.62,gcash,None
+TXN0268,2025-01-24,Matanao,Online Delivery,Chicken Tenders,Food,2.0,124.23,248.46,24.85,223.61,146.87,Cash,Student Discount
+TXN0269,2025-04-17,Bansalan,Walk-in,BBQ Chicken Meal,Meals,1.0,186.45,186.45,14.92,171.53,123.34,GCash,Bundle Promo
+TXN0270,2025-10-18,Digos City,Pickup,Iced Tea,Beverages,3.0,31.63,94.89,7.59,87.3,43.31,Debit Card,Bundle Promo
+TXN0271,2025-01-28,Padada,Online Delivery,Chicken Tenders,Food,1.0,174.48,174.48,0.0,174.48,108.17,Debit Card,None
+TXN0272,2025-01-16,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,3.0,126.03,378.09,0.0,378.09,213.16,GCash,None
+TXN0273,2025-12-15,Digos City,Walk-in,BBQ Chicken Meal,Meals,2.0,135.0,270.0,27.0,243.0,169.42,Debit Card,Student Discount
+TXN0274,2025-03-20,Digos City,Walk-in,Iced Tea,Beverages,2.0,37.68,75.36,6.03,69.33,37.86,Cash,Bundle Promo
+TXN0275,2025-06-07,Padada,Pickup,Soft Drink,Beverages,1.0,26.53,26.53,0.0,26.53,14.12,Maya,None
+TXN0276,2025-02-22,Hagonoy,Walk-in,Chicken Burger,Food,2.0,94.21,188.42,18.84,169.58,95.03,Debit Card,Student Discount
+TXN0277,2025-07-31,Matanao,Pickup,Iced Tea,Beverages,3.0,39.5,118.5,11.85,106.65,80.36,GCash,Student Discount
+TXN0278,2025-12-17,Matanao,Online Delivery,Iced Tea,Beverages,1.0,30.38,30.38,0.0,30.38,13.91,Debit Card,None
+TXN0279,2025-08-04,Hagonoy,Pickup,Cajun Rice Meal,Meals,2.0,103.62,207.24,0.0,207.24,100.33,GCash,None
+TXN0280,2025-08-23,Bansalan,Online Delivery,Chicken Tenders,Food,1.0,184.39,184.39,0.0,184.39,107.18,Debit Card,None
+TXN0281,2025-08-09,Matanao,Online Delivery,BBQ Chicken Meal,Meals,1.0,171.22,171.22,13.7,157.52,93.24,Debit Card,Bundle Promo
+TXN0282,2025-05-30,Hagonoy,Online Delivery,Soft Drink,Beverages,5.0,36.73,183.65,0.0,183.65,90.52,Cash,None
+TXN0283,2025-10-16,Hagonoy,Pickup,Mac and Cheese,Sides,2.0,106.28,212.56,17.0,195.56,119.68,GCash,Bundle Promo
+TXN0284,2025-08-13,Hagonoy,Walk-in,Cajun Rice Meal,Meals,3.0,103.15,309.45,24.76,284.69,193.94,Debit Card,Bundle Promo
+TXN0285,2025-05-04,Padada,Online Delivery,Cajun Rice Meal,Meals,3.0,124.39,373.17,0.0,373.17,200.3,Maya,None
+TXN0286,2025-10-01,Bansalan,Pickup,Chocolate Sundae,Dessert,4.0,65.09,260.36,0.0,260.36,111.84,Cash,None
+TXN0287,2025-02-25,Hagonoy,Online Delivery,Mac and Cheese,Sides,2.0,96.75,193.5,19.35,174.15,83.5,Maya,Student Discount
+TXN0288,2025-02-24,Padada,Walk-in,Chicken Burger,Food,1.0,101.43,101.43,8.11,93.32,57.32,Maya,Bundle Promo
+TXN0289,2025-07-11,Digos City,Online Delivery,Iced Tea,Beverages,1.0,38.59,38.59,3.09,35.5,17.72,Cash,Bundle Promo
+TXN0290,2025-06-01,Bansalan,Online Delivery,Iced Tea,Beverages,4.0,27.32,109.28,5.46,103.82,49.92,Maya,Weekend Promo
+TXN0291,2025-04-16,Bansalan,Walk-in,Chocolate Sundae,Dessert,2.0,53.28,106.56,0.0,106.56,64.06,Debit Card,None
+TXN0292,2025-01-23,Matanao,Pickup,Chicken Tenders,Food,1.0,129.88,129.88,0.0,129.88,81.57,GCash,None
+TXN0293,2025-10-10,Matanao,Walk-in,Fries,Sides,1.0,53.76,53.76,0.0,53.76,33.73,Maya,None
+TXN0294,2025-07-22,Digos City,Pickup,Chicken Burger,Food,2.0,138.45,276.9,0.0,276.9,147.22,GCash,None
+TXN0295,2025-04-16,Padada,Walk-in,Cajun Rice Meal,Meals,3.0,147.52,442.56,0.0,442.56,197.58,Debit Card,None
+TXN0296,2025-06-16,Bansalan,Pickup,Mac and Cheese,Sides,1.0,92.12,92.12,7.37,84.75,51.33,Maya,Bundle Promo
+TXN0297,2025-11-09,Bansalan,Pickup,Iced Tea,Beverages,2.0,32.04,64.08,0.0,64.08,29.79,Cash,None
+TXN0298,2025-12-11,Matanao,Pickup,Fries,Sides,1.0,45.5,45.5,0.0,45.5,23.53,Maya,None
+TXN0299,2025-08-03,Matanao,Pickup,BBQ Chicken Meal,Meals,1.0,158.61,158.61,15.86,142.75,88.78,GCash,Student Discount
+TXN0300,2025-09-08,Bansalan,Walk-in,Cajun Rice Meal,Meals,1.0,117.87,117.87,0.0,117.87,51.15,Maya,None
+TXN0301,2025-03-11,Hagonoy,Online Delivery,Mac and Cheese,Sides,3.0,127.19,381.57,38.16,343.41,209.36,Maya,Student Discount
+TXN0302,2025-09-08,Bansalan,Walk-in,Fries,Sides,1.0,36.36,36.36,2.91,33.45,18.03,Debit Card,Bundle Promo
+TXN0303,2025-03-28,Padada,Walk-in,Soft Drink,Beverages,2.0,36.59,73.18,7.32,65.86,40.45,Debit Card,Student Discount
+TXN0304,2025-10-06,Matanao,Online Delivery,Fettuccine Carbonara,Meals,2.0,171.98,343.96,27.52,316.44,183.93,Cash,Bundle Promo
+TXN0305,2025-12-01,Digos City,Online Delivery,Mac and Cheese,Sides,1.0,128.97,128.97,0.0,128.97,65.86,Cash,None
+TXN0306,2025-05-02,Hagonoy,Walk-in,Mac and Cheese,Sides,3.0,108.4,325.2,0.0,325.2,196.68,GCash,None
+TXN0307,2025-04-16,Matanao,Online Delivery,Mac and Cheese,Sides,3.0,107.5,322.5,32.25,290.25,185.5,Debit Card,Student Discount
+TXN0308,2025-05-29,Digos City,Walk-in,BBQ Chicken Meal,Meals,1.0,189.06,189.06,9.45,179.61,112.8,Maya,Weekend Promo
+TXN0309,2025-01-31,Bansalan,Walk-in,Cajun Rice Meal,Meals,3.0,106.61,319.83,25.59,294.24,155.09,Maya,Bundle Promo
+TXN0310,2025-09-08,Digos City,Online Delivery,Fries,Sides,2.0,46.82,93.64,0.0,93.64,50.33,Debit Card,None
+TXN0311,2025-12-22,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,153.16,153.16,15.32,137.84,98.93,Maya,Student Discount
+TXN0312,2025-11-22,Hagonoy,Online Delivery,Fettuccine Carbonara,Meals,4.0,146.84,587.36,29.37,557.99,372.66,Debit Card,Weekend Promo
+TXN0313,2025-05-26,Digos City,Walk-in,Fettuccine Carbonara,Meals,2.0,128.14,256.28,20.5,235.78,160.16,Cash,Bundle Promo
+TXN0314,2025-11-17,Hagonoy,Walk-in,Soft Drink,Beverages,1.0,38.94,38.94,0.0,38.94,20.98,GCash,None
+TXN0315,2025-11-29,Matanao,Walk-in,Cajun Rice Meal,Meals,1.0,104.6,104.6,0.0,104.6,46.17,Maya,None
+TXN0316,2025-11-17,Digos City,Walk-in,Cajun Rice Meal,Meals,2.0,144.31,288.62,0.0,288.62,128.06,GCash,None
+TXN0317,2025-09-02,Bansalan,Walk-in,Chicken Tenders,Food,1.0,119.36,119.36,9.55,109.81,50.42,Maya,Bundle Promo
+TXN0318,2025-12-22,Digos City,Online Delivery,Fries,Sides,2.0,45.07,90.14,0.0,90.14,56.75,Debit Card,None
+TXN0319,2025-06-03,Matanao,Walk-in,Fries,Sides,1.0,70.79,70.79,5.66,65.13,41.54,Cash,Bundle Promo
+TXN0320,2025-11-09,Padada,Pickup,Fries,Sides,2.0,44.37,88.74,7.1,81.64,58.49,Maya,Bundle Promo
+TXN0321,2025-04-22,Bansalan,Online Delivery,Chicken Tenders,Food,4.0,111.6,446.4,0.0,446.4,272.22,Debit Card,None
+TXN0322,2025-03-13,Padada,Online Delivery,Mac and Cheese,Sides,1.0,83.21,83.21,8.32,74.89,47.93,Cash,Student Discount
+TXN0323,2025-12-04,Digos City,,Cajun Rice Meal,Meals,1.0,135.42,135.42,0.0,135.42,70.67,Maya,None
+TXN0324,2025-07-17,Digos City,Online Delivery,Chicken Tenders,Food,1.0,156.43,156.43,0.0,156.43,101.85,Debit Card,None
+TXN0325,2025-03-09,Hagonoy,Walk-in,Iced Tea,Beverages,4.0,33.42,133.68,13.37,120.31,62.15,Cash,Student Discount
+TXN0326,2025-10-28,Hagonoy,Pickup,Chicken Tenders,Food,1.0,118.42,118.42,5.92,112.5,78.95,Debit Card,Weekend Promo
+TXN0327,2025-11-18,Padada,Pickup,Chocolate Sundae,Dessert,3.0,51.71,155.13,0.0,155.13,90.99,GCash,None
+TXN0328,2025-05-23,Padada,Online Delivery,Chicken Tenders,Food,1.0,145.02,145.02,0.0,145.02,91.38,Maya,None
+TXN0329,2025-10-28,Matanao,Walk-in,Chicken Tenders,Food,1.0,138.37,138.37,6.92,131.45,66.7,Maya,Weekend Promo
+TXN0330,2025-03-01,Digos City,Walk-in,Soft Drink,Beverages,2.0,29.64,59.28,4.74,54.54,36.31,GCash,Bundle Promo
+TXN0331,2025-12-26,Bansalan,Walk-in,Chicken Burger,Food,1.0,142.37,142.37,14.24,128.13,88.78,Debit Card,Student Discount
+TXN0332,2025-03-06,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,2.0,106.08,212.16,10.61,201.55,107.59,Cash,Weekend Promo
+TXN0333,2025-05-15,Padada,Walk-in,BBQ Chicken Meal,Meals,2.0,163.73,327.46,32.75,294.71,142.25,Debit Card,Student Discount
+TXN0334,2025-03-22,Digos City,Walk-in,Cajun Rice Meal,Meals,4.0,139.45,557.8,0.0,557.8,341.71,Cash,None
+TXN0335,2025-05-06,Digos City,Pickup,Chicken Burger,Food,2.0,110.45,220.9,0.0,220.9,146.26,Maya,None
+TXN0336,2025-04-25,Padada,Online Delivery,Fettuccine Carbonara,Meals,1.0,183.11,183.11,0.0,183.11,116.23,Cash,None
+TXN0337,2025-09-15,Digos City,Online Delivery,Chicken Burger,Food,1.0,134.04,134.04,6.7,127.34,89.55,Debit Card,Weekend Promo
+TXN0338,2025-06-09,Bansalan,Pickup,Fettuccine Carbonara,Meals,1.0,150.97,150.97,0.0,150.97,74.85,GCash,None
+TXN0339,2025-08-26,Padada,Walk-in,Fettuccine Carbonara,Meals,2.0,153.54,307.08,24.57,282.51,144.58,GCash,Bundle Promo
+TXN0340,2025-01-04,Bansalan,Walk-in,Iced Tea,Beverages,2.0,31.93,63.86,5.11,58.75,41.39,Maya,Bundle Promo
+TXN0341,2025-06-07,Matanao,Pickup,Chicken Tenders,Food,1.0,136.78,136.78,6.84,129.94,92.03,Debit Card,Weekend Promo
+TXN0342,2025-02-17,Bansalan,Online Delivery,Chicken Burger,Food,4.0,139.25,557.0,55.7,501.3,335.44,Cash,Student Discount
+TXN0343,2025-10-25,Hagonoy,Pickup,Chicken Tenders,Food,3.0,172.8,518.4,0.0,518.4,294.26,GCash,None
+TXN0344,2025-05-02,Bansalan,Online Delivery,Cajun Rice Meal,Meals,1.0,117.9,117.9,9.43,108.47,71.0,Maya,Bundle Promo
+TXN0345,2025-05-20,Matanao,Walk-in,Mac and Cheese,Sides,1.0,89.14,89.14,7.13,82.01,50.99,GCash,Bundle Promo
+TXN0346,2025-08-19,Hagonoy,Online Delivery,Soft Drink,Beverages,1.0,26.81,26.81,0.0,26.81,16.63,Maya,None
+TXN0347,2025-05-16,Padada,Walk-in,Chicken Tenders,Food,1.0,171.68,171.68,0.0,171.68,103.56,GCash,None
+TXN0348,2025-06-17,Bansalan,Online Delivery,Fries,Sides,1.0,45.92,45.92,0.0,45.92,25.42,GCash,None
+TXN0349,2025-01-16,Digos City,Walk-in,Iced Tea,Beverages,3.0,36.12,108.36,10.84,97.52,48.18,Cash,Student Discount
+TXN0350,2025-01-07,Bansalan,Pickup,Chicken Burger,Food,3.0,144.02,432.06,0.0,432.06,273.99,Cash,None
+TXN0351,2025-10-26,Hagonoy,Walk-in,BBQ Chicken Meal,Meals,1.0,130.53,130.53,0.0,130.53,85.45,Cash,None
+TXN0352,2025-06-19,Hagonoy,Online Delivery,Chicken Tenders,Food,1.0,140.49,140.49,0.0,140.49,79.97,Cash,None
+TXN0353,2025-07-15,Matanao,Walk-in,Iced Tea,Beverages,1.0,29.29,29.29,0.0,29.29,14.43,GCash,None
+TXN0354,2025-11-28,Hagonoy,Walk-in,Cajun Rice Meal,Meals,2.0,151.97,303.94,0.0,303.94,134.59,Maya,None
+TXN0355,2025-04-13,Bansalan,Online Delivery,Chocolate Sundae,Dessert,2.0,62.85,125.7,6.29,119.41,78.35,Maya,Weekend Promo
+TXN0356,2025-06-26,Matanao,Walk-in,BBQ Chicken Meal,Meals,2.0,156.19,312.38,0.0,312.38,157.1,Debit Card,None
+TXN0357,2025-01-30,Digos City,Walk-in,Soft Drink,Beverages,2.0,36.5,73.0,3.65,69.35,49.15,GCash,Weekend Promo
+TXN0358,2025-05-17,Hagonoy,Online Delivery,Chocolate Sundae,Dessert,4.0,40.68,162.72,8.14,154.58,77.63,GCash,Weekend Promo
+TXN0359,2025-04-01,Digos City,Pickup,Mac and Cheese,Sides,2.0,119.31,238.62,19.09,219.53,156.92,Debit Card,Bundle Promo
+TXN0360,2025-10-18,Padada,Online Delivery,BBQ Chicken Meal,Meals,1.0,187.57,187.57,15.01,172.56,126.1,GCash,Bundle Promo
+TXN0361,2025-09-09,Digos City,Online Delivery,Chicken Burger,Food,1.0,102.03,102.03,0.0,102.03,56.82,GCash,None
+TXN0362,2025-03-08,Matanao,Walk-in,Fettuccine Carbonara,Meals,2.0,123.17,246.34,0.0,246.34,148.6,Debit Card,None
+TXN0363,2025-02-07,Bansalan,Walk-in,Fettuccine Carbonara,Meals,2.0,165.35,330.7,33.07,297.63,167.83,GCash,Student Discount
+TXN0364,2025-08-12,Padada,Online Delivery,Soft Drink,Beverages,2.0,27.61,55.22,2.76,52.46,33.15,GCash,Weekend Promo
+TXN0365,2025-12-07,Digos City,Pickup,BBQ Chicken Meal,Meals,3.0,150.48,451.44,36.12,415.32,204.55,Maya,Bundle Promo
+TXN0366,2025-10-18,Padada,Walk-in,Chicken Burger,Food,1.0,140.58,140.58,7.03,133.55,67.12,Maya,Weekend Promo
+TXN0367,2025-03-14,Digos City,Pickup,Fettuccine Carbonara,Meals,3.0,135.66,406.98,20.35,386.63,188.7,Debit Card,Weekend Promo
+TXN0368,2025-08-17,Digos City,Walk-in,Chicken Burger,Food,1.0,127.82,127.82,0.0,127.82,79.84,Maya,None
+TXN0369,2025-08-13,Padada,Online Delivery,Iced Tea,Beverages,5.0,42.69,213.45,21.34,192.11,110.67,Cash,Student Discount
+TXN0370,2025-09-03,Digos City,Online Delivery,BBQ Chicken Meal,Meals,2.0,177.1,354.2,0.0,354.2,155.55,Cash,None
+TXN0371,2025-06-13,Digos City,Pickup,Cajun Rice Meal,Meals,4.0,103.45,413.8,0.0,413.8,214.19,Cash,None
+TXN0372,2025-06-23,Matanao,Pickup,BBQ Chicken Meal,beverages ,5.0,191.53,957.65,76.61,881.04,509.61,Maya,Bundle Promo
+TXN0373,2025-03-22,Padada,Online Delivery,Chicken Burger,Food,1.0,143.57,143.57,0.0,143.57,80.98,Debit Card,None
+TXN0374,2025-06-02,Digos City,Online Delivery,Mac and Cheese,Sides,1.0,98.65,98.65,9.87,88.78,54.03,Cash,Student Discount
+TXN0375,2025-08-07,Digos City,Walk-in,Chicken Tenders,Food,1.0,158.58,158.58,15.86,142.72,74.84,GCash,Student Discount
+TXN0376,2025-11-23,Hagonoy,Pickup,Cajun Rice Meal,Meals,5.0,149.63,748.15,0.0,748.15,391.54,Debit Card,None
+TXN0377,2025-02-16,Bansalan,Online Delivery,Chocolate Sundae,Dessert,1.0,65.56,65.56,0.0,65.56,35.13,Maya,None
+TXN0378,2025-05-15,Digos City,Walk-in,Mac and Cheese,Sides,3.0,107.21,321.63,0.0,321.63,193.33,Debit Card,None
+TXN0379,2025-10-05,Padada,Online Delivery,Iced Tea,Beverages,6.0,29.55,177.3,0.0,177.3,92.31,Maya,None
+TXN0380,2025-10-21,Padada,Pickup,Mac and Cheese,Sides,2.0,82.95,165.9,8.29,157.61,100.49,GCash,Weekend Promo
+TXN0381,2025-03-03,Matanao,Walk-in,Soft Drink,Beverages,1.0,39.77,39.77,1.99,37.78,25.06,Maya,Weekend Promo
+TXN0382,2025-02-10,Bansalan,Pickup,Iced Tea,Beverages,1.0,41.45,41.45,0.0,41.45,23.82,Cash,None
+TXN0383,2025-02-14,Digos City,Pickup,Iced Tea,Beverages,2.0,36.04,72.08,5.77,66.31,40.01,Maya,Bundle Promo
+TXN0384,2025-02-27,Digos City,Walk-in,Iced Tea,Beverages,1.0,36.33,36.33,3.63,32.7,24.37,Cash,Student Discount
+TXN0385,2025-05-27,Padada,Pickup,Chocolate Sundae,Dessert,4.0,65.34,261.36,0.0,261.36,154.27,Maya,None
+TXN0386,2025-01-20,Digos City,Online Delivery,Fries,Sides,1.0,41.33,41.33,4.13,37.2,24.81,Debit Card,Student Discount
+TXN0387,2025-12-20,Bansalan,Online Delivery,Mac and Cheese,Sides,1.0,125.04,125.04,6.25,118.79,53.17,Debit Card,Weekend Promo
+TXN0388,2025-09-09,Bansalan,Online Delivery,Chicken Tenders,Food,5.0,119.52,597.6,0.0,597.6,366.55,Maya,None
+TXN0389,2025-11-06,Padada,Online Delivery,Chicken Tenders,Food,1.0,118.03,118.03,9.44,108.59,72.31,Cash,Bundle Promo
+TXN0390,2025-09-21,Padada,Walk-in,Fries,Sides,2.0,57.3,114.6,0.0,114.6,73.5,GCash,None
+TXN0391,2025-04-09,Matanao,Online Delivery,Mac and Cheese,Sides,-2.0,91.47,274.41,0.0,274.41,180.75,Debit Card,None
+TXN0392,2025-08-26,Hagonoy,Pickup,Chocolate Sundae,Dessert,1.0,66.69,66.69,5.34,61.35,32.2,Maya,Bundle Promo
+TXN0393,2025-04-01,Digos City,Online Delivery,Soft Drink,Beverages,2.0,30.25,60.5,0.0,60.5,39.48,Cash,None
+TXN0394,2025-07-17,Matanao,Pickup,Chicken Burger,Food,1.0,121.05,121.05,6.05,115.0,77.82,GCash,Weekend Promo
+TXN0395,2025-05-18,Padada,Walk-in,Iced Tea,Beverages,3.0,25.18,75.54,3.78,71.76,44.44,GCash,Weekend Promo
+TXN0396,2025-05-10,Hagonoy,Online Delivery,BBQ Chicken Meal,Meals,3.0,178.89,536.67,42.93,493.74,263.83,Maya,Bundle Promo
+TXN0397,2025-05-10,Digos City,Pickup,Mac and Cheese,Sides,2.0,105.03,210.06,21.01,189.05,120.15,Debit Card,Student Discount
+TXN0398,2025-10-15,Bansalan,Pickup,BBQ Chicken Meal,Meals,2.0,149.89,299.78,0.0,299.78,130.88,Debit Card,None
+TXN0399,2025-05-22,Padada,Walk-in,Cajun Rice Meal,Meals,2.0,156.13,312.26,31.23,281.03,146.44,Cash,Student Discount
+TXN0400,2025-11-04,Bansalan,Online Delivery,Iced Tea,Beverages,2.0,38.62,77.24,6.18,71.06,45.6,Maya,Bundle Promo
+TXN0401,2025-07-27,Matanao,Pickup,Iced Tea,Beverages,3.0,39.16,117.48,11.75,105.73,55.14,Maya,Student Discount
+TXN0402,2025-12-10,Matanao,Online Delivery,Fettuccine Carbonara,Meals,2.0,178.18,356.36,28.51,327.85,230.88,Cash,Bundle Promo
+TXN0403,2025-08-30,Bansalan,Pickup,Fries,Sides,4.0,70.57,282.28,22.58,259.7,131.99,Cash,Bundle Promo
+TXN0404,2025-04-24,Bansalan,Online Delivery,Fettuccine Carbonara,Meals,1.0,180.0,180.0,0.0,180.0,117.1,Debit Card,None
+TXN0405,2025-08-26,Digos City,Online Delivery,Chicken Tenders,Food,2.0,176.98,353.96,35.4,318.56,235.57,GCash,Student Discount
+TXN0406,2025-09-14,Matanao,Walk-in,Chicken Tenders,Food,3.0,146.69,440.07,0.0,440.07,284.47,GCash,None
+TXN0407,2025-06-25,Matanao,Walk-in,Iced Tea,Beverages,5.0,42.86,214.3,10.72,203.58,97.99,Maya,Weekend Promo
+TXN0408,2025-06-20,Matanao,Pickup,Fries,Sides,1.0,,37.55,0.0,37.55,17.82,GCash,None
+TXN0409,2025-09-08,Hagonoy,Online Delivery,Chicken Tenders,Food,1.0,138.03,138.03,0.0,138.03,73.37,Cash,None
+TXN0410,2025-01-20,Padada,Walk-in,Chocolate Sundae,Dessert,1.0,50.19,50.19,0.0,50.19,25.28,Cash,None
+TXN0411,2025-12-13,Digos City,Online Delivery,Chicken Burger,Food,2.0,101.67,203.34,16.27,187.07,101.9,Debit Card,Bundle Promo
+TXN0412,2025-03-27,Padada,Pickup,Chicken Tenders,Food,3.0,125.84,377.52,0.0,377.52,230.0,Debit Card,None
+TXN0413,2025-08-11,Hagonoy,Walk-in,Fries,Sides,1.0,74.66,74.66,0.0,74.66,35.01,GCash,None
+TXN0414,2025-04-25,Digos City,Online Delivery,Fries,Sides,1.0,35.96,35.96,3.6,32.36,16.25,Debit Card,Student Discount
+TXN0415,2025-10-01,Digos City,Walk-in,BBQ Chicken Meal,Meals,1.0,198.63,198.63,15.89,182.74,117.18,Cash,Bundle Promo
+TXN0416,2025-08-02,Digos City,Online Delivery,Soft Drink,Beverages,2.0,28.79,57.58,4.61,52.97,27.26,Maya,Bundle Promo
+TXN0417,2025-12-05,Digos City,Pickup,Chicken Tenders,Food,2.0,123.3,246.6,24.66,221.94,112.37,Cash,Student Discount
+TXN0418,2025-05-25,Padada,Walk-in,Chicken Tenders,Food,3.0,116.88,350.64,0.0,350.64,171.25,Debit Card,None
+TXN0419,2025-12-27,Hagonoy,Online Delivery,Iced Tea,Beverages,1.0,35.96,35.96,1.8,34.16,21.54,GCash,Weekend Promo
+TXN0420,2025-01-02,Matanao,Walk-in,Chicken Burger,Food,2.0,139.79,279.58,22.37,257.21,166.06,Cash,Bundle Promo
+TXN0421,2025-02-21,Digos City,Walk-in,Cajun Rice Meal,Meals,2.0,126.41,252.82,12.64,240.18,123.55,GCash,Weekend Promo
+TXN0422,2025-01-21,Digos City,Walk-in,Cajun Rice Meal,Meals,1.0,139.61,139.61,0.0,139.61,62.84,GCash,None
+TXN0423,2025-12-06,Bansalan,Online Delivery,Fries,Sides,1.0,77.02,77.02,0.0,77.02,47.03,GCash,None
+TXN0424,2025-02-28,Hagonoy,Online Delivery,Iced Tea,Beverages,0.0,34.13,34.13,2.73,31.4,20.46,GCash,Bundle Promo
+TXN0425,2025-02-27,Hagonoy,Pickup,Fries,Sides,2.0,37.58,75.16,3.76,71.4,34.68,Maya,Weekend Promo
+TXN0426,2025-10-19,Matanao,Online Delivery,Soft Drink,Beverages,1.0,36.69,36.69,3.67,33.02,23.64,Maya,Student Discount
+TXN0427,2025-02-27,Padada,Pickup,Iced Tea,Beverages,1.0,26.27,26.27,2.63,23.64,11.12,GCash,Student Discount
+TXN0428,2025-12-09,Matanao,Online Delivery,Fettuccine Carbonara,Meals,2.0,167.18,334.36,33.44,300.92,178.06,Debit Card,Student Discount
+TXN0429,2025-12-06,Matanao,Pickup,Iced Tea,Beverages,2.0,42.84,85.68,8.57,77.11,36.25,Maya,Student Discount
+TXN0430,2025-09-11,Digos City,Pickup,Fries,Sides,1.0,56.63,56.63,0.0,56.63,38.07,GCash,None
+TXN0431,2025-10-09,Hagonoy,Walk-in,Iced Tea,Beverages,1.0,29.7,29.7,0.0,29.7,18.66,Maya,None
+TXN0432,2025-08-17,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,171.17,171.17,0.0,171.17,89.85,Cash,None
+TXN0433,2025-02-16,Hagonoy,Online Delivery,BBQ Chicken Meal,Meals,6.0,150.32,901.92,90.19,811.73,427.31,Debit Card,Student Discount
+TXN0434,2025-01-28,Bansalan,Pickup,Mac and Cheese,Sides,3.0,95.6,286.8,22.94,263.86,165.19,Maya,Bundle Promo
+TXN0435,2025-02-28,Bansalan,Pickup,Chicken Tenders,Food,3.0,118.96,356.88,0.0,356.88,226.89,Debit Card,None
+TXN0436,2025-12-26,Hagonoy,Walk-in,Chicken Tenders,Food,1.0,113.77,113.77,0.0,113.77,68.99,Debit Card,None
+TXN0437,2025-11-09,Bansalan,Walk-in,Mac and Cheese,Sides,1.0,89.78,89.78,7.18,82.6,42.16,Maya,Bundle Promo
+TXN0438,2025-01-24,Padada,Walk-in,BBQ Chicken Meal,Meals,1.0,191.42,191.42,0.0,191.42,109.73,Maya,None
+TXN0439,2025-01-03,Padada,Walk-in,Chocolate Sundae,Dessert,2.0,55.6,111.2,0.0,111.2,63.62,GCash,None
+TXN0440,2025-03-07,Hagonoy,Online Delivery,Chicken Tenders,Food,1.0,153.05,153.05,7.65,145.4,84.34,GCash,Weekend Promo
+TXN0441,2025-05-21,Hagonoy,Pickup,Iced Tea,Beverages,5.0,44.41,222.05,0.0,222.05,100.96,Debit Card,None
+TXN0442,2025-12-26,Matanao,Walk-in,Chocolate Sundae,Dessert,3.0,60.36,181.08,9.05,172.03,105.84,Debit Card,Weekend Promo
+TXN0443,2025-12-18,Matanao,Pickup,Fettuccine Carbonara,Meals,4.0,128.29,513.16,41.05,472.11,345.64,Debit Card,Bundle Promo
+TXN0444,2025-12-30,Hagonoy,Pickup,Chicken Tenders,Food,3.0,149.61,448.83,44.88,403.95,298.51,Debit Card,Student Discount
+TXN0445,2025-08-05,Matanao,Online Delivery,Chicken Burger,Food,2.0,90.42,180.84,0.0,180.84,107.47,GCash,None
+TXN0446,2025-05-27,Padada,Walk-in,Cajun Rice Meal,Meals,1.0,102.72,102.72,8.22,94.5,48.59,Debit Card,Bundle Promo
+TXN0447,2025-08-20,Padada,Online Delivery,Chicken Tenders,Food,2.0,159.8,319.6,31.96,287.64,152.87,GCash,Student Discount
+TXN0448,2025-09-19,Bansalan,Pickup,Cajun Rice Meal,Meals,2.0,101.82,203.64,0.0,203.64,107.58,Cash,None
+TXN0449,2025-01-07,Matanao,Pickup,Cajun Rice Meal,Meals,1.0,151.13,151.13,12.09,139.04,80.88,Debit Card,Bundle Promo
+TXN0450,2025-10-29,Hagonoy,Walk-in,Chocolate Sundae,Dessert,2.0,44.89,89.78,7.18,82.6,42.22,Cash,Bundle Promo
+TXN0451,2025-04-06,Matanao,Walk-in,Fries,Sides,2.0,51.6,103.2,0.0,103.2,58.28,Debit Card,None
+TXN0452,2025-01-03,Padada,Walk-in,Fettuccine Carbonara,Meals,1.0,184.62,184.62,0.0,184.62,122.12,Debit Card,None
+TXN0453,2025-09-09,Matanao,Pickup,BBQ Chicken Meal,Meals,2.0,134.1,268.2,21.46,246.74,149.28,Cash,Bundle Promo
+TXN0454,2025-09-16,Matanao,Pickup,Fries,Sides,1.0,58.63,58.63,0.0,58.63,28.0,Debit Card,None
+TXN0455,2025-06-19,Padada,Pickup,Fettuccine Carbonara,Meals,1.0,185.52,185.52,18.55,166.97,100.82,Cash,Student Discount
+TXN0456,2025-02-28,Digos City,Pickup,Fettuccine Carbonara,Meals,1.0,9999.0,9999.0,18.23,9980.77,106.01,Debit Card,Student Discount
+TXN0457,2025-07-15,Bansalan,Pickup,Chicken Tenders,Food,1.0,147.62,147.62,0.0,147.62,96.98,Maya,None
+TXN0458,2025-09-07,Matanao,Pickup,Chicken Burger,Food,2.0,99.78,199.56,19.96,179.6,133.01,Cash,Student Discount
+TXN0459,2025-11-17,Digos City,Walk-in,Chicken Tenders,Food,1.0,155.66,155.66,0.0,155.66,93.12,Maya,None
+TXN0460,2025-11-28,Digos City,Walk-in,Chicken Tenders,Food,3.0,112.84,338.52,0.0,338.52,171.37,Cash,None
+TXN0461,2025-04-02,Hagonoy,Online Delivery,Cajun Rice Meal,Meals,2.0,133.5,267.0,0.0,267.0,130.1,Maya,None
+TXN0462,2025-08-10,Digos City,Pickup,Fettuccine Carbonara,Meals,2.0,127.28,254.56,0.0,254.56,154.59,Cash,None
+TXN0463,2025-12-25,Padada,Walk-in,Chicken Tenders,Food,1.0,144.26,144.26,0.0,144.26,86.31,Debit Card,None
+TXN0464,2025-08-13,Matanao,Pickup,Iced Tea,Beverages,1.0,38.21,38.21,0.0,38.21,21.35,Maya,None
+TXN0465,2025-10-07,Bansalan,Walk-in,Cajun Rice Meal,Meals,5.0,107.64,538.2,43.06,495.14,353.97,GCash,Bundle Promo
+TXN0466,2025-03-05,Bansalan,Walk-in,Chicken Burger,Food,1.0,122.41,122.41,12.24,110.17,81.55,Debit Card,Student Discount
+TXN0467,2025-04-19,Bansalan,Walk-in,Iced Tea,Beverages,5.0,27.85,139.25,0.0,139.25,80.82,Cash,None
+TXN0468,2025-04-03,Hagonoy,Pickup,BBQ Chicken Meal,Meals,3.0,188.6,565.8,28.29,537.51,383.91,Cash,Weekend Promo
+TXN0469,2025-05-29,Bansalan,Walk-in,Chicken Tenders,Food,1.0,116.77,116.77,11.68,105.09,77.93,GCash,Student Discount
+TXN0470,2025-02-21,Padada,Pickup,Cajun Rice Meal,Meals,2.0,153.01,306.02,0.0,306.02,164.38,Debit Card,None
+TXN0471,2025-12-22,Matanao,Walk-in,BBQ Chicken Meal,Meals,1.0,168.68,168.68,13.49,155.19,112.89,Debit Card,Bundle Promo
+TXN0472,2025-05-07,Bansalan,Online Delivery,Mac and Cheese,Sides,2.0,111.04,222.08,0.0,222.08,114.03,Maya,None
+TXN0473,2025-08-17,Bansalan,Walk-in,Fettuccine Carbonara,Meals,3.0,157.62,472.86,0.0,472.86,273.18,GCash,None
+TXN0474,2025-05-15,Padada,Pickup,Chicken Tenders,Food,2.0,179.29,358.58,28.69,329.89,209.49,Maya,Bundle Promo
+TXN0475,2025-10-30,Hagonoy,Pickup,Mac and Cheese,Sides,4.0,106.58,426.32,42.63,383.69,289.76,GCash,Student Discount
+TXN0476,2025-07-07,Hagonoy,Pickup,Iced Tea,Beverages,1.0,40.44,40.44,3.24,37.2,20.04,Cash,Bundle Promo
+TXN0477,2025-07-23,Padada,Pickup,Fettuccine Carbonara,Meals,2.0,165.39,330.78,26.46,304.32,208.29,GCash,Bundle Promo
+TXN0478,2025-09-21,Matanao,Pickup,Fries,Sides,1.0,59.92,59.92,5.99,53.93,38.75,Maya,Student Discount
+TXN0479,2025-07-03,Digos City,Pickup,Chicken Burger,Food,1.0,116.31,116.31,0.0,116.31,60.02,GCash,None
+TXN0480,2025-09-23,Bansalan,Walk-in,Fettuccine Carbonara,Meals,1.0,183.25,183.25,9.16,174.09,78.87,Debit Card,Weekend Promo
+TXN0481,2025-05-15,Digos City,Pickup,BBQ Chicken Meal,Meals,2.0,141.17,282.34,28.23,254.11,145.4,Debit Card,Student Discount
+TXN0482,2025-07-12,Padada,Walk-in,Mac and Cheese,Sides,2.0,119.86,239.72,0.0,239.72,150.09,GCash,None
+TXN0483,2025-08-14,Matanao,Online Delivery,Fries,Sides,1.0,57.64,57.64,0.0,57.64,26.46,Cash,None
+TXN0484,2025-12-05,Hagonoy,Walk-in,Mac and Cheese,Sides,1.0,95.51,95.51,0.0,95.51,56.88,GCash,None
+TXN0485,2025-11-28,Padada,Walk-in,Iced Tea,Beverages,1.0,25.86,25.86,2.59,23.27,11.94,GCash,Student Discount
+TXN0486,2025-01-29,Padada,Pickup,Fries,Sides,1.0,42.92,42.92,2.15,40.77,24.71,Cash,Weekend Promo
+TXN0487,2025-12-05,Hagonoy,Walk-in,Cajun Rice Meal,Meals,4.0,112.0,448.0,44.8,403.2,243.07,GCash,Student Discount
+TXN0488,2025-07-30,Padada,Online Delivery,BBQ Chicken Meal,Meals,1.0,169.79,169.79,13.58,156.21,98.82,GCash,Bundle Promo
+TXN0489,2025-12-18,Matanao,Walk-in,Fettuccine Carbonara,Meals,4.0,160.76,643.04,0.0,643.04,333.31,Cash,None
+TXN0490,2025-04-14,Digos City,Walk-in,Chocolate Sundae,Dessert,3.0,54.13,162.39,0.0,162.39,74.52,Maya,None
+TXN0491,2025-11-11,Hagonoy,Pickup,BBQ Chicken Meal,Meals,1.0,183.87,183.87,18.39,165.48,82.84,GCash,Student Discount
+TXN0492,2025-11-05,Padada,Online Delivery,Chocolate Sundae,Dessert,3.0,65.91,197.73,15.82,181.91,116.42,Debit Card,Bundle Promo
+TXN0493,2025-01-23,Bansalan,Pickup,Chocolate Sundae,Dessert,1.0,67.15,67.15,6.72,60.43,41.62,Cash,Student Discount
+TXN0494,2025-08-06,Padada,Pickup,Fries,Sides,1.0,68.7,68.7,3.44,65.26,30.35,Maya,Weekend Promo
+TXN0495,2025-05-12,Padada,Walk-in,Mac and Cheese,Sides,1.0,116.18,116.18,0.0,116.18,64.58,Maya,None
+TXN0496,2025-12-02,Padada,Online Delivery,Mac and Cheese,Sides,2.0,94.8,189.6,0.0,189.6,87.26,Debit Card,None
+TXN0497,2025-10-02,Matanao,Online Delivery,Iced Tea,Beverages,2.0,37.24,74.48,3.72,70.76,38.98,Maya,Weekend Promo
+TXN0498,2025-04-02,Hagonoy,Pickup,Fettuccine Carbonara,Meals,2.0,152.86,305.72,15.29,290.43,174.32,GCash,Weekend Promo
+TXN0499,2025-12-04,Matanao,Pickup,Chicken Tenders,Food,3.0,139.19,417.57,33.41,384.16,192.95,Maya,Bundle Promo
+TXN0079,2025-08-29,Hagonoy,Walk-in,Soft Drink,Beverages,1.0,27.77,27.77,0.0,27.77,18.46,Cash,None
